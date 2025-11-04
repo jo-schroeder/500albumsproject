@@ -1,0 +1,501 @@
+#,Album,Artist(s),Major contributors,Artist,wikidata_qid,artist,release_date,album_art,genre
+1,What's Going On,Marvin Gaye,,Marvin Gaye,Q901648,Marvin Gaye,1971-05-21T00:00:00Z,,soul
+2,Pet Sounds,The Beach Boys,,The Beach Boys,Q212863,The Beach Boys,1966-05-16T00:00:00Z,,pop music
+3,Blue,Joni Mitchell,,Joni Mitchell,Q104854934,Oxygiene 23,1995-04-11T00:00:00Z,,
+4,Songs in the Key of Life,Stevie Wonder,,Stevie Wonder,Q845040,Stevie Wonder,1976-09-28T00:00:00Z,,rhythm and blues
+5,Abbey Road,The Beatles,Ritchie333,The Beatles,Q173643,The Beatles,1969-09-26T00:00:00Z,,rock music
+6,Nevermind,Nirvana,WesleyDodds,Nirvana,Q17444,Nirvana,1991-09-24T00:00:00Z,,grunge
+7,Rumours,Fleetwood Mac,Rafablu88,Fleetwood Mac,Q695405,Fleetwood Mac,1977-02-04T00:00:00Z,,soft rock
+8,Purple Rain,Princeandthe Revolution,,Princeandthe Revolution,Q253004,Prince and the Revolution,1984-06-25T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Purple%20Rain.png,rock and roll
+9,Blood on the Tracks,Bob Dylan,,Bob Dylan,Q300854,Bob Dylan,1975-01-17T00:00:00Z,,folk rock
+10,The Miseducation of Lauryn Hill,Lauryn Hill,isento,Lauryn Hill,Q945926,Lauryn Hill,1998-08-19T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Lauryn%20Hill%20-%20The%20Miseducation%20of%20Lauryn%20Hill%20logo.jpg,hip-hop
+11,Revolver,The Beatles,JG66,The Beatles,Q185121,The Beatles,1966-08-01T00:00:00Z,,rock and roll
+12,Thriller,Michael Jackson,"Realist2,The Elfoid,Tbhotch",Michael Jackson,Q44320,Michael Jackson,1982-11-30T00:00:00Z,,rock music
+13,I Never Loved a Man the Way I Love You,Aretha Franklin,,Aretha Franklin,Q595440,Aretha Franklin,1967-03-10T00:00:00Z,,soul
+14,Exile on Main St.,The Rolling Stones,,The Rolling Stones,Q217248,The Rolling Stones,1972-05-12T00:00:00Z,,rock and roll
+15,It Takes a Nation of Millions to Hold Us Back,Public Enemy,,Public Enemy,Q926127,Public Enemy,1988-06-30T00:00:00Z,,hip-hop
+16,London Calling,The Clash,pjoef,The Clash,Q19003,The Clash,1979-12-14T00:00:00Z,,punk rock
+17,My Beautiful Dark Twisted Fantasy,Kanye West,isento,Kanye West,Q547624,Kanye West,2010-11-22T00:00:00Z,,hip-hop
+18,Highway 61 Revisited,Bob Dylan,"Mick gold,Moisejp",Bob Dylan,Q217211,Bob Dylan,1965-08-30T00:00:00Z,,rock music
+19,To Pimp a Butterfly,Kendrick Lamar,,Kendrick Lamar,Q19602856,Kendrick Lamar,2015-03-15T00:00:00Z,,conscious hip-hop
+20,Kid A,Radiohead,"Popcornduff,electricController,DannyMusicEditor",Radiohead,Q220726,Radiohead,2000-10-02T00:00:00Z,,alternative rock
+21,Born to Run,Bruce Springsteen,zmbro,Bruce Springsteen,Q752366,Bruce Springsteen,1975-08-25T00:00:00Z,,rock and roll
+22,Ready to Die,The Notorious B.I.G.,isento,The Notorious B.I.G.,Q529999,The Notorious B.I.G.,1994-09-13T00:00:00Z,,gangsta rap
+23,The Velvet Underground & Nico,The Velvet Underground,"Chrissymad,Pele Merengue",The Velvet Underground,Q259667,Nico,1967-03-12T00:00:00Z,,proto-punk
+24,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,GabeMc,The Beatles,Q169226,The Beatles,1967-05-26T00:00:00Z,,baroque pop
+25,Tapestry,Carole King,,Carole King,Q411032,Carole King,1971-02-10T00:00:00Z,,pop music
+26,Horses,Patti Smith,Holiday56,Patti Smith,Q774927,Patricia Lee Smith,1975-12-13T00:00:00Z,,punk rock
+27,Enter the Wu-Tang,Wu-Tang Clan,,Wu-Tang Clan,,,,,
+28,Voodoo,D'Angelo,isento,D'Angelo,Q636196,Alexz Johnson,2010-01-01T00:00:00Z,,alternative rock
+29,The Beatles,The Beatles,"Ritchie333,JG66",The Beatles,Q3295515,The Beatles,1968-11-22T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/The%20White%20Album.svg,rock music
+30,Are You Experienced,The Jimi Hendrix Experience,GabeMc,The Jimi Hendrix Experience,Q640397,The Jimi Hendrix Experience,1967-05-12T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Are%20You%20Experienced%20-%20US%20cover.jpg,hard rock
+31,Kind of Blue,Miles Davis,isento,Miles Davis,Q283221,Miles Davis,1959-08-17T00:00:00Z,,jazz
+32,Lemonade,BeyoncÃ©,,BeyoncÃ©,Q6521372,G. Love,2006-01-01T00:00:00Z,,alternative hip-hop
+33,Back to Black,Amy Winehouse,AppleWormBoy,Amy Winehouse,Q156670,Amy Winehouse,2006-10-27T00:00:00Z,,rhythm and blues
+34,Innervisions,Stevie Wonder,,Stevie Wonder,Q1049169,Stevie Wonder,1973-08-03T00:00:00Z,,jazz
+35,Rubber Soul,The Beatles,,The Beatles,Q190640,The Beatles,1965-12-03T00:00:00Z,,rock and roll
+36,Off the Wall,Michael Jackson,Realist2,Michael Jackson,Q44289,Michael Jackson,1979-08-10T00:00:00Z,,pop music
+37,The Chronic,Dr. Dre,isento,Dr. Dre,Q749154,Dr. Dre,1992-12-15T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Dr.-Dre-The-Chronic.png,gangsta rap
+38,Blonde on Blonde,Bob Dylan,"Mick gold,Moisejp",Bob Dylan,Q598116,Bob Dylan,1966-06-20T00:00:00Z,,folk rock
+39,Remain in Light,Talking Heads,Rafablu88,Talking Heads,Q843416,Talking Heads,1980-10-08T00:00:00Z,,funk
+40,The Rise and Fall of Ziggy Stardust and the Spiders from Mars,David Bowie,zmbro,David Bowie,Q682846,David Bowie,1972-06-06T00:00:00Z,,rock music
+41,Let It Bleed,The Rolling Stones,,The Rolling Stones,Q379339,The Rolling Stones,1969-12-05T00:00:00Z,,hard rock
+42,OK Computer,Radiohead,"blz 2049,Popcornduff",Radiohead,Q202996,Radiohead,1997-05-21T00:00:00Z,,alternative rock
+43,The Low End Theory,A Tribe Called Quest,,A Tribe Called Quest,Q1090876,A Tribe Called Quest,1991-09-24T00:00:00Z,,jazz rap
+44,Illmatic,Nas,"isento,Chubdub",Nas,Q847541,Nas,1994-04-19T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Nas%20-%20Illmatic%20%28Side%20A%29.jpg,East Coast hip-hop
+45,Sign o' the Times,Prince,,Prince,,,,,
+46,Graceland,Paul Simon,,Paul Simon,Q1027822,Paul Simon,1986-08-25T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Graceland%20cover%20-%20Paul%20Simon.jpg,rock music
+47,Ramones,Ramones,CrowzRSA,Ramones,Q176284,Ramones,1976-04-23T00:00:00Z,,punk rock
+48,Exodus,Bob Marley and the Wailers,,Bob Marley and the Wailers,Q913633,Bob Marley & The Wailers,1977-06-03T00:00:00Z,,reggae
+49,Aquemini,Outkast,"Basilisk4u,DepressedPer",Outkast,Q623242,OutKast,1998-09-28T00:00:00Z,,hip-hop
+50,The Blueprint,Jay-Z,,Jay-Z,Q1088473,Jay-Z,2001-09-11T00:00:00Z,,hip-hop
+51,The Great Twenty-Eight,Chuck Berry,,Chuck Berry,Q775877,Chuck Berry,1982-01-01T00:00:00Z,,rock and roll
+52,Station to Station,David Bowie,Ian Rose,David Bowie,Q831890,David Bowie,1976-01-23T00:00:00Z,,rock music
+53,Electric Ladyland,The Jimi Hendrix Experience,,The Jimi Hendrix Experience,Q524415,The Jimi Hendrix Experience,1968-10-16T00:00:00Z,,psychedelic rock
+54,Star Time,James Brown,,James Brown,Q613274,James Brown,1991-05-07T00:00:00Z,,soul
+55,The Dark Side of the Moon,Pink Floyd,Parrot of Doom,Pink Floyd,Q150901,Pink Floyd,1973-03-01T00:00:00Z,,progressive rock
+56,Exile in Guyville,Liz Phair,,Liz Phair,Q821216,Liz Phair,1993-01-01T00:00:00Z,,indie rock
+57,The Band,The Band,,The Band,Q926142,The Band,1969-09-22T00:00:00Z,,roots rock
+58,Led Zeppelin IV,Led Zeppelin,Ritchie333,Led Zeppelin,Q201940,Led Zeppelin,1971-11-08T00:00:00Z,,rock and roll
+59,Talking Book,Stevie Wonder,,Stevie Wonder,Q676192,Stevie Wonder,1972-10-28T00:00:00Z,,jazz
+60,Astral Weeks,Van Morrison,Agadant,Van Morrison,Q750452,Van Morrison,1968-11-01T00:00:00Z,,folk rock
+61,Paid in Full,Eric B. & Rakim,"Spellcast, isento",Eric B. & Rakim,Q1643785,Eric B. & Rakim,1987-07-07T00:00:00Z,,hip-hop
+62,Appetite for Destruction,Guns N' Roses,,Guns N' Roses,Q270690,Guns 'N Roses,1987-07-21T00:00:00Z,,hard rock
+63,Aja,Steely Dan,,Steely Dan,Q411814,Steely Dan,1977-09-23T00:00:00Z,,jazz fusion
+64,Stankonia,Outkast,"Basilisk4u, isento",Outkast,Q378166,OutKast,2000-01-01T00:00:00Z,,hip-hop
+65,Live at the Apollo,James Brown,,James Brown,Q898420,James Brown,1963-05-01T00:00:00Z,,soul
+66,A Love Supreme,John Coltrane,,John Coltrane,Q5106,John Coltrane,1965-02-01T00:00:00Z,,jazz
+67,Reasonable Doubt,Jay-Z,Noahdabomb3,Jay-Z,Q845329,Jay-Z,1996-06-25T00:00:00Z,,East Coast hip-hop
+68,Hounds of Love,Kate Bush,,Kate Bush,Q1055992,Kate Bush,1985-09-16T00:00:00Z,,alternative rock
+69,Jagged Little Pill,Alanis Morissette,,Alanis Morissette,Q750084,Alanis Morissette,1995-06-09T00:00:00Z,,alternative rock
+70,Straight Outta Compton,N.W.A,,N.W.A,Q644326,N.W.A.,1988-08-08T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/N.W.A-Straight-Outta-Compton.png,West Coast hip-hop
+71,Renaissance,BeyoncÃ©,,BeyoncÃ©,Q1109995,Marcus Miller,2012-01-01T00:00:00Z,,jazz fusion
+72,Harvest,Neil Young,,Neil Young,Q537983,Neil Young,1972-02-14T00:00:00Z,,folk rock
+73,Loveless,My Bloody Valentine,WesleyDodds,My Bloody Valentine,Q174163,My Bloody Valentine,1991-11-04T00:00:00Z,,alternative rock
+74,The College Dropout,Kanye West,"Bruce Campbell,Igordebraga",Kanye West,Q747526,Kanye West,2004-02-10T00:00:00Z,,hip-hop
+75,Lady Soul,Aretha Franklin,,Aretha Franklin,Q928442,Aretha Franklin,1968-01-22T00:00:00Z,,soul
+76,Super Fly,Curtis Mayfield,,Curtis Mayfield,,,,,
+77,Who's Next,The Who,Ritchie333,The Who,Q729387,The Who,1971-08-14T00:00:00Z,,hard rock
+78,The Sun Sessions,Elvis Presley,,Elvis Presley,Q1077777,Elvis Presley,1976-03-22T00:00:00Z,,rock and roll
+79,Blonde,Frank Ocean,,Frank Ocean,Q2906905,Guesch Patti,1995-05-15T00:00:00Z,,
+80,"Never Mind the Bollocks, Here's the Sex Pistols",Sex Pistols,,Sex Pistols,Q457275,Sex Pistols,1977-10-28T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Sex%20Pistols%20-%20Never%20Mind%20the%20Bollocks%2C%20Heres%20the%20Sex%20Pistols%20%281977%29.jpg,punk rock
+81,BeyoncÃ©,BeyoncÃ©,JennKR,BeyoncÃ©,,,,,
+82,There's a Riot Goin' On,Sly and the Family Stone,isento,Sly and the Family Stone,Q258003,Sly and the Family Stone,1971-11-20T00:00:00Z,,funk
+83,Dusty in Memphis,Dusty Springfield,,Dusty Springfield,Q723817,Dusty Springfield,1969-03-31T00:00:00Z,,pop music
+84,Back in Black,AC/DC,,AC/DC,Q155715,AC/DC,1980-07-25T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/ACDC%20Back%20in%20Black.png,heavy metal
+85,John Lennon/Plastic Ono Band,John Lennon,,John Lennon,Q603000,John Lennon,1970-12-11T00:00:00Z,,rock music
+86,The Doors,The Doors,,The Doors,Q201949,The Doors,1967-01-04T00:00:00Z,,acid rock
+87,Bitches Brew,Miles Davis,,Miles Davis,Q804096,Miles Davis,1970-03-30T00:00:00Z,,jazz fusion
+88,Hunky Dory,David Bowie,zmbro,David Bowie,Q755988,David Bowie,1971-12-17T00:00:00Z,,glam rock
+89,Baduizm,Erykah Badu,,Erykah Badu,Q2415000,Erykah Badu,1997-02-11T00:00:00Z,,neo soul
+90,After the Gold Rush,Neil Young,,Neil Young,Q264397,Neil Young,1970-08-31T00:00:00Z,,rock music
+91,Darkness on the Edge of Town,Bruce Springsteen,zmbro,Bruce Springsteen,Q902146,Bruce Springsteen,1978-06-02T00:00:00Z,,rock and roll
+92,Axis: Bold as Love,The Jimi Hendrix Experience,,The Jimi Hendrix Experience,Q616268,The Jimi Hendrix Experience,1967-12-01T00:00:00Z,,blues rock
+93,Supa Dupa Fly,Missy Elliott,,Missy Elliott,Q240228,Missy Elliott,1997-07-15T00:00:00Z,,hip-hop
+94,Fun House,The Stooges,,The Stooges,Q1004341,The Stooges,1970-12-01T00:00:00Z,,punk rock
+95,Take Care,Drake,,Drake,Q5104794,Drake,2011-11-15T00:00:00Z,,hip-hop
+96,Automatic for the People,R.E.M.,,R.E.M.,Q782550,R.E.M.,1992-10-07T00:00:00Z,,alternative rock
+97,Master of Puppets,Metallica,Retrohead,Metallica,Q187507,Metallica,1986-03-03T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Metallica%20%22Master%20of%20Puppets%22%20Mural%20Shoreditch%20London.%20%2824542456978%29.jpg,thrash metal
+98,Car Wheels on a Gravel Road,Lucinda Williams,,Lucinda Williams,Q858302,Lucinda Williams,1998-06-30T00:00:00Z,,folk rock
+99,Red,Taylor Swift,TheSandDoctor,Taylor Swift,Q135675572,,,,
+100,Music from Big Pink,The Band,,The Band,Q1063385,The Band,1968-07-01T00:00:00Z,,rock music
+101,Led Zeppelin,Led Zeppelin,Ritchie333,Led Zeppelin,Q131392,Led Zeppelin,1969-01-12T00:00:00Z,,hard rock
+102,The Clash,The Clash,,The Clash,Q775208,The Clash,1977-04-08T00:00:00Z,,punk rock
+103,3 Feet High and Rising,De La Soul,,De La Soul,Q1079807,De La Soul,1989-03-03T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/De%20La%20Soul%20-%203%20Feet%20High%20and%20Rising%20Cover.jpeg,hip-hop
+104,Sticky Fingers,The Rolling Stones,,The Rolling Stones,Q745850,The Rolling Stones,1971-04-23T00:00:00Z,,rock and roll
+105,At Fillmore East,The Allman Brothers Band,Saginaw-hitchhiker,The Allman Brothers Band,Q1087498,The Allman Brothers Band,1971-07-01T00:00:00Z,,blues
+106,Live Through This,Hole,,Hole,Q946807,Hole,1994-04-12T00:00:00Z,,alternative rock
+107,Marquee Moon,Television,isento,Television,Q432372,Television,1977-02-01T00:00:00Z,,rock music
+108,When the Pawn...,Fiona Apple,,Fiona Apple,Q2003805,Fiona Apple,1999-01-01T00:00:00Z,,baroque pop
+109,Transformer,Lou Reed,,Lou Reed,Q631153,Lou Reed,1972-11-08T00:00:00Z,,glam rock
+110,Court and Spark,Joni Mitchell,,Joni Mitchell,Q869433,Joni Mitchell,1974-01-01T00:00:00Z,,pop music
+111,Control,Janet Jackson,Bookkeeperoftheoccult,Janet Jackson,Q530266,Janet Jackson,1986-02-04T00:00:00Z,,contemporary R&B
+112,Goodbye Yellow Brick Road,Elton John,,Elton John,Q827363,Q2808,1973-10-05T00:00:00Z,,rock music
+113,The Queen Is Dead,The Smiths,Cathodography,The Smiths,Q853308,The Smiths,1986-06-16T00:00:00Z,,alternative rock
+114,Is This It,The Strokes,Rafablu88,The Strokes,Q779275,The Strokes,2001-07-29T00:00:00Z,,alternative rock
+115,"Good Kid, M.A.A.D City",Kendrick Lamar,STATicVapor,Kendrick Lamar,Q1930676,Kendrick Lamar,2012-10-22T00:00:00Z,,West Coast hip-hop
+116,Disintegration,The Cure,"NSR77,WesleyDodds",The Cure,Q939505,The Cure,1989-05-02T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Disintegration-logo.png,alternative rock
+117,Late Registration,Kanye West,isento,Kanye West,Q1130097,Kanye West,2005-08-30T00:00:00Z,,hip-hop
+118,Hotel California,Eagles,,Eagles,Q752172,Eagles,1976-12-08T00:00:00Z,,rock music
+119,Stand!,Sly and the Family Stone,,Sly and the Family Stone,Q429521,Sly and the Family Stone,1969-05-03T00:00:00Z,,funk
+120,Moondance,Van Morrison,isento,Van Morrison,Q1179158,Van Morrison,1970-01-27T00:00:00Z,,jazz
+121,This Year's Model,Elvis Costello,zmbro,Elvis Costello,Q1188324,Elvis Costello,1978-03-17T00:00:00Z,,punk rock
+122,The Downward Spiral,Nine Inch Nails,Gixce93,Nine Inch Nails,Q784933,Nine Inch Nails,1994-03-08T00:00:00Z,,industrial rock
+123,Led Zeppelin II,Led Zeppelin,"Edelmand, isento",Led Zeppelin,Q209539,Led Zeppelin,1969-10-22T00:00:00Z,,hard rock
+124,Achtung Baby,U2,"Y2kcrazyjoker4,Merbabu",U2,Q308801,U2,1991-11-18T00:00:00Z,,alternative rock
+125,Paul's Boutique,Beastie Boys,,Beastie Boys,Q977418,Beastie Boys,1989-07-25T00:00:00Z,,hip-hop
+126,My Life,Mary J. Blige,,Mary J. Blige,Q2520722,Mary J. Blige,1994-11-29T00:00:00Z,,contemporary R&B
+127,Modern Sounds in Country and Western Music,Ray Charles,isento,Ray Charles,Q860771,Ray Charles,1962-04-01T00:00:00Z,,country music
+128,A Night at the Opera,Queen,,Queen,Q193477,Queen,1975-11-21T00:00:00Z,,opera
+129,The Wall,Pink Floyd,Parrot of Doom,Pink Floyd,Q151114,Pink Floyd,1979-11-30T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Wall%20Cover.svg,progressive rock
+130,1999,Prince,,Prince,Q208824,Prince,1982-10-27T00:00:00Z,,funk
+131,Dummy,Portishead,,Portishead,Q911143,Portishead,1994-08-22T00:00:00Z,,trip hop
+132,40 Greatest Hits,Hank Williams,,Hank Williams,Q4637398,Hank Williams,1978-01-01T00:00:00Z,,blues
+133,Hejira,Joni Mitchell,,Joni Mitchell,Q1035073,Joni Mitchell,1976-11-01T00:00:00Z,,jazz fusion
+134,The Score,Fugees,,Fugees,Q938448,Fugees,1996-02-13T00:00:00Z,,alternative hip-hop
+135,The Joshua Tree,U2,"Y2kcrazyjoker4,Merbabu",U2,Q152873,U2,1987-03-09T00:00:00Z,,pop rock
+136,Maggot Brain,Funkadelic,,Funkadelic,Q937641,Funkadelic,1971-07-12T00:00:00Z,,funk rock
+137,21,Adele,,Adele,Q155169,Adele,2011-01-24T00:00:00Z,,pop music
+138,The Immaculate Collection,Madonna,Bluesatellite,Madonna,Q642470,Madonna,1990-11-09T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/The%20Immaculate%20Collection%20CD.jpg,pop music
+139,Paranoid,Black Sabbath,,Black Sabbath,Q271787,Black Sabbath,1970-09-18T00:00:00Z,,heavy metal
+140,Catch a Fire,Bob Marley and the Wailers,Tomcat7,Bob Marley and the Wailers,Q369980,The Wailers,1973-01-01T00:00:00Z,,reggae
+141,Doolittle,Pixies,CloudNine,Pixies,Q909006,Pixies,1989-04-18T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Pixies-Doolittle.png,grunge
+142,Born in the U.S.A.,Bruce Springsteen,zmbro,Bruce Springsteen,Q40425,Bruce Springsteen,1984-06-04T00:00:00Z,,pop rock
+143,The Velvet Underground,The Velvet Underground,,The Velvet Underground,Q848781,The Velvet Underground,1969-03-01T00:00:00Z,,folk rock
+144,Physical Graffiti,Led Zeppelin,Ritchie333,Led Zeppelin,Q210809,Led Zeppelin,1975-02-24T00:00:00Z,,rock music
+145,The Marshall Mathers LP,Eminem,,Eminem,Q153607,Q5608,2000-05-23T00:00:00Z,,hip-hop
+146,Parallel Lines,Blondie,,Blondie,Q1072373,Blondie,1978-09-23T00:00:00Z,,new wave
+147,Grace,Jeff Buckley,,Jeff Buckley,Q116060002,David Knopfler,2015-01-01T00:00:00Z,,pop music
+148,Channel Orange,Frank Ocean,isento,Frank Ocean,Q402035,Frank Ocean,2012-07-10T00:00:00Z,,neo soul
+149,John Prine,John Prine,,John Prine,Q1101326,John Prine,1971-11-01T00:00:00Z,,traditional folk music
+150,Nebraska,Bruce Springsteen,zmbro,Bruce Springsteen,Q852024,Bruce Springsteen,1982-09-30T00:00:00Z,,country rock
+151,Faith,George Michael,,George Michael,Q107526334,Pop Smoke,2021-07-16T00:00:00Z,,hip-hop
+152,Pretenders,The Pretenders,,The Pretenders,Q755468,The Pretenders,1979-12-27T00:00:00Z,,punk rock
+153,Rid of Me,PJ Harvey,,PJ Harvey,Q1074272,PJ Harvey,1993-04-05T00:00:00Z,,alternative rock
+154,Amazing Grace,Aretha Franklin,,Aretha Franklin,Q3613741,Aretha Franklin,2016-01-01T00:00:00Z,,soul
+155,The Black Album,Jay-Z,,Jay-Z,Q880043,Prince,1994-11-22T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Solid%20black.svg,funk
+156,Let It Be,The Replacements,,The Replacements,Q199585,The Beatles,1970-05-08T00:00:00Z,,blues
+157,Morning Glory?,Oasis,Mewerlack,Oasis,,,,,
+158,Mama's Gun,Erykah Badu,,Erykah Badu,Q847976,Erykah Badu,2000-01-01T00:00:00Z,,neo soul
+159,Synchronicity,The Police,,The Police,Q211683,Olivia Lufkin,2000-12-06T00:00:00Z,,alternative rock
+160,Ten,Pearl Jam,-5-,Pearl Jam,Q383227,Pearl Jam,1991-08-27T00:00:00Z,,grunge
+161,"Crosby, Stills & Nash","Crosby, Stills & Nash",,"Crosby, Stills & Nash",Q869918,"Crosby, Stills & Nash",1969-05-29T00:00:00Z,,rock music
+162,Different Class,Pulp,,Pulp,Q771579,Pulp,1995-10-30T00:00:00Z,,Britpop
+163,Saturday Night Fever,Various artists,,Various artists,,,,,
+164,At Folsom Prison,Johnny Cash,Teemu08,Johnny Cash,Q752937,Johnny Cash,1968-05-06T00:00:00Z,,country music
+165,Murmur,R.E.M.,,R.E.M.,Q904480,R.E.M.,1983-04-11T00:00:00Z,,alternative rock
+166,20 Golden Greats,Buddy Holly,,Buddy Holly,Q960191,The Beach Boys,1976-01-01T00:00:00Z,,rock music
+167,Violator,Depeche Mode,,Depeche Mode,Q683079,Depeche Mode,1990-03-19T00:00:00Z,,alternative rock
+168,Can't Buy a Thrill,Steely Dan,,Steely Dan,Q857908,Steely Dan,1972-11-01T00:00:00Z,,pop music
+169,The Stranger,Billy Joel,,Billy Joel,Q202183,Billy Joel,1977-09-29T00:00:00Z,,rock music
+170,Folklore,Taylor Swift,,Taylor Swift,Q845703,Nelly Furtado,2003-11-25T00:00:00Z,,pop rock
+171,Daydream Nation,Sonic Youth,,Sonic Youth,Q902833,Sonic Youth,1988-10-01T00:00:00Z,,alternative rock
+172,Bridge over Troubled Water,Simon & Garfunkel,,Simon & Garfunkel,Q655502,Simon & Garfunkel,1970-01-26T00:00:00Z,,folk rock
+173,In Utero,Nirvana,WesleyDodds,Nirvana,Q222001,Nirvana,1993-09-21T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Nirvana-In-Utero.png,grunge
+174,The Harder They Come,Various artists,,Various artists,Q937034,Jimmy Cliff,1972-01-01T00:00:00Z,,reggae
+175,Damn,Kendrick Lamar,,Kendrick Lamar,,,,,
+176,Fear of a Black Planet,Public Enemy,isento,Public Enemy,Q996926,Public Enemy,1990-04-10T00:00:00Z,,hip-hop
+177,Every Picture Tells a Story,Rod Stewart,,Rod Stewart,Q993764,Rod Stewart,1971-05-28T00:00:00Z,,roots rock
+178,Otis Blue/Otis Redding Sings Soul,Otis Redding,Tomcat7,Otis Redding,Q1226956,Otis Redding,1965-09-15T00:00:00Z,,soul
+179,Life After Death,The Notorious B.I.G.,,The Notorious B.I.G.,Q519122,The Notorious B.I.G.,1997-03-25T00:00:00Z,,hip-hop
+180,Forever Changes,Love,,Love,Q1002861,Love,1967-11-01T00:00:00Z,,folk rock
+181,Bringing It All Back Home,Bob Dylan,,Bob Dylan,Q268106,Bob Dylan,1965-03-27T00:00:00Z,,rock music
+182,Sweet Baby James,James Taylor,,James Taylor,Q745580,James Taylor,1970-02-01T00:00:00Z,,blues
+183,Brown Sugar,D'Angelo,isento,D'Angelo,Q779719,D’Angelo,1995-07-03T00:00:00Z,,jazz
+184,She's So Unusual,Cyndi Lauper,,Cyndi Lauper,Q263323,Cyndi Lauper,1983-10-14T00:00:00Z,,popular music
+185,Beggars Banquet,The Rolling Stones,,The Rolling Stones,Q339065,The Rolling Stones,1968-12-06T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/BeggarsBanquetLP.jpg,country blues
+186,Blood Sugar Sex Magik,Red Hot Chili Peppers,NSR77,Red Hot Chili Peppers,Q329396,Red Hot Chili Peppers,1991-09-24T00:00:00Z,,alternative rock
+187,AmeriKKKa's Most Wanted,Ice Cube,,Ice Cube,Q689666,Ice Cube,1990-05-16T00:00:00Z,,West Coast hip-hop
+188,Electric Warrior,T. Rex,,T. Rex,Q940412,T. Rex,1971-09-24T00:00:00Z,,rock and roll
+189,Dig Me Out,Sleater-Kinney,Niwi3,Sleater-Kinney,Q727157,Sleater-Kinney,1997-01-01T00:00:00Z,,punk rock
+190,Tommy,The Who,Ritchie333,The Who,Q372055,The Who,1969-05-23T00:00:00Z,,rock opera
+191,At Last!,Etta James,,Etta James,Q3280688,Etta James,1960-11-15T00:00:00Z,,blues
+192,Licensed to Ill,Beastie Boys,,Beastie Boys,Q1073460,Beastie Boys,1986-11-15T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Beastie%20Boys%20-%20Licensed%20to%20Ill%20%28CD-Album%29%20%28Europe-1995%29.png,punk rock
+193,Willy and the Poor Boys,Creedence Clearwater Revival,,Creedence Clearwater Revival,Q1546636,Creedence Clearwater Revival,1969-11-02T00:00:00Z,,swamp rock
+194,Bad,Michael Jackson,"Crystal Clear x3,Realist2",Michael Jackson,Q44142,Michael Jackson,1987-08-31T00:00:00Z,,disco
+195,Songs of Leonard Cohen,Leonard Cohen,,Leonard Cohen,Q923550,Leonard Cohen,1967-12-27T00:00:00Z,,folk music
+196,Body Talk,Robyn,,Robyn,Q3641547,Robyn,2010-01-01T00:00:00Z,,electropop
+197,Meet the Beatles!,The Beatles,,The Beatles,Q913616,The Beatles,1964-01-20T00:00:00Z,,rock and roll
+198,The B-52's,The B-52's,,The B-52's,Q302812,The B-52's,1979-07-06T00:00:00Z,,new wave
+199,Slanted and Enchanted,Pavement,,Pavement,Q120712,Pavement,1992-04-20T00:00:00Z,,indie rock
+200,Diamond Life,Sade,,Sade,Q904971,Sade,1984-01-01T00:00:00Z,,soul
+201,Midnight Marauders,A Tribe Called Quest,,A Tribe Called Quest,Q631450,A Tribe Called Quest,1991-01-01T00:00:00Z,,jazz rap
+202,Homogenic,BjÃ¶rk,Andrzejbanas,BjÃ¶rk,Q617046,Björk,1997-09-20T00:00:00Z,,trip hop
+203,Pink Moon,Nick Drake,,Nick Drake,Q574910,Nick Drake,1972-02-25T00:00:00Z,,folk music
+204,Graduation,Kanye West,Bruce Campbell,Kanye West,Q1129439,Kanye West,2007-09-05T00:00:00Z,,hip-hop
+205,Tea for the Tillerman,Cat Stevens,,Cat Stevens,Q1077486,Cat Stevens,1970-11-23T00:00:00Z,,folk rock
+206,Low,David Bowie,zmbro,David Bowie,Q654711,Testament,1994-09-30T00:00:00Z,,thrash metal
+207,Eagles,Eagles,,Eagles,Q987438,Eagles,1972-06-01T00:00:00Z,,rock and roll
+208,Tha Carter III,Lil Wayne,,Lil Wayne,Q1417942,Lil Wayne,2008-06-10T00:00:00Z,,hip-hop
+209,Raising Hell,Run-DMC,,Run-DMC,Q521828,Run-DMC,1986-05-15T00:00:00Z,,hip-hop
+210,The Birth of Soul,Ray Charles,,Ray Charles,Q722775,Ray Charles,1991-10-01T00:00:00Z,,rhythm and blues
+211,Unknown Pleasures,Joy Division,,Joy Division,Q735573,Joy Division,1979-07-14T00:00:00Z,,gothic rock
+212,Wild Is the Wind,Nina Simone,,Nina Simone,Q754696,Nina Simone,1966-09-16T00:00:00Z,,jazz
+213,The Idler Wheel...,Fiona Apple,,Fiona Apple,,,,,
+214,Wildflowers,Tom Petty,,Tom Petty,Q1935759,Tom Petty,1994-11-01T00:00:00Z,,heartland rock
+215,American Beauty,Grateful Dead,,Grateful Dead,Q255923,Grateful Dead,1970-11-01T00:00:00Z,,folk rock
+216,Either/Or,Elliott Smith,,Elliott Smith,Q988557,Elliott Smith,1997-02-25T00:00:00Z,,indie rock
+217,Definitely Maybe,Oasis,,Oasis,Q328993,Oasis,1994-08-29T00:00:00Z,,Britpop
+218,CrazySexyCool,TLC,,TLC,Q869575,TLC,1994-11-15T00:00:00Z,,contemporary R&B
+219,Only Built 4 Cuban Linx...,Raekwon,,Raekwon,Q1187999,Raekwon,1995-08-01T00:00:00Z,,East Coast hip-hop
+220,DÃ©jÃ  Vu,"Crosby, Stills, Nash & Young",,"Crosby, Stills, Nash & Young",,,,,
+221,Rage Against the Machine,Rage Against the Machine,,Rage Against the Machine,Q540943,Rage Against the Machine,1992-11-06T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Rage%20Against%20the%20Machine%20cover.jpg,funk metal
+222,Ray of Light,Madonna,Legolas2186,Madonna,Q155335,Madonna,1998-02-22T00:00:00Z,,pop music
+223,Imagine,John Lennon,,John Lennon,Q333266,John Lennon,1971-09-09T00:00:00Z,,rock and roll
+224,Fly,Dixie Chicks,,Dixie Chicks,Q616152,Yoko Ono,1971-09-20T00:00:00Z,,rock music
+225,Yankee Hotel Foxtrot,Wilco,Teemu08,Wilco,Q1091995,Wilco,2002-04-22T00:00:00Z,,alternative rock
+226,Layla and Other Assorted Love Songs,Derek and the Dominos,,Derek and the Dominos,Q843511,Derek and the Dominos,1970-11-09T00:00:00Z,,rock music
+227,Here's Little Richard,Little Richard,,Little Richard,Q1035513,Little Richard,1957-03-01T00:00:00Z,,rock and roll
+228,De La Soul Is Dead,De La Soul,,De La Soul,Q222316,De La Soul,1991-05-13T00:00:00Z,,alternative hip-hop
+229,The Ultimate Collection,Patsy Cline,,Patsy Cline,Q239562,YU grupa,2009-01-01T00:00:00Z,,hard rock
+230,Anti,Rihanna,,Rihanna,Q18552042,Love Shop,2001-01-01T00:00:00Z,,
+231,Damn the Torpedoes,Tom Petty and the Heartbreakers,,Tom Petty and the Heartbreakers,Q45032,Tom Petty and the Heartbreakers,1979-10-19T00:00:00Z,,heartland rock
+232,Giant Steps,John Coltrane,,John Coltrane,Q1010296,The Boo Radleys,1993-08-31T00:00:00Z,,alternative rock
+233,Little Earthquakes,Tori Amos,,Tori Amos,Q253057,Tori Amos,1992-01-06T00:00:00Z,,alternative rock
+234,Master of Reality,Black Sabbath,,Black Sabbath,Q658926,Black Sabbath,1971-07-21T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Blacksabbath%20master%20reality%20cover.jpg,heavy metal
+235,Metallica,Metallica,,Metallica,Q213516,Metallica,1991-08-12T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Metallica%20%28Black%20Album%29%20by%20Metallica%20%28Album-CD%29%20%28EU-1991%29.jpg,heavy metal
+236,Discovery,Daft Punk,"electricController,DannyMusicEditor",Daft Punk,Q906197,Mike Oldfield,1984-06-25T00:00:00Z,,rock music
+237,Red Headed Stranger,Willie Nelson,GDuwen,Willie Nelson,Q755963,Willie Nelson,1975-05-01T00:00:00Z,,country music
+238,Trans-Europe Express,Kraftwerk,"Andrzejbanas,Ricadus",Kraftwerk,Q523372,Kraftwerk,1977-01-01T00:00:00Z,,electropop
+239,Criminal Minded,Boogie Down Productions,,Boogie Down Productions,Q2706654,Boogie Down Productions,1987-03-03T00:00:00Z,,gangsta rap
+240,"Live at the Harlem Square Club, 1963",Sam Cooke,,Sam Cooke,Q221622,Sam Cooke,,,soul
+241,Blue Lines,Massive Attack,,Massive Attack,Q847910,Massive Attack,1991-04-08T00:00:00Z,,trip hop
+242,Loaded,The Velvet Underground,,The Velvet Underground,Q1634439,The Velvet Underground,1970-11-01T00:00:00Z,,rock and roll
+243,Odessey and Oracle,The Zombies,,The Zombies,Q1187585,The Zombies,1968-04-19T00:00:00Z,,baroque pop
+244,808s & Heartbreak,Kanye West,Bruce Campbell,Kanye West,Q271308,Kanye West,2008-11-24T00:00:00Z,,pop music
+245,Heaven or Las Vegas,Cocteau Twins,,Cocteau Twins,Q848584,Cocteau Twins,1990-09-17T00:00:00Z,,dream pop
+246,Mama Said Knock You Out,LL Cool J,,LL Cool J,Q636979,LL Cool J,1990-01-01T00:00:00Z,,hip-hop
+247,Love Deluxe,Sade,,Sade,Q1185154,Sade,1992-10-26T00:00:00Z,,ambient music
+248,American Idiot,Green Day,"DannyMusicEditor,electricController",Green Day,Q151714,Green Day,2004-09-21T00:00:00Z,,punk rock
+249,Whitney Houston,Whitney Houston,,Whitney Houston,Q220749,Whitney Houston,1985-02-14T00:00:00Z,,popular music
+250,Singles Going Steady,Buzzcocks,,Buzzcocks,Q3961850,Buzzcocks,1979-01-01T00:00:00Z,,punk rock
+251,Honky ChÃ¢teau,Elton John,,Elton John,,,,,
+252,Q: Are We Not Men? A: We Are Devo!,Devo,,Devo,Q670074,Devo,1978-08-28T00:00:00Z,,punk rock
+253,The Piper at the Gates of Dawn,Pink Floyd,"Ummagumma23, MusicforthePeople",Pink Floyd,Q202714,Pink Floyd,1967-08-04T00:00:00Z,,pop music
+254,Head Hunters,Herbie Hancock,,Herbie Hancock,Q1034640,Herbie Hancock,1973-10-13T00:00:00Z,,jazz-funk
+255,The Freewheelin' Bob Dylan,Bob Dylan,"Mick gold,I.M.S.,Moisejp",Bob Dylan,Q11632,Bob Dylan,1963-05-27T00:00:00Z,,folk music
+256,Tracy Chapman,Tracy Chapman,,Tracy Chapman,Q129804,Tracy Chapman,1988-04-05T00:00:00Z,,folk rock
+257,Coat of Many Colors,Dolly Parton,,Dolly Parton,Q868099,Dolly Parton,1971-10-02T00:00:00Z,,country music
+258,The Hissing of Summer Lawns,Joni Mitchell,,Joni Mitchell,Q964149,Joni Mitchell,1975-11-01T00:00:00Z,,folk rock
+259,Pearl,Janis Joplin,,Janis Joplin,Q220744,Q1514,1971-01-11T00:00:00Z,,rhythm and blues
+260,Cut,The Slits,,The Slits,Q899653,The Slits,1979-01-01T00:00:00Z,,punk rock
+261,Check Your Head,Beastie Boys,,Beastie Boys,Q608507,Beastie Boys,1992-04-21T00:00:00Z,,alternative rock
+262,"Power, Corruption & Lies",New Order,,New Order,Q1930135,New Order,1983-05-02T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/New%20Order%20-%20Power%2C%20Corruption%20%26%20Lies.png,new wave
+263,A Hard Day's Night,The Beatles,,The Beatles,Q182518,The Beatles,1964-07-10T00:00:00Z,,rock and roll
+264,Wish You Were Here,Pink Floyd,Parrot of Doom,Pink Floyd,Q200872,Pink Floyd,1975-09-12T00:00:00Z,,progressive rock
+265,Wowee Zowee,Pavement,Niwi3,Pavement,Q2249109,Pavement,1995-04-11T00:00:00Z,,indie rock
+266,Help!,The Beatles,,The Beatles,Q201816,The Beatles,1965-08-06T00:00:00Z,,rock music
+267,Double Nickels on the Dime,Minutemen,"Cjmarsicano,CloudNine",Minutemen,Q909309,Minutemen,1984-07-01T00:00:00Z,,hardcore punk
+268,Sail Away,Randy Newman,,Randy Newman,Q755487,Randy Newman,1972-01-01T00:00:00Z,,rock music
+269,Yeezus,Kanye West,STATicVapor,Kanye West,Q13378144,Kanye West,2013-06-18T00:00:00Z,,hip-hop
+270,Golden Hour,Kacey Musgraves,,Kacey Musgraves,Q51155613,Kacey Musgraves,2018-03-30T00:00:00Z,,country pop
+271,What's the 411?,Mary J. Blige,,Mary J. Blige,Q2779733,Mary J. Blige,1992-07-28T00:00:00Z,,contemporary R&B
+272,White Light/White Heat,The Velvet Underground,"DecrepitlyOnward,zmbro",The Velvet Underground,Q523347,The Velvet Underground,1968-01-30T00:00:00Z,,experimental rock
+273,Entertainment!,Gang of Four,,Gang of Four,Q167110,Gang of Four,1979-09-25T00:00:00Z,,post-punk
+274,Sweetheart of the Rodeo,The Byrds,"Kohoutek1138,Cbben",The Byrds,Q928243,The Byrds,1968-08-30T00:00:00Z,,country rock
+275,Curtis,Curtis Mayfield,,Curtis Mayfield,Q717750,Curtis Mayfield,1970-09-01T00:00:00Z,,soul
+276,The Bends,Radiohead,"Popcornfud,Tunakanski",Radiohead,Q221246,Radiohead,1995-03-13T00:00:00Z,,alternative rock
+277,The Diary of Alicia Keys,Alicia Keys,,Alicia Keys,Q261724,Alicia Keys,2003-12-02T00:00:00Z,,neo soul
+278,Houses of the Holy,Led Zeppelin,Ritchie333,Led Zeppelin,Q211413,Led Zeppelin,1973-03-28T00:00:00Z,,rock music
+279,MTV Unplugged in New York,Nirvana,,Nirvana,Q212326,Nirvana,1994-11-01T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Nirvana-MTV-Unplugged-in-New-York.png,grunge
+280,Get Rich or Die Tryin',50 Cent,,50 Cent,Q500182,Nate Dogg,2005-11-08T00:00:00Z,,gangsta rap
+281,Nilsson Schmilsson,Harry Nilsson,,Harry Nilsson,Q1218171,Harry Nilsson,1971-11-01T00:00:00Z,,rock music
+282,In the Wee Small Hours,Frank Sinatra,,Frank Sinatra,Q221573,Frank Sinatra,1955-04-25T00:00:00Z,,jazz
+283,Bad Girls,Donna Summer,,Donna Summer,Q788286,Donna Summer,1979-04-25T00:00:00Z,,disco
+284,Down Every Road 1962â1994,Merle Haggard,,Merle Haggard,,,,,
+285,Third/Sister Lovers,Big Star,,Big Star,Q755161,Big Star,1975-01-01T00:00:00Z,,power pop
+286,Californication,Red Hot Chili Peppers,,Red Hot Chili Peppers,Q219425,Red Hot Chili Peppers,1999-06-07T00:00:00Z,,alternative rock
+287,Mr. Tambourine Man,The Byrds,,The Byrds,Q959637,The Byrds,1965-06-21T00:00:00Z,,folk rock
+288,The Modern Lovers,The Modern Lovers,,The Modern Lovers,Q755363,The Modern Lovers,1976-08-01T00:00:00Z,,rock music
+289,Post,BjÃ¶rk,Bleff,BjÃ¶rk,Q1347624,Björk,1995-01-01T00:00:00Z,,trip hop
+290,Speakerboxxx/The Love Below,Outkast,,Outkast,Q603672,OutKast,2003-09-23T00:00:00Z,,hip-hop
+291,The Writing's on the Wall,Destiny's Child,,Destiny's Child,Q617443,Destiny's Child,1999-07-27T00:00:00Z,,contemporary R&B
+292,Van Halen,Van Halen,,Van Halen,Q264135,Van Halen,1978-02-10T00:00:00Z,,hard rock
+293,Last Splash,The Breeders,,The Breeders,Q2136712,The Breeders,1993-08-30T00:00:00Z,,pop music
+294,Weezer,Weezer,Cowbellcity45,Weezer,Q1346351,Weezer,1994-05-10T00:00:00Z,,alternative rock
+295,Random Access Memories,Daft Punk,"Jhsounds,Bobamnertiopsis",Daft Punk,Q8119033,Daft Punk,2013-05-17T00:00:00Z,,electronic music
+296,Rust Never Sleeps,Neil YoungandCrazy Horse,,Neil YoungandCrazy Horse,Q927457,Neil Young and Crazy Horse,1979-06-22T00:00:00Z,,rock music
+297,So,Peter Gabriel,JennKR,Peter Gabriel,Q657185,Peter Gabriel,1986-05-19T00:00:00Z,,pop music
+298,Full Moon Fever,Tom Petty,,Tom Petty,Q1754734,Tom Petty,1989-04-24T00:00:00Z,,heartland rock
+299,Live at the Regal,B.B. King,,B.B. King,Q846100,B. B. King,1965-01-01T00:00:00Z,,blues
+300,Come On Over,Shania Twain,,Shania Twain,Q868465,Olivia Newton-John,1976-02-29T00:00:00Z,,country music
+301,New York Dolls,New York Dolls,isento,New York Dolls,Q1190099,New York Dolls,1973-07-27T00:00:00Z,,punk rock
+302,Tonight's the Night,Neil Young,,Neil Young,Q1066236,Neil Young,1975-06-20T00:00:00Z,,rock music
+303,The Definitive Collection,ABBA,,ABBA,Q1319261,Olivia Newton-John,2002-07-16T00:00:00Z,,pop music
+304,Just as I Am,Bill Withers,,Bill Withers,Q3811532,Yolanda Adams,1987-01-01T00:00:00Z,,gospel music
+305,Alive!,Kiss,,Kiss,Q650560,Kiss,1975-09-10T00:00:00Z,,glam rock
+306,I'm Still in Love with You,Al Green,,Al Green,Q3282395,Roy Orbison,1976-01-01T00:00:00Z,,
+307,Portrait of a Legend: 1951â1964,Sam Cooke,,Sam Cooke,,,,,
+308,Here Come the Warm Jets,Brian Eno,Andrzejbanas,Brian Eno,Q734156,Brian Eno,1974-01-01T00:00:00Z,,glam rock
+309,Closer,Joy Division,,Joy Division,Q756930,Joy Division,1980-07-01T00:00:00Z,,gothic rock
+310,Pink Flag,Wire,,Wire,Q370633,Wire,1977-11-01T00:00:00Z,,punk rock
+311,On the Beach,Neil Young,,Neil Young,Q1073882,Neil Young,1974-07-16T00:00:00Z,,rock music
+312,A Seat at the Table,Solange Knowles,,Solange Knowles,Q27231139,Solange Knowles,2016-09-30T00:00:00Z,,rhythm and blues
+313,"Stories from the City, Stories from the Sea",PJ Harvey,,PJ Harvey,Q1049357,PJ Harvey,2000-10-23T00:00:00Z,,alternative rock
+314,One in a Million,Aaliyah,,Aaliyah,Q938836,Aaliyah,1996-08-27T00:00:00Z,,rhythm and blues
+315,El Mal Querer,RosalÃ­a,,RosalÃ­a,Q56650719,Rosalía,2018-11-02T00:00:00Z,,flamenco
+316,The Who Sell Out,The Who,,The Who,Q844051,The Who,1967-12-15T00:00:00Z,,psychedelic rock
+317,Lady in Satin,Billie Holiday,,Billie Holiday,Q285175,Billie Holiday,1958-06-01T00:00:00Z,,vocal jazz
+318,The Velvet Rope,Janet Jackson,,Janet Jackson,Q777308,Janet Jackson,1997-10-07T00:00:00Z,,trip hop
+319,The Stone Roses,The Stone Roses,,The Stone Roses,Q300932,The Stone Roses,1989-03-13T00:00:00Z,,alternative rock
+320,Los Angeles,X,,X,Q1147518,X,1980-04-26T00:00:00Z,,punk rock
+321,Norman Fucking Rockwell!,Lana Del Rey,,Lana Del Rey,Q56655003,Lana Del Rey,2019-08-30T00:00:00Z,,alternative rock
+322,From Elvis in Memphis,Elvis Presley,GDuwen,Elvis Presley,Q1004072,Elvis Presley,1969-06-17T00:00:00Z,,rock and roll
+323,Sandinista!,The Clash,,The Clash,Q1142897,The Clash,1980-12-12T00:00:00Z,,rock music
+324,A Rush of Blood to the Head,Coldplay,Efe,Coldplay,Q207970,Coldplay,2002-08-26T00:00:00Z,,alternative rock
+325,"All Killer, No Filler: The Anthology",Jerry Lee Lewis,,Jerry Lee Lewis,Q4033743,Jerry Lee Lewis,1993-01-01T00:00:00Z,,rock and roll
+326,Dirty Mind,Prince,,Prince,Q1228240,Prince,1980-10-08T00:00:00Z,,rock music
+327,Live at Leeds,The Who,,The Who,Q609710,The Rolling Stones,2012-01-01T00:00:00Z,,concert film
+328,Modern Vampires of the City,Vampire Weekend,isento,Vampire Weekend,Q6888924,Vampire Weekend,2013-05-14T00:00:00Z,,indie rock
+329,Endtroducing.....,DJ Shadow,Holiday56,DJ Shadow,Q614739,DJ Shadow,1996-09-16T00:00:00Z,,trip hop
+330,Aftermath,The Rolling Stones,"isento,JG66",The Rolling Stones,Q389281,The Rolling Stones,1966-04-15T00:00:00Z,,pop rock
+331,Like a Prayer,Madonna,Theknine2,Madonna,Q252447,Madonna,1989-03-21T00:00:00Z,,pop music
+332,Elvis Presley,Elvis Presley,,Elvis Presley,Q610926,Elvis Presley,1956-03-23T00:00:00Z,,rock and roll
+333,Still Bill,Bill Withers,,Bill Withers,Q7617008,Bill Withers,1972-05-01T00:00:00Z,,soul
+334,Abraxas,Santana,,Santana,Q284798,Santana,1970-09-23T00:00:00Z,,jazz fusion
+335,The Basement Tapes,Bob Dylanandthe Band,"Mick gold,I.M.S.,Moisejp",Bob Dylanandthe Band,Q1471926,Bob Dylan,1975-06-26T00:00:00Z,,rock music
+336,Avalon,Roxy Music,,Roxy Music,Q1954070,Roxy Music,1983-09-01T00:00:00Z,,art rock
+337,John Wesley Harding,Bob Dylan,,Bob Dylan,Q740161,Bob Dylan,1967-12-27T00:00:00Z,,folk rock
+338,Another Green World,Brian Eno,Andrzejbanas,Brian Eno,Q771427,Brian Eno,1975-09-01T00:00:00Z,,electropop
+339,Janet Jackson's Rhythm Nation 1814,Janet Jackson,Bookkeeperoftheoccult,Janet Jackson,Q928863,Janet Jackson,1989-09-15T00:00:00Z,,contemporary R&B
+340,Doggystyle,Snoop Doggy Dogg,Guerilla In Tha Mist,Snoop Doggy Dogg,Q753494,Q6096,1993-11-23T00:00:00Z,,West Coast hip-hop
+341,Siamese Dream,The Smashing Pumpkins,,The Smashing Pumpkins,Q902233,The Smashing Pumpkins,1993-07-27T00:00:00Z,,alternative rock
+342,Let It Be,The Beatles,,The Beatles,Q199585,The Beatles,1970-05-08T00:00:00Z,,blues
+343,Greatest Hits,Sly and the Family Stone,,Sly and the Family Stone,Q5601125,Earl Thomas Conley,1985-09-30T00:00:00Z,,country music
+344,Funky Kingston,Toots and the Maytals,,Toots and the Maytals,Q723201,Toots and the Maytals,1975-01-01T00:00:00Z,,reggae
+345,"The Wild, the Innocent & the E Street Shuffle",Bruce Springsteen,,Bruce Springsteen,Q1463801,Bruce Springsteen,1973-01-11T00:00:00Z,,rock and roll
+346,AM,Arctic Monkeys,,Arctic Monkeys,Q13539256,Arctic Monkeys,2013-09-09T00:00:00Z,,indie rock
+347,Liquid Swords,GZA,,GZA,Q915458,GZA,1995-01-01T00:00:00Z,,East Coast hip-hop
+348,Time,Gillian Welch,,Gillian Welch,Q104856945,Paul Overstreet,1996-02-27T00:00:00Z,,
+349,Kick Out the Jams,MC5,,MC5,Q1040417,MC5,1969-01-01T00:00:00Z,,proto-punk
+350,Music of My Mind,Stevie Wonder,,Stevie Wonder,Q1929619,Stevie Wonder,1972-03-03T00:00:00Z,,rhythm and blues
+351,SOS,SZA,,SZA,Q3459062,Diam's,2009-11-16T00:00:00Z,,French hip-hop
+352,The Slim Shady LP,Eminem,Basilisk4u,Eminem,Q383459,Q5608,1999-02-23T00:00:00Z,,hip-hop
+353,The Cars,The Cars,,The Cars,Q1188848,The Cars,1978-06-06T00:00:00Z,,new wave
+354,Germfree Adolescents,X-Ray Spex,,X-Ray Spex,,,,,
+355,Black Sabbath,Black Sabbath,,Black Sabbath,Q328482,Black Sabbath,1970-02-13T00:00:00Z,,heavy metal
+356,Gris-Gris,Dr. John,,Dr. John,Q45710,Dr. John,1968-01-22T00:00:00Z,,New Orleans rhythm and blues
+357,Rain Dogs,Tom Waits,,Tom Waits,Q259443,Tom Waits,1985-09-30T00:00:00Z,,rock music
+358,Sour,Olivia Rodrigo,,Olivia Rodrigo,Q7565068,Ours,1994-01-01T00:00:00Z,,alternative rock
+359,Radio City,Big Star,,Big Star,Q1939617,Big Star,1974-02-01T00:00:00Z,,power pop
+360,One Nation Under a Groove,Funkadelic,,Funkadelic,Q636006,Funkadelic,1978-10-01T00:00:00Z,,rock music
+361,The Black Parade,My Chemical Romance,Orfen,My Chemical Romance,Q856869,My Chemical Romance,2006-10-23T00:00:00Z,,alternative rock
+362,Never Too Much,Luther Vandross,,Luther Vandross,Q7004315,Luther Vandross,1981-08-12T00:00:00Z,,contemporary R&B
+363,Mothership Connection,Parliament,,Parliament,Q766984,Parliament,1975-01-01T00:00:00Z,,funk
+364,More Songs About Buildings and Food,Talking Heads,,Talking Heads,Q1077225,Talking Heads,1978-07-21T00:00:00Z,,new wave
+365,Madvillainy,Madvillain,AstonishingTunesAdmirer,Madvillain,Q2333298,Madvillain,2004-03-24T00:00:00Z,,jazz rap
+366,Rocks,Aerosmith,,Aerosmith,Q830738,Aerosmith,1976-05-03T00:00:00Z,,hard rock
+367,If You're Reading This It's Too Late,Drake,,Drake,Q19248558,Drake,2015-02-13T00:00:00Z,,rapping
+368,All Things Must Pass,George Harrison,JG66,George Harrison,Q654204,George Harrison,1970-11-30T00:00:00Z,,rock music
+369,The Infamous,Mobb Deep,,Mobb Deep,Q2300766,Mobb Deep,1995-01-01T00:00:00Z,,jazz rap
+370,Tha Carter II,Lil Wayne,,Lil Wayne,Q657452,Lil Wayne,2005-01-01T00:00:00Z,,hip-hop
+371,Anthology,The Temptations,,The Temptations,Q772066,Dio,1997-01-01T00:00:00Z,,
+372,Cheap Thrills,Big Brother and the Holding Company,,Big Brother and the Holding Company,Q860418,Big Brother and the Holding Company,1968-08-12T00:00:00Z,,psychedelic rock
+373,Hot Buttered Soul,Isaac Hayes,,Isaac Hayes,Q521823,Isaac Hayes,1969-09-01T00:00:00Z,,soul
+374,King of the Delta Blues Singers,Robert Johnson,,Robert Johnson,Q1108847,Robert Johnson,1961-01-01T00:00:00Z,,blues
+375,Dookie,Green Day,Xihix,Green Day,Q211292,Green Day,1994-02-01T00:00:00Z,,punk rock
+376,In the Aeroplane Over the Sea,Neutral Milk Hotel,Famous Hobo,Neutral Milk Hotel,Q1660782,Neutral Milk Hotel,1998-01-01T00:00:00Z,,indie rock
+377,Fever to Tell,Yeah Yeah Yeahs,,Yeah Yeah Yeahs,Q567955,Yeah Yeah Yeahs,2003-04-29T00:00:00Z,,art punk
+378,Run-D.M.C.,Run-DMC,,Run-DMC,,,,,
+379,Moving Pictures,Rush,,Rush,Q904976,Rush,1981-02-12T00:00:00Z,,progressive rock
+380,Mingus Ah Um,Charles Mingus,,Charles Mingus,Q1787154,Charles Mingus,1959-10-01T00:00:00Z,,post-bop
+381,(Pronounced 'L_h-'nrd 'Skin-'nrd),Lynyrd Skynyrd,,Lynyrd Skynyrd,,,,,
+382,Currents,Tame Impala,,Tame Impala,Q2460035,Wolfert Brederode,2007-01-01T00:00:00Z,,
+383,Mezzanine,Massive Attack,,Massive Attack,Q844258,Massive Attack,1998-04-27T00:00:00Z,,trip hop
+384,The Kinks Are the Village Green Preservation Society,The Kinks,Tkbrett(Working),The Kinks,Q254078,The Kinks,1968-11-22T00:00:00Z,,pop rock
+385,Rocket to Russia,Ramones,CrowzRSA,Ramones,Q1352199,Ramones,1977-11-04T00:00:00Z,,punk rock
+386,Donuts,J Dilla,,J Dilla,Q4346634,J Dilla,2006-02-07T00:00:00Z,,hip-hop
+387,In Rainbows,Radiohead,"Atlantik,Popcornduff",Radiohead,Q223295,Radiohead,2007-10-10T00:00:00Z,,space rock
+388,"Young, Gifted and Black",Aretha Franklin,,Aretha Franklin,Q1616155,Aretha Franklin,1972-01-01T00:00:00Z,,soul
+389,The Emancipation of Mimi,Mariah Carey,Petergriffin9901,Mariah Carey,Q633141,Mariah Carey,2005-04-04T00:00:00Z,,pop music
+390,Surfer Rosa,Pixies,CloudNine,Pixies,Q571213,Pixies,1988-03-21T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Pixies-Surfer-Rosa.png,alternative rock
+391,Kaleidoscope,Kelis,,Kelis,Q117048,Kelis,1999-01-01T00:00:00Z,,rhythm and blues
+392,Proud Mary: The Best of Ike & Tina Turner,Ike & Tina Turner,,Ike & Tina Turner,Q7252235,Ike & Tina Turner,1991-03-18T00:00:00Z,,pop music
+393,1989,Taylor Swift,HÄ,Taylor Swift,Q601542,Jacopo Sarno,2009-01-01T00:00:00Z,,pop rock
+394,Diana,Diana Ross,,Diana Ross,Q1163502,Diana Ross,1980-05-22T00:00:00Z,,pop music
+395,Black Messiah,D'Angelo and the Vanguard,,D'Angelo and the Vanguard,Q18638796,D’Angelo,2014-01-01T00:00:00Z,,jazz-funk
+396,Something/Anything?,Todd Rundgren,Ritchie333,Todd Rundgren,Q846465,Todd Rundgren,1972-02-01T00:00:00Z,,rock music
+397,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,,Billie Eilish,Q61157315,Billie Eilish,2019-03-29T00:00:00Z,,electropop
+398,The Raincoats,The Raincoats,,The Raincoats,Q7759337,The Raincoats,1979-11-03T00:00:00Z,,post-punk
+399,Brian Wilson Presents Smile,Brian Wilson,,Brian Wilson,,,,,
+400,Beauty and the Beat,The Go-Go's,,The Go-Go's,Q756288,The Go-Go's,1981-07-08T00:00:00Z,,pop rock
+401,Blondie,Blondie,,Blondie,Q804530,Blondie,1976-12-01T00:00:00Z,,punk rock
+402,Expensive Shit,Fela Kuti and Africa '70,,Fela Kuti and Africa '70,Q5421015,Fela Kuti,1975-12-12T00:00:00Z,,Afrobeat
+403,Supreme Clientele,Ghostface Killah,,Ghostface Killah,Q4354411,Ghostface Killah,2000-01-01T00:00:00Z,,hip-hop
+404,Rapture,Anita Baker,,Anita Baker,Q846783,Anita Baker,1986-01-01T00:00:00Z,,rhythm and blues
+405,"Nuggets: Original Artyfacts from the First Psychedelic Era, 1965â1968",Various artists,,Various artists,,,,,
+406,69 Love Songs,The Magnetic Fields,,The Magnetic Fields,Q1412554,The Magnetic Fields,1999-01-01T00:00:00Z,,indie pop
+407,Everybody Knows This Is Nowhere,Neil Young,,Neil Young,Q852882,Neil Young and Crazy Horse,1969-05-14T00:00:00Z,,folk rock
+408,Ace of Spades,MotÃ¶rhead,,MotÃ¶rhead,Q481752,Motörhead,1980-11-08T00:00:00Z,,heavy metal
+409,Workingman's Dead,Grateful Dead,,Grateful Dead,Q1252417,Grateful Dead,1970-06-14T00:00:00Z,,folk rock
+410,Wild Honey,The Beach Boys,ILIL,The Beach Boys,Q1051233,The Beach Boys,1967-12-18T00:00:00Z,,rock music
+411,Love and Theft,Bob Dylan,,Bob Dylan,Q425909,Bob Dylan,2001-09-11T00:00:00Z,,folk rock
+412,Going to a Go-Go,Smokey Robinson,,Smokey Robinson,Q2192176,The Miracles,1965-11-01T00:00:00Z,,soul
+413,Cosmo's Factory,Creedence Clearwater Revival,,Creedence Clearwater Revival,Q869314,Creedence Clearwater Revival,1970-07-25T00:00:00Z,,rock music
+414,RisquÃ©,Chic,,Chic,,,,,
+415,Look-Ka Py Py,The Meters,,The Meters,Q6674927,The Meters,1969-12-01T00:00:00Z,,funk
+416,Things Fall Apart,The Roots,,The Roots,Q1061660,The Roots,1999-02-23T00:00:00Z,,neo soul
+417,The Shape of Jazz to Come,Ornette Coleman,,Ornette Coleman,Q930325,Ornette Coleman,1959-10-01T00:00:00Z,,free jazz
+418,Brothers in Arms,Dire Straits,,Dire Straits,Q258609,Dire Straits,1985-05-13T00:00:00Z,,rock music
+419,Chief,Eric Church,,Eric Church,Q5096650,Eric Church,2011-01-01T00:00:00Z,,country music
+420,That's the Way of the World,"Earth, Wind & Fire",,"Earth, Wind & Fire",Q616224,"Earth, Wind & Fire",1975-01-01T00:00:00Z,,rhythm and blues
+421,Arular,M.I.A.,ChrisTheDude,M.I.A.,Q610043,M.I.A.,2005-01-01T00:00:00Z,,alternative rock
+422,Let's Get It On,Marvin Gaye,isento,Marvin Gaye,Q1094376,Marvin Gaye,1973-08-28T00:00:00Z,,rhythm and blues
+423,I Can Hear the Heart Beating as One,Yo La Tengo,Niwi3,Yo La Tengo,Q13586166,Yo La Tengo,1997-04-22T00:00:00Z,,indie rock
+424,Odelay,Beck,,Beck,Q1067721,Beck,1996-06-17T00:00:00Z,,alternative rock
+425,Paul Simon,Paul Simon,,Paul Simon,Q370482,Paul Simon,1972-01-14T00:00:00Z,,folk rock
+426,Lucinda Williams,Lucinda Williams,,Lucinda Williams,Q6697399,Lucinda Williams,1988-01-01T00:00:00Z,,alternative country
+427,Call Me,Al Green,,Al Green,Q5021543,Al Green,1973-04-01T00:00:00Z,,soul
+428,New Day Rising,HÃ¼sker DÃ¼,,HÃ¼sker DÃ¼,Q1754295,Hüsker Dü,1985-01-01T00:00:00Z,,hardcore punk
+429,Reach Out,Four Tops,,Four Tops,Q3930944,Burt Bacharach,1967-01-01T00:00:00Z,,easy listening
+430,Un Verano Sin Ti,Bad Bunny,,Bad Bunny,Q111819051,Bad Bunny,2022-05-07T00:00:00Z,,reggaeton
+431,How Will the Wolf Survive?,Los Lobos,,Los Lobos,Q5918236,Los Lobos,1984-01-01T00:00:00Z,,rock music
+432,Confessions,Usher,Efe,Usher,Q581153,Dweezil Zappa,1991-01-01T00:00:00Z,,hard rock
+433,Sound of Silver,LCD Soundsystem,,LCD Soundsystem,Q2548222,LCD Soundsystem,2007-03-01T00:00:00Z,,indie rock
+434,"Crooked Rain, Crooked Rain",Pavement,,Pavement,Q869912,Pavement,1994-01-01T00:00:00Z,,indie rock
+435,Actually,Pet Shop Boys,,Pet Shop Boys,Q344590,Pet Shop Boys,1987-09-21T00:00:00Z,,synth-pop
+436,All Eyez on Me,2Pac,,2Pac,Q498054,Tupac Shakur,1996-02-13T00:00:00Z,,gangsta rap
+437,Demon Days,Gorillaz,,Gorillaz,Q834418,Gorillaz,2005-05-11T00:00:00Z,,trip hop
+438,Parklife,Blur,,Blur,Q241777,Blur,1994-04-25T00:00:00Z,,Britpop
+439,Sex Machine,James Brown,,James Brown,Q11893236,James Brown,1970-09-01T00:00:00Z,,soul
+440,Coal Miner's Daughter,Loretta Lynn,,Loretta Lynn,Q5137747,Loretta Lynn,1971-01-04T00:00:00Z,,country music
+441,Blackout,Britney Spears,Xwomanizerx,Britney Spears,Q60390,Dropkick Murphys,2003-01-01T00:00:00Z,,punk rock
+442,Beauty Behind the Madness,The Weeknd,,The Weeknd,Q20686013,The Weeknd,2015-08-28T00:00:00Z,,contemporary R&B
+443,Scary Monsters,David Bowie,zmbro,David Bowie,,,,,
+444,Extraordinary Machine,Fiona Apple,,Fiona Apple,Q1617282,Fiona Apple,2005-10-04T00:00:00Z,,baroque pop
+445,Close to the Edge,Yes,,Yes,Q686598,Yes,1972-09-13T00:00:00Z,,progressive rock
+446,Journey in Satchidananda,Alice Coltrane,,Alice Coltrane,Q6296378,Alice Coltrane,1971-01-01T00:00:00Z,,avant-garde jazz
+447,X 100pre,Bad Bunny,,Bad Bunny,Q60153361,Bad Bunny,2018-12-24T00:00:00Z,,reggaeton
+448,Complete & Unbelievable: The Otis Redding Dictionary of Soul,Otis Redding,Tomcat7,Otis Redding,Q2915917,Otis Redding,1966-10-15T00:00:00Z,,soul
+449,Elephant,The White Stripes,,The White Stripes,Q580496,The White Stripes,2003-04-01T00:00:00Z,,alternative rock
+450,Ram,Paul McCartneyandLinda McCartney,,Paul McCartneyandLinda McCartney,Q252230,Paul & Linda McCartney,1971-05-17T00:00:00Z,,rock music
+451,First Take,Roberta Flack,,Roberta Flack,Q5453862,Roberta Flack,1969-06-20T00:00:00Z,,vocal jazz
+452,Anthology,The Supremes,,The Supremes,Q772066,Dio,1997-01-01T00:00:00Z,,
+453,Pretty Hate Machine,Nine Inch Nails,,Nine Inch Nails,Q836587,Nine Inch Nails,1989-10-20T00:00:00Z,,industrial rock
+454,Ege BamyasÄ±,Can,,Can,,,,,
+455,Bo Diddley/Go Bo Diddley[a],Bo Diddley,,Bo Diddley,,,,,
+456,Al Green's Greatest Hits,Al Green,,Al Green,,,,,
+457,I Do Not Want What I Haven't Got,SinÃ©ad O'Connor,,SinÃ©ad O'Connor,Q1060887,Sinéad O'Connor,1990-03-20T00:00:00Z,,alternative rock
+458,Southeastern,Jason Isbell,,Jason Isbell,Q17062011,Jason Isbell,2013-01-01T00:00:00Z,,alternative country
+459,Man on the Moon: The End of Day,Kid Cudi,Crystal Clear x3,Kid Cudi,Q367715,Kid Cudi,2009-01-01T00:00:00Z,,hip-hop
+460,Melodrama,Lorde,De88,Lorde,Q6813408,Vibe Tribe,,,psychedelic trance
+461,"For Emma, Forever Ago",Bon Iver,Saginaw-hitchhiker,Bon Iver,Q1753919,Bon Iver,2007-07-08T00:00:00Z,,baroque pop
+462,The Gilded Palace of Sin,The Flying Burrito Brothers,,The Flying Burrito Brothers,Q245868,The Flying Burrito Brothers,1969-02-06T00:00:00Z,,country rock
+463,Eli and the Thirteenth Confession,Laura Nyro,,Laura Nyro,Q728044,Laura Nyro,1968-03-03T00:00:00Z,,pop music
+464,3 + 3,The Isley Brothers,,The Isley Brothers,Q1490166,The Isley Brothers,1973-01-01T00:00:00Z,,rock music
+465,The Best of the Classic Years,King Sunny AdÃ©,,King Sunny AdÃ©,Q85806531,King Sunny Adé,,,
+466,Red,Black Uhuru,,Black Uhuru,Q135675572,,,,
+467,BLACKsummers'night,Maxwell,,Maxwell,Q4835841,Maxwell,2009-07-07T00:00:00Z,,
+468,Some Girls,The Rolling Stones,,The Rolling Stones,Q945740,The Rolling Stones,1978-06-09T00:00:00Z,,punk rock
+469,Clandestino,Manu Chao,,Manu Chao,Q867788,Manu Chao,1998-01-01T00:00:00Z,,rock music
+470,400 Degreez,Juvenile,,Juvenile,Q3282543,Juvenile,1998-01-01T00:00:00Z,,Southern hip-hop
+471,Surrealistic Pillow,Jefferson Airplane,,Jefferson Airplane,Q913092,Jefferson Airplane,1967-02-01T00:00:00Z,,psychedelic rock
+472,Ctrl,SZA,,SZA,Q30598066,SZA,2017-06-09T00:00:00Z,,soul
+473,Barrio Fino,Daddy Yankee,Brankestein,Daddy Yankee,Q1647674,Daddy Yankee,2004-07-13T00:00:00Z,,reggaeton
+474,#1 Record,Big Star,,Big Star,Q269307,Big Star,1972-01-01T00:00:00Z,,power pop
+475,Sheryl Crow,Sheryl Crow,Niwi3,Sheryl Crow,Q1932542,Sheryl Crow,1996-01-01T00:00:00Z,,rock and roll
+476,Kimono My House,Sparks,,Sparks,Q241983,Sparks,1974-01-01T00:00:00Z,,glam rock
+477,Moanin' in the Moonlight,Howlin' Wolf,,Howlin' Wolf,Q1649120,Howlin' Wolf,1959-01-01T00:00:00Z,,Chicago blues
+478,Something Else by the Kinks,The Kinks,,The Kinks,,,,,
+479,Amor Prohibido,Selena,AJona1992,Selena,,,,,
+480,The Weight of These Wings,Miranda Lambert,,Miranda Lambert,Q27536539,Miranda Lambert,2016-11-18T00:00:00Z,,country music
+481,If You're Feeling Sinister,Belle and Sebastian,,Belle and Sebastian,Q943328,Belle and Sebastian,1996-11-18T00:00:00Z,,baroque pop
+482,Bizarre Ride II the Pharcyde,The Pharcyde,PDTantisocial,The Pharcyde,Q804148,The Pharcyde,1992-01-01T00:00:00Z,,West Coast hip-hop
+483,The Anthology: 1947â1972,Muddy Waters,,Muddy Waters,,,,,
+484,Born This Way,Lady Gaga,GagaNutella,Lady Gaga,Q164646,Lady Gaga,2011-05-23T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/BTW%20Album%20cover.png,rock music
+485,I Want to See the Bright Lights Tonight,Richard ThompsonandLinda Thompson,,Richard ThompsonandLinda Thompson,Q1095539,Richard & Linda Thompson,1974-04-01T00:00:00Z,,folk rock
+486,Continuum,John Mayer,,John Mayer,Q1129023,John Mayer,2006-09-12T00:00:00Z,,rock music
+487,Damaged,Black Flag,,Black Flag,Q651994,Course of Nature,2008-01-01T00:00:00Z,,alternative rock
+488,The Stooges,The Stooges,,The Stooges,Q378272,The Stooges,1969-08-05T00:00:00Z,,proto-punk
+489,Back to Mono,Various artists,,Various artists,Q576557,Phil Spector,1991-11-12T00:00:00Z,,Brill Building
+490,Heart Like a Wheel,Linda Ronstadt,,Linda Ronstadt,Q5692027,Linda Ronstadt,1974-11-01T00:00:00Z,,rock music
+491,Harry's House,Harry Styles,,Harry Styles,Q111343757,Harry Styles,2022-05-20T00:00:00Z,,funk
+492,Nick of Time,Bonnie Raitt,,Bonnie Raitt,Q255954,Bonnie Raitt,1989-01-01T00:00:00Z,,rock music
+493,"Here, My Dear",Marvin Gaye,,Marvin Gaye,Q914440,Marvin Gaye,1970-01-01T00:00:00Z,,soul
+494,Presenting the Fabulous Ronettes Featuring Veronica,The Ronettes,,The Ronettes,Q3910940,The Ronettes,1964-01-01T00:00:00Z,,orchestral pop
+495,II,Boyz II Men,,Boyz II Men,Q1208014,Boyz II Men,1994-08-30T00:00:00Z,,contemporary R&B
+496,Â¿DÃ³nde EstÃ¡n los Ladrones?,Shakira,11JORN,Shakira,,,,,
+497,The Indestructible Beat of Soweto,Various artists,,Various artists,Q7741839,various artists,1985-01-01T00:00:00Z,,mbaqanga
+498,Suicide,Suicide,,Suicide,Q574758,Suicide,1977-01-01T00:00:00Z,,punk rock
+499,Ask Rufus,RufusfeaturingChaka Khan,,RufusfeaturingChaka Khan,Q4807090,Rufus,1977-01-19T00:00:00Z,,soul
+500,Funeral,Arcade Fire,,Arcade Fire,Q526196,Arcade Fire,2004-09-14T00:00:00Z,,baroque pop
