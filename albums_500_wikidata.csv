@@ -1,0 +1,501 @@
+#,Album,Artist(s),Major contributors,Artist,wikidata_qid,artist,release_date,album_art,genre
+1,What's Going On,Marvin Gaye,,Marvin Gaye,Q901648,Marvin Gaye,1971-05-21T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/84/MarvinGayeWhat%27sGoingOnalbumcover.jpg,soul
+2,Pet Sounds,The Beach Boys,,The Beach Boys,Q212863,The Beach Boys,1966-05-16T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/bb/PetSoundsCover.jpg,pop music
+3,Blue,Joni Mitchell,,Joni Mitchell,Q104854934,Oxygiene 23,1995-04-11T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e1/Bluealbumcover.jpg,
+4,Songs in the Key of Life,Stevie Wonder,,Stevie Wonder,Q845040,Stevie Wonder,1976-09-28T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e2/Songs_in_the_key_of_life.jpg,rhythm and blues
+5,Abbey Road,The Beatles,Ritchie333,The Beatles,Q173643,The Beatles,1969-09-26T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg,rock music
+6,Nevermind,Nirvana,WesleyDodds,Nirvana,Q17444,Nirvana,1991-09-24T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg,grunge
+7,Rumours,Fleetwood Mac,Rafablu88,Fleetwood Mac,Q695405,Fleetwood Mac,1977-02-04T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG,soft rock
+8,Purple Rain,Princeandthe Revolution,,Princeandthe Revolution,Q253004,Prince and the Revolution,1984-06-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9c/Princepurplerain.jpg,rock and roll
+9,Blood on the Tracks,Bob Dylan,,Bob Dylan,Q300854,Bob Dylan,1975-01-17T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/fa/Bob_Dylan_-_Blood_on_the_Tracks.jpg,folk rock
+10,The Miseducation of Lauryn Hill,Lauryn Hill,isento,Lauryn Hill,Q945926,Lauryn Hill,1998-08-19T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/99/The_Miseducation_of_Lauryn_Hill.png,hip-hop
+11,Revolver,The Beatles,JG66,The Beatles,Q185121,The Beatles,1966-08-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg,rock and roll
+12,Thriller,Michael Jackson,"Realist2,The Elfoid,Tbhotch",Michael Jackson,Q44320,Michael Jackson,1982-11-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png,rock music
+13,I Never Loved a Man the Way I Love You,Aretha Franklin,,Aretha Franklin,Q595440,Aretha Franklin,1967-03-10T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/15/Aretha_Franklin_%E2%80%93_I_Never_Loved_a_Man_the_Way_I_Love_You.jpg,soul
+14,Exile on Main St.,The Rolling Stones,,The Rolling Stones,Q217248,The Rolling Stones,1972-05-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/ca/ExileMainSt.jpg,rock and roll
+15,It Takes a Nation of Millions to Hold Us Back,Public Enemy,,Public Enemy,Q926127,Public Enemy,1988-06-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/73/PublicEnemyItTakesaNationofMillionstoHoldUsBack.jpg,hip-hop
+16,London Calling,The Clash,pjoef,The Clash,Q19003,The Clash,1979-12-14T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/00/TheClashLondonCallingalbumcover.jpg,punk rock
+17,My Beautiful Dark Twisted Fantasy,Kanye West,isento,Kanye West,Q547624,Kanye West,2010-11-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f0/My_Beautiful_Dark_Twisted_Fantasy.jpg,hip-hop
+18,Highway 61 Revisited,Bob Dylan,"Mick gold,Moisejp",Bob Dylan,Q217211,Bob Dylan,1965-08-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/95/Bob_Dylan_-_Highway_61_Revisited.jpg,rock music
+19,To Pimp a Butterfly,Kendrick Lamar,,Kendrick Lamar,Q19602856,Kendrick Lamar,2015-03-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png,conscious hip-hop
+20,Kid A,Radiohead,"Popcornduff,electricController,DannyMusicEditor",Radiohead,Q220726,Radiohead,2000-10-02T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/02/Radioheadkida.png,alternative rock
+21,Born to Run,Bruce Springsteen,zmbro,Bruce Springsteen,Q752366,Bruce Springsteen,1975-08-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/7a/Born_to_Run_%28Front_Cover%29.jpg,rock and roll
+22,Ready to Die,The Notorious B.I.G.,isento,The Notorious B.I.G.,Q529999,The Notorious B.I.G.,1994-09-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/97/Ready_To_Die.jpg,gangsta rap
+23,The Velvet Underground & Nico,The Velvet Underground,"Chrissymad,Pele Merengue",The Velvet Underground,Q259667,Nico,1967-03-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0c/Velvet_Underground_and_Nico.jpg,proto-punk
+24,Sgt. Pepper's Lonely Hearts Club Band,The Beatles,GabeMc,The Beatles,Q169226,The Beatles,1967-05-26T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/50/Sgt._Pepper%27s_Lonely_Hearts_Club_Band.jpg,baroque pop
+25,Tapestry,Carole King,,Carole King,Q411032,Carole King,1971-02-10T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/52/Carole_King_-_Tapestry.jpg,pop music
+26,Horses,Patti Smith,Holiday56,Patti Smith,Q774927,Patricia Lee Smith,1975-12-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/88/PattiSmithHorses.jpg,punk rock
+27,Enter the Wu-Tang,Wu-Tang Clan,,Wu-Tang Clan,,Wu-Tang Clan,1993-11-09T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/53/Wu-TangClanEntertheWu-Tangalbumcover.jpg,East Coast hip-hop
+28,Voodoo,D'Angelo,isento,D'Angelo,Q636196,D'Angelo,2010-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/cc/Voodoo_UK.jpg,alternative rock
+29,The Beatles,The Beatles,"Ritchie333,JG66",The Beatles,Q3295515,The Beatles,1968-11-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TheBeatles68LP.jpg/500px-TheBeatles68LP.jpg,rock music
+30,Are You Experienced,The Jimi Hendrix Experience,GabeMc,The Jimi Hendrix Experience,Q640397,The Jimi Hendrix Experience,1967-05-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/17/AreyouexpUK.jpg,hard rock
+31,Kind of Blue,Miles Davis,isento,Miles Davis,Q283221,Miles Davis,1959-08-17T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/10/Miles_Davis_-_Kind_of_Blue_album_cover.jpg,jazz
+32,Lemonade,Beyonc√É¬©,,Beyonc√É¬©,Q6521372,G. Love,2006-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/53/Beyonce_-_Lemonade_%28Official_Album_Cover%29.png,alternative hip-hop
+33,Back to Black,Amy Winehouse,AppleWormBoy,Amy Winehouse,Q156670,Amy Winehouse,2006-10-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/67/Amy_Winehouse_-_Back_to_Black_%28album%29.png,rhythm and blues
+34,Innervisions,Stevie Wonder,,Stevie Wonder,Q1049169,Stevie Wonder,1973-08-03T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/3b/Steviewonder_innervisions.jpg,jazz
+35,Rubber Soul,The Beatles,,The Beatles,Q190640,The Beatles,1965-12-03T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/5b/Rubber_Soul.png,rock and roll
+36,Off the Wall,Michael Jackson,Realist2,Michael Jackson,Q44289,Michael Jackson,1979-08-10T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f6/Off_the_wall.jpg,pop music
+37,The Chronic,Dr. Dre,isento,Dr. Dre,Q749154,Dr. Dre,1992-12-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/19/Dr.DreTheChronic.jpg,gangsta rap
+38,Blonde on Blonde,Bob Dylan,"Mick gold,Moisejp",Bob Dylan,Q598116,Bob Dylan,1966-06-20T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/38/Bob_Dylan_-_Blonde_on_Blonde.jpg,folk rock
+39,Remain in Light,Talking Heads,Rafablu88,Talking Heads,Q843416,Talking Heads,1980-10-08T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/2d/TalkingHeadsRemaininLight.jpg,funk
+40,The Rise and Fall of Ziggy Stardust and the Spiders from Mars,David Bowie,zmbro,David Bowie,Q682846,David Bowie,1972-06-06T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/01/ZiggyStardust.jpg,rock music
+41,Let It Bleed,The Rolling Stones,,The Rolling Stones,Q379339,The Rolling Stones,1969-12-05T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/c0/LetitbleedRS.jpg,hard rock
+42,OK Computer,Radiohead,"blz 2049,Popcornduff",Radiohead,Q202996,Radiohead,1997-05-21T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png,alternative rock
+43,The Low End Theory,A Tribe Called Quest,,A Tribe Called Quest,Q1090876,A Tribe Called Quest,1991-09-24T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/42/ATribeCalledQuestTheLowEndtheory.jpg,jazz rap
+44,Illmatic,Nas,"isento,Chubdub",Nas,Q847541,Nas,1994-04-19T00:00:00Z,https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Graceland_cover_-_Paul_Simon.jpg/500px-Graceland_cover_-_Paul_Simon.jpg,East Coast hip-hop
+45,Sign o' the Times,Prince,,Prince,,Prince,1987-03-31T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/16/Prince-SignOTheTimes.jpg,R&B
+46,Graceland,Paul Simon,,Paul Simon,Q1027822,Paul Simon,1986-08-25T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Graceland%20cover%20-%20Paul%20Simon.jpg,rock music
+47,Ramones,Ramones,CrowzRSA,Ramones,Q176284,Ramones,1976-04-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/bb/Ramones_-_Ramones_cover.jpg,punk rock
+48,Exodus,Bob Marley and the Wailers,,Bob Marley and the Wailers,Q913633,Bob Marley & The Wailers,1977-06-03T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b8/Bob_Marley_and_the_Wailers_-_Exodus.png,reggae
+49,Aquemini,Outkast,"Basilisk4u,DepressedPer",Outkast,Q623242,OutKast,1998-09-28T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/2c/AqueminiOutKast.jpg,hip-hop
+50,The Blueprint,Jay-Z,,Jay-Z,Q1088473,Jay-Z,2001-09-11T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/2c/The_Blueprint.png,hip-hop
+51,The Great Twenty-Eight,Chuck Berry,,Chuck Berry,Q775877,Chuck Berry,1982-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/4c/ChuckBerry_TheGreatTwentyEight.png,rock and roll
+52,Station to Station,David Bowie,Ian Rose,David Bowie,Q831890,David Bowie,1976-01-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/97/Station_to_Station_cover.jpg,rock music
+53,Electric Ladyland,The Jimi Hendrix Experience,,The Jimi Hendrix Experience,Q524415,The Jimi Hendrix Experience,1968-10-16T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f2/Jimi_Hendrix_-_Electric_Ladyland.jpg,psychedelic rock
+54,Star Time,James Brown,,James Brown,Q613274,James Brown,1991-05-07T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b5/James_Brown_Star_Time.jpg,soul
+55,The Dark Side of the Moon,Pink Floyd,Parrot of Doom,Pink Floyd,Q150901,Pink Floyd,1973-03-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/The_Dark_Side_of_The_Moon.jpg/500px-The_Dark_Side_of_The_Moon.jpg,progressive rock
+56,Exile in Guyville,Liz Phair,,Liz Phair,Q821216,Liz Phair,1993-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/00/Liz_Phair_-_Exile_in_Guyville.jpg,indie rock
+57,The Band,The Band,,The Band,Q926142,The Band,1969-09-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/74/The_Band_%28album%29_coverart.jpg,roots rock
+58,Led Zeppelin IV,Led Zeppelin,Ritchie333,Led Zeppelin,Q201940,Led Zeppelin,1971-11-08T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg,rock and roll
+59,Talking Book,Stevie Wonder,,Stevie Wonder,Q676192,Stevie Wonder,1972-10-28T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/25/Talking_Book.jpg,jazz
+60,Astral Weeks,Van Morrison,Agadant,Van Morrison,Q750452,Van Morrison,1968-11-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f7/VanMorrisonAstralWeeks.jpg,folk rock
+61,Paid in Full,Eric B. & Rakim,"Spellcast, isento",Eric B. & Rakim,Q1643785,Eric B. & Rakim,1987-07-07T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e1/RakimPIF.jpg,hip-hop
+62,Appetite for Destruction,Guns N' Roses,,Guns N' Roses,Q270690,Guns 'N Roses,1987-07-21T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/60/GunsnRosesAppetiteforDestructionalbumcover.jpg,hard rock
+63,Aja,Steely Dan,,Steely Dan,Q411814,Steely Dan,1977-09-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/49/Aja_album_cover.jpg,jazz fusion
+64,Stankonia,Outkast,"Basilisk4u, isento",Outkast,Q378166,OutKast,2000-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0b/OutKast_-_Stankonia.JPG,hip-hop
+65,Live at the Apollo,James Brown,,James Brown,Q898420,James Brown,1963-05-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/5a/James_Brown-Live_at_the_Apollo_%28album_cover%29.jpg,soul
+66,A Love Supreme,John Coltrane,,John Coltrane,Q5106,John Coltrane,1965-02-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9a/John_Coltrane_-_A_Love_Supreme.jpg,jazz
+67,Reasonable Doubt,Jay-Z,Noahdabomb3,Jay-Z,Q845329,Jay-Z,1996-06-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f5/Reasonable_Doubt_New.jpg,East Coast hip-hop
+68,Hounds of Love,Kate Bush,,Kate Bush,Q1055992,Kate Bush,1985-09-16T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/3f/Katebushhoundsoflove.png,alternative rock
+69,Jagged Little Pill,Alanis Morissette,,Alanis Morissette,Q750084,Alanis Morissette,1995-06-09T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/47/Alanis_Morissette_-_Jagged_Little_Pill.jpg,alternative rock
+70,Straight Outta Compton,N.W.A,,N.W.A,Q644326,N.W.A.,1988-08-08T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/84/StraightOuttaComptonN.W.A..jpg,West Coast hip-hop
+71,Renaissance,Beyonc√É¬©,,Beyonc√É¬©,Q1109995,Marcus Miller,2012-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png,jazz fusion
+72,Harvest,Neil Young,,Neil Young,Q537983,Neil Young,1972-02-14T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9b/NeilYoungHarvestalbumcover.jpg,folk rock
+73,Loveless,My Bloody Valentine,WesleyDodds,My Bloody Valentine,Q174163,My Bloody Valentine,1991-11-04T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/4b/My_Bloody_Valentine_-_Loveless.png,alternative rock
+74,The College Dropout,Kanye West,"Bruce Campbell,Igordebraga",Kanye West,Q747526,Kanye West,2004-02-10T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a3/Kanyewest_collegedropout.jpg,hip-hop
+75,Lady Soul,Aretha Franklin,,Aretha Franklin,Q928442,Aretha Franklin,1968-01-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/17/ArethaFranklinLadySoul.jpg,soul
+76,Super Fly,Curtis Mayfield,,Curtis Mayfield,,Curtis Mayfield,1972-07-11T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/26/CurtisMayfieldSuperfly.jpg,Psychedelic soul
+77,Who's Next,The Who,Ritchie333,The Who,Q729387,The Who,1971-08-14T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/44/Whosnext.jpg,hard rock
+78,The Sun Sessions,Elvis Presley,,Elvis Presley,Q1077777,Elvis Presley,1976-03-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/cd/Elvis_Presley_The_Sun_Sessions_LP_Cover.jpg,rock and roll
+79,Blonde,Frank Ocean,,Frank Ocean,Q2906905,Guesch Patti,1995-05-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a0/Blonde_-_Frank_Ocean.jpeg,
+80,"Never Mind the Bollocks, Here's the Sex Pistols",Sex Pistols,,Sex Pistols,Q457275,Sex Pistols,1977-10-28T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Never_Mind_the_Bollocks%2C_Here%27s_the_Sex_Pistols.png/500px-Never_Mind_the_Bollocks%2C_Here%27s_the_Sex_Pistols.png,punk rock
+81,BeyoncÈ,Beyonc√É¬©,JennKR,Beyonc√É¬©,,BeyoncÈ,2013-12-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Beyonc%C3%A9_-_Beyonc%C3%A9.svg/500px-Beyonc%C3%A9_-_Beyonc%C3%A9.svg.png,Electro-R&B
+82,There's a Riot Goin' On,Sly and the Family Stone,isento,Sly and the Family Stone,Q258003,Sly and the Family Stone,1971-11-20T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/c9/Slyfam-riot1.jpg,funk
+83,Dusty in Memphis,Dusty Springfield,,Dusty Springfield,Q723817,Dusty Springfield,1969-03-31T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/4f/Dusty_Springfield_-_Dusty_In_Memphis_%28UK%29.jpg,pop music
+84,Back in Black,AC/DC,,AC/DC,Q155715,AC/DC,1980-07-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ACDC_Back_in_Black.png/500px-ACDC_Back_in_Black.png,heavy metal
+85,John Lennon/Plastic Ono Band,John Lennon,,John Lennon,Q603000,John Lennon,1970-12-11T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a4/JLPOBCover.jpg,rock music
+86,The Doors,The Doors,,The Doors,Q201949,The Doors,1967-01-04T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/98/TheDoorsTheDoorsalbumcover.jpg,acid rock
+87,Bitches Brew,Miles Davis,,Miles Davis,Q804096,Miles Davis,1970-03-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/72/Bitches_brew.jpg,jazz fusion
+88,Hunky Dory,David Bowie,zmbro,David Bowie,Q755988,David Bowie,1971-12-17T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/40/David_Bowie_-_Hunky_Dory.jpg,glam rock
+89,Baduizm,Erykah Badu,,Erykah Badu,Q2415000,Erykah Badu,1997-02-11T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/48/Baduizm.png,neo soul
+90,After the Gold Rush,Neil Young,,Neil Young,Q264397,Neil Young,1970-08-31T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/2d/After_the_Gold_Rush.jpg,rock music
+91,Darkness on the Edge of Town,Bruce Springsteen,zmbro,Bruce Springsteen,Q902146,Bruce Springsteen,1978-06-02T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/af/BruceSpringsteenDarknessontheEdgeofTown.jpg,rock and roll
+92,Axis: Bold as Love,The Jimi Hendrix Experience,,The Jimi Hendrix Experience,Q616268,The Jimi Hendrix Experience,1967-12-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/85/Axiscover.jpg,blues rock
+93,Supa Dupa Fly,Missy Elliott,,Missy Elliott,Q240228,Missy Elliott,1997-07-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/df/Missy_Elliott_Supa_Dupa_Fly.jpg,hip-hop
+94,Fun House,The Stooges,,The Stooges,Q1004341,The Stooges,1970-12-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/6d/StoogesFunHouse.jpg,punk rock
+95,Take Care,Drake,,Drake,Q5104794,Drake,2011-11-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/ae/Drake_-_Take_Care_cover.jpg,hip-hop
+96,Automatic for the People,R.E.M.,,R.E.M.,Q782550,R.E.M.,1992-10-07T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/85/R.E.M._-_Automatic_for_the_People.jpg,alternative rock
+97,Master of Puppets,Metallica,Retrohead,Metallica,Q187507,Metallica,1986-03-03T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg,thrash metal
+98,Car Wheels on a Gravel Road,Lucinda Williams,,Lucinda Williams,Q858302,Lucinda Williams,1998-06-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/ee/CarWheelson_aGravelRoad.jpg,folk rock
+99,Red,Taylor Swift,TheSandDoctor,Taylor Swift,Q135675572,Taylor Swift,2012-10-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e8/Taylor_Swift_-_Red.png,Country
+100,Music from Big Pink,The Band,,The Band,Q1063385,The Band,1968-07-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a9/Bigpink.jpg,rock music
+101,Led Zeppelin,Led Zeppelin,Ritchie333,Led Zeppelin,Q131392,Led Zeppelin,1969-01-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/ef/Led_Zeppelin_-_Led_Zeppelin_%281969%29_front_cover.png,hard rock
+102,The Clash,The Clash,,The Clash,Q775208,The Clash,1977-04-08T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9a/The_Clash_UK.jpg,punk rock
+103,3 Feet High and Rising,De La Soul,,De La Soul,Q1079807,De La Soul,1989-03-03T00:00:00Z,https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/De_La_Soul_-_3_Feet_High_and_Rising_Cover.jpeg/500px-De_La_Soul_-_3_Feet_High_and_Rising_Cover.jpeg,hip-hop
+104,Sticky Fingers,The Rolling Stones,,The Rolling Stones,Q745850,The Rolling Stones,1971-04-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/57/The_Rolling_Stones_-_Sticky_Fingers.png,rock and roll
+105,At Fillmore East,The Allman Brothers Band,Saginaw-hitchhiker,The Allman Brothers Band,Q1087498,The Allman Brothers Band,1971-07-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/2c/AllmanBrothersBandAtFillmoreEast.jpg,blues
+106,Live Through This,Hole,,Hole,Q946807,Hole,1994-04-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/c5/Hole_-_Live_Through_This.png,alternative rock
+107,Marquee Moon,Television,isento,Television,Q432372,Television,1977-02-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/af/Marquee_moon_album_cover.jpg,rock music
+108,When the Pawn...,Fiona Apple,,Fiona Apple,Q2003805,Fiona Apple,1999-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/24/Fiona_apple_when_the_pawn.jpg,baroque pop
+109,Transformer,Lou Reed,,Lou Reed,Q631153,Lou Reed,1972-11-08T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f1/Loureedtransformer.jpeg,glam rock
+110,Court and Spark,Joni Mitchell,,Joni Mitchell,Q869433,Joni Mitchell,1974-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/83/Courtandspark.jpeg,pop music
+111,Control,Janet Jackson,Bookkeeperoftheoccult,Janet Jackson,Q530266,Janet Jackson,1986-02-04T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/ff/Janet_Jackson_-_Control.png,contemporary R&B
+112,Goodbye Yellow Brick Road,Elton John,,Elton John,Q827363,Q2808,1973-10-05T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/86/Elton_John_-_Goodbye_Yellow_Brick_Road.jpg,rock music
+113,The Queen Is Dead,The Smiths,Cathodography,The Smiths,Q853308,The Smiths,1986-06-16T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/ed/The-Queen-is-Dead-cover.png,alternative rock
+114,Is This It,The Strokes,Rafablu88,The Strokes,Q779275,The Strokes,2001-07-29T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/09/The_Strokes_-_Is_This_It_cover.png,alternative rock
+115,"Good Kid, M.A.A.D City",Kendrick Lamar,STATicVapor,Kendrick Lamar,Q1930676,Kendrick Lamar,2012-10-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/93/KendrickGKMC.jpg,West Coast hip-hop
+116,Disintegration,The Cure,"NSR77,WesleyDodds",The Cure,Q939505,The Cure,1989-05-02T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b8/CureDisintegration.jpg,alternative rock
+117,Late Registration,Kanye West,isento,Kanye West,Q1130097,Kanye West,2005-08-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f4/Late_registration_cd_cover.jpg,hip-hop
+118,Hotel California,Eagles,,Eagles,Q752172,Eagles,1976-12-08T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/49/Hotelcalifornia.jpg,rock music
+119,Stand!,Sly and the Family Stone,,Sly and the Family Stone,Q429521,Sly and the Family Stone,1969-05-03T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/ce/Stand-slyfam.jpg,funk
+120,Moondance,Van Morrison,isento,Van Morrison,Q1179158,Van Morrison,1970-01-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/ae/VanMorrisonMoondance.jpg,jazz
+121,This Year's Model,Elvis Costello,zmbro,Elvis Costello,Q1188324,Elvis Costello,1978-03-17T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e1/Elvis-Costello-This-Years-Model.jpg,punk rock
+122,The Downward Spiral,Nine Inch Nails,Gixce93,Nine Inch Nails,Q784933,Nine Inch Nails,1994-03-08T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/3b/Official_Album_Cover_of_%22The_Downward_Spiral%22_by_Nine_Inch_Nails.png,industrial rock
+123,Led Zeppelin II,Led Zeppelin,"Edelmand, isento",Led Zeppelin,Q209539,Led Zeppelin,1969-10-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/20/Led_Zeppelin_-_Led_Zeppelin_II.jpg,hard rock
+124,Achtung Baby,U2,"Y2kcrazyjoker4,Merbabu",U2,Q308801,U2,1991-11-18T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/72/Achtung_Baby.png,alternative rock
+125,Paul's Boutique,Beastie Boys,,Beastie Boys,Q977418,Beastie Boys,1989-07-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/73/Beastie_Boys_-_Paul%27s_Boutique.png,hip-hop
+126,My Life,Mary J. Blige,,Mary J. Blige,Q2520722,Mary J. Blige,1994-11-29T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/5f/Mary_J_Blige_album_cover_My_Life.jpg,contemporary R&B
+127,Modern Sounds in Country and Western Music,Ray Charles,isento,Ray Charles,Q860771,Ray Charles,1962-04-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/74/ModernSoundsInC%26WMusic.jpg,country music
+128,A Night at the Opera,Queen,,Queen,Q193477,Queen,1975-11-21T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/4d/Queen_A_Night_At_The_Opera.png,opera
+129,The Wall,Pink Floyd,Parrot of Doom,Pink Floyd,Q151114,Pink Floyd,1979-11-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/thumb/1/13/PinkFloydWallCoverOriginalNoText.jpg/500px-PinkFloydWallCoverOriginalNoText.jpg,progressive rock
+130,1999,Prince,,Prince,Q208824,Prince,1982-10-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9c/Prince_-1999.jpg,funk
+131,Dummy,Portishead,,Portishead,Q911143,Portishead,1994-08-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/6b/Portishead_-_Dummy.png,trip hop
+132,40 Greatest Hits,Hank Williams,,Hank Williams,Q4637398,Hank Williams,1978-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/08/40_Greatest_Hits_%28Hank_Williams%2C_Sr._album%29.jpeg,blues
+133,Hejira,Joni Mitchell,,Joni Mitchell,Q1035073,Joni Mitchell,1976-11-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9e/Hejira_cover.jpg,jazz fusion
+134,The Score,Fugees,,Fugees,Q938448,Fugees,1996-02-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/df/Fugees_-_The_Score.png,alternative hip-hop
+135,The Joshua Tree,U2,"Y2kcrazyjoker4,Merbabu",U2,Q152873,U2,1987-03-09T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/6b/The_Joshua_Tree.png,pop rock
+136,Maggot Brain,Funkadelic,,Funkadelic,Q937641,Funkadelic,1971-07-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9a/Maggot_Brain_%28Funkadelic_album_-_cover_art%29.jpg,funk rock
+137,21,Adele,,Adele,Q155169,Adele,2011-01-24T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png,pop music
+138,The Immaculate Collection,Madonna,Bluesatellite,Madonna,Q642470,Madonna,1990-11-09T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/51/Madonna_-_The_Immaculate_Collection.png,pop music
+139,Paranoid,Black Sabbath,,Black Sabbath,Q271787,Black Sabbath,1970-09-18T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/64/Black_Sabbath_-_Paranoid.jpg,heavy metal
+140,Catch a Fire,Bob Marley and the Wailers,Tomcat7,Bob Marley and the Wailers,Q369980,The Wailers,1973-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/bf/BobMarleyCatchAFire.jpg,reggae
+141,Doolittle,Pixies,CloudNine,Pixies,Q909006,Pixies,1989-04-18T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/6b/Pixies-Doolittle.jpg,grunge
+142,Born in the U.S.A.,Bruce Springsteen,zmbro,Bruce Springsteen,Q40425,Bruce Springsteen,1984-06-04T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/31/BruceBorn1984.JPG,pop rock
+143,The Velvet Underground,The Velvet Underground,,The Velvet Underground,Q848781,The Velvet Underground,1969-03-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9a/Velvetundergroundthirdalbum.jpg,folk rock
+144,Physical Graffiti,Led Zeppelin,Ritchie333,Led Zeppelin,Q210809,Led Zeppelin,1975-02-24T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e3/Led_Zeppelin_-_Physical_Graffiti.jpg,rock music
+145,The Marshall Mathers LP,Eminem,,Eminem,Q153607,Q5608,2000-05-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/ae/The_Marshall_Mathers_LP.jpg,hip-hop
+146,Parallel Lines,Blondie,,Blondie,Q1072373,Blondie,1978-09-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/48/Blondie_-_Parallel_Lines.png,new wave
+147,Grace,Jeff Buckley,,Jeff Buckley,Q116060002,David Knopfler,2015-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e4/Jeff_Buckley_grace.jpg,pop music
+148,Channel Orange,Frank Ocean,isento,Frank Ocean,Q402035,Frank Ocean,2012-07-10T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/28/Channel_ORANGE.jpg,neo soul
+149,John Prine,John Prine,,John Prine,Q1101326,John Prine,1971-11-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a0/John_Prine_self-titled.jpg,traditional folk music
+150,Nebraska,Bruce Springsteen,zmbro,Bruce Springsteen,Q852024,Bruce Springsteen,1982-09-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/94/Bruce_Springsteen_-_Nebraska.jpg,country rock
+151,Faith,George Michael,,George Michael,Q107526334,Pop Smoke,2021-07-16T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9a/George_Michael_-_Faith.png,hip-hop
+152,Pretenders,The Pretenders,,The Pretenders,Q755468,The Pretenders,1979-12-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/ee/Pretenders_album.jpg,punk rock
+153,Rid of Me,PJ Harvey,,PJ Harvey,Q1074272,PJ Harvey,1993-04-05T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/c6/Rid_of_Me.jpg,alternative rock
+154,Amazing Grace,Aretha Franklin,,Aretha Franklin,Q3613741,Aretha Franklin,2016-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/15/ArethaAmazingGrace.JPG,soul
+155,The Black Album,Jay-Z,,Jay-Z,Q880043,Jay-Z,2003-11-14T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0e/Jay-Z_-_The_Black_Album.png,funk
+156,Let It Be,The Replacements,,The Replacements,Q199585,The Replacements,1984-10-02T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b7/The_Replacements_-_Let_It_Be_cover.jpg,Post-punk
+157,(What's the Story) Morning Glory?,Oasis,Mewerlack,Oasis,,Oasis,1995-10-02T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b1/Oasis_-_%28What%27s_The_Story%29_Morning_Glory_album_cover.jpg,Britpop
+158,Mama's Gun,Erykah Badu,,Erykah Badu,Q847976,Erykah Badu,2000-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/ab/Mama%27s_Gun.png,neo soul
+159,Synchronicity,The Police,,The Police,Q211683,Olivia Lufkin,2000-12-06T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/7f/Police-album-synchronicity.jpg,alternative rock
+160,Ten,Pearl Jam,-5-,Pearl Jam,Q383227,Pearl Jam,1991-08-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/6f/Pearl_Jam_Ten_Alt_Cover.jpg,grunge
+161,"Crosby, Stills & Nash","Crosby, Stills & Nash",,"Crosby, Stills & Nash",Q869918,"Crosby, Stills & Nash",1969-05-29T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/39/Crosbystillsandnash.jpg,rock music
+162,Different Class,Pulp,,Pulp,Q771579,Pulp,1995-10-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e1/Pulp_-_Different_Class.PNG,Britpop
+163,Saturday Night Fever,Various artists,,Various artists,,Bee Gees and various artists,1977-11-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0c/TheBeeGeesSaturdayNightFeveralbumcover.jpg,Disco
+164,At Folsom Prison,Johnny Cash,Teemu08,Johnny Cash,Q752937,Johnny Cash,1968-05-06T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/bf/Johnny_Cash_At_Folsom_Prison.jpg,country music
+165,Murmur,R.E.M.,,R.E.M.,Q904480,R.E.M.,1983-04-11T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/c0/R.E.M._-_Murmur.jpg,alternative rock
+166,20 Golden Greats,Buddy Holly,,Buddy Holly,Q960191,The Beach Boys,1976-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/51/20_Golden_Greats.jpg,rock music
+167,Violator,Depeche Mode,,Depeche Mode,Q683079,Depeche Mode,1990-03-19T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/92/Depeche_Mode_-_Violator.png,alternative rock
+168,Can't Buy a Thrill,Steely Dan,,Steely Dan,Q857908,Steely Dan,1972-11-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b2/Cant_buy_a_tcant_buy_a_thrill.jpg,pop music
+169,The Stranger,Billy Joel,,Billy Joel,Q202183,Billy Joel,1977-09-29T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f5/Thestranger1977.jpg,rock music
+170,Folklore,Taylor Swift,,Taylor Swift,Q845703,Nelly Furtado,2003-11-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png,pop rock
+171,Daydream Nation,Sonic Youth,,Sonic Youth,Q902833,Sonic Youth,1988-10-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/ad/Daydreamnation.png,alternative rock
+172,Bridge over Troubled Water,Simon & Garfunkel,,Simon & Garfunkel,Q655502,Simon & Garfunkel,1970-01-26T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/41/Simon_and_Garfunkel%2C_Bridge_over_Troubled_Water_%281970%29.png,folk rock
+173,In Utero,Nirvana,WesleyDodds,Nirvana,Q222001,Nirvana,1993-09-21T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Nirvana-In-Utero.png,grunge
+174,The Harder They Come,Various artists,,Various artists,Q937034,Jimmy Cliff,1972-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/80/JimmyCliffTheHarderTheyComealbumcover.jpg,reggae
+175,Damn,Kendrick Lamar,,Kendrick Lamar,,Kendrick Lamar,2017-14-04T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/51/Kendrick_Lamar_-_Damn.png,conscious hip-hop
+176,Fear of a Black Planet,Public Enemy,isento,Public Enemy,Q996926,Public Enemy,1990-04-10T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/6c/Fear_of_a_Black_Planet.jpg,hip-hop
+177,Every Picture Tells a Story,Rod Stewart,,Rod Stewart,Q993764,Rod Stewart,1971-05-28T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/75/EveryPictureTellsaStory.jpg,roots rock
+178,Otis Blue/Otis Redding Sings Soul,Otis Redding,Tomcat7,Otis Redding,Q1226956,Otis Redding,1965-09-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/45/Otis_Blue.jpg,soul
+179,Life After Death,The Notorious B.I.G.,,The Notorious B.I.G.,Q519122,The Notorious B.I.G.,1997-03-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/1c/NotoriousB.I.G.LifeAfterDeath.jpg,hip-hop
+180,Forever Changes,Love,,Love,Q1002861,Love,1967-11-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/c8/Love_-_forever_changes.jpg,folk rock
+181,Bringing It All Back Home,Bob Dylan,,Bob Dylan,Q268106,Bob Dylan,1965-03-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b1/Bob_Dylan_-_Bringing_It_All_Back_Home.jpg,rock music
+182,Sweet Baby James,James Taylor,,James Taylor,Q745580,James Taylor,1970-02-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/12/James_Taylor_-_Sweet_Baby_James.jpg,blues
+183,Brown Sugar,D'Angelo,isento,D'Angelo,Q779719,D‚ÄôAngelo,1995-07-03T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/71/D%27Angelo_-_Brown_Sugar.jpg,jazz
+184,She's So Unusual,Cyndi Lauper,,Cyndi Lauper,Q263323,Cyndi Lauper,1983-10-14T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/09/ShesSoUnusual1984.PNG,popular music
+185,Beggars Banquet,The Rolling Stones,,The Rolling Stones,Q339065,The Rolling Stones,1968-12-06T00:00:00Z,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BeggarsBanquetLP.jpg/500px-BeggarsBanquetLP.jpg,country blues
+186,Blood Sugar Sex Magik,Red Hot Chili Peppers,NSR77,Red Hot Chili Peppers,Q329396,Red Hot Chili Peppers,1991-09-24T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/5e/RHCP-BSSM.jpg,alternative rock
+187,AmeriKKKa's Most Wanted,Ice Cube,,Ice Cube,Q689666,Ice Cube,1990-05-16T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/79/AmeriKKKa%27s_Most_Wanted_%28Ice_Cube%29.jpg,West Coast hip-hop
+188,Electric Warrior,T. Rex,,T. Rex,Q940412,T. Rex,1971-09-24T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e5/T_Rex_Electric_Warrior_UK_album_cover.jpg,rock and roll
+189,Dig Me Out,Sleater-Kinney,Niwi3,Sleater-Kinney,Q727157,Sleater-Kinney,1997-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/5e/SleaterKinneyDigMeOut.jpg,punk rock
+190,Tommy,The Who,Ritchie333,The Who,Q372055,The Who,1969-05-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/19/Tommyalbumcover.jpg,rock opera
+191,At Last!,Etta James,,Etta James,Q3280688,Etta James,1960-11-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/fd/At_Last_-_Etta_James.jpg,blues
+192,Licensed to Ill,Beastie Boys,,Beastie Boys,Q1073460,Beastie Boys,1986-11-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/67/Beastie_Boys_-_Licensed_to_Ill.png,punk rock
+193,Willy and the Poor Boys,Creedence Clearwater Revival,,Creedence Clearwater Revival,Q1546636,Creedence Clearwater Revival,1969-11-02T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/85/Willy_and_the_poor_boys.jpg,swamp rock
+194,Bad,Michael Jackson,"Crystal Clear x3,Realist2",Michael Jackson,Q44142,Michael Jackson,1987-08-31T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/51/Michael_Jackson_-_Bad.png,disco
+195,Songs of Leonard Cohen,Leonard Cohen,,Leonard Cohen,Q923550,Leonard Cohen,1967-12-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/4c/SongsOfLeonardCohen.jpeg,folk music
+196,Body Talk,Robyn,,Robyn,Q3641547,Robyn,2010-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/cd/Body_Talk_by_Robyn.png,electropop
+197,Meet the Beatles!,The Beatles,,The Beatles,Q913616,The Beatles,1964-01-20T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/52/Meet_the_Beatles.jpg,rock and roll
+198,The B-52's,The B-52's,,The B-52's,Q302812,The B-52's,1979-07-06T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/92/The_B-52%27s_cover.jpg,new wave
+199,Slanted and Enchanted,Pavement,,Pavement,Q120712,Pavement,1992-04-20T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/54/Slanted_and_Enchanted_album_cover.jpg,indie rock
+200,Diamond Life,Sade,,Sade,Q904971,Sade,1984-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/69/Sade_-_Diamond_Life.png,soul
+201,Midnight Marauders,A Tribe Called Quest,,A Tribe Called Quest,Q631450,A Tribe Called Quest,1991-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/16/ATCQMidnightMarauders.jpg,jazz rap
+202,Homogenic,Bj√É¬∂rk,Andrzejbanas,Bj√É¬∂rk,Q617046,Bj√∂rk,1997-09-20T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/af/Bj%C3%B6rk_-_Homogenic.png,trip hop
+203,Pink Moon,Nick Drake,,Nick Drake,Q574910,Nick Drake,1972-02-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/3c/NickDrakePinkMoon.jpg,folk music
+204,Graduation,Kanye West,Bruce Campbell,Kanye West,Q1129439,Kanye West,2007-09-05T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/70/Graduation_%28album%29.jpg,hip-hop
+205,Tea for the Tillerman,Cat Stevens,,Cat Stevens,Q1077486,Cat Stevens,1970-11-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0e/Tea_for_the_Tillerman.jpeg,folk rock
+206,Low,David Bowie,zmbro,David Bowie,Q654711,Testament,1994-09-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/93/Low_%28album%29.jpg,thrash metal
+207,Eagles,Eagles,,Eagles,Q987438,Eagles,1972-06-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/d2/The_Eagles_-_The_Eagles.jpeg,rock and roll
+208,Tha Carter III,Lil Wayne,,Lil Wayne,Q1417942,Lil Wayne,2008-06-10T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/c8/CarterIII.jpg,hip-hop
+209,Raising Hell,Run-DMC,,Run-DMC,Q521828,Run-DMC,1986-05-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/93/Raising_Hell_%28Run_DMC_album_-_cover_art%29.jpg,hip-hop
+210,The Birth of Soul,Ray Charles,,Ray Charles,Q722775,Ray Charles,1991-10-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f9/Ray_Charles_-_The_Birth_of_Soul.jpg,rhythm and blues
+211,Unknown Pleasures,Joy Division,,Joy Division,Q735573,Joy Division,1979-07-14T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/5a/UnknownPleasuresVinyl.jpg,gothic rock
+212,Wild Is the Wind,Nina Simone,,Nina Simone,Q754696,Nina Simone,1966-09-16T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e7/Ninasimonewildisthewind.jpg,jazz
+213,The Idler Wheel...,Fiona Apple,,Fiona Apple,,Fiona Apple,2012-09-19T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/7d/TheIdlerWheel....jpg,Art pop
+214,Wildflowers,Tom Petty,,Tom Petty,Q1935759,Tom Petty,1994-11-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/d8/Tom_Petty_Wildflowers.jpg,heartland rock
+215,American Beauty,Grateful Dead,,Grateful Dead,Q255923,Grateful Dead,1970-11-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/6a/Grateful_Dead_-_American_Beauty.jpg,folk rock
+216,Either/Or,Elliott Smith,,Elliott Smith,Q988557,Elliott Smith,1997-02-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/fd/Elliottsmitheitheror55.jpg,indie rock
+217,Definitely Maybe,Oasis,,Oasis,Q328993,Oasis,1994-08-29T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/d4/OasisDefinitelyMaybealbumcover.jpg,Britpop
+218,CrazySexyCool,TLC,,TLC,Q869575,TLC,1994-11-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/5b/TLC_-_CrazySexyCool_album_cover.png,contemporary R&B
+219,Only Built 4 Cuban Linx...,Raekwon,,Raekwon,Q1187999,Raekwon,1995-08-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/17/Raekwon_only.jpg,East Coast hip-hop
+220,DÈj‡ Vu,"Crosby, Stills, Nash & Young",,"Crosby, Stills, Nash & Young",,"Crosby, Stills, Nash & Young†and†Dallas Taylor†&†Greg Reeves",1970-03-11T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/90/Crosby%2C_Stills%2C_Nash_%26_Young_-_Deja_Vu.jpg,
+221,Rage Against the Machine,Rage Against the Machine,,Rage Against the Machine,Q540943,Rage Against the Machine,1992-11-06T00:00:00Z,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Rage_Against_the_Machine_cover.jpg/500px-Rage_Against_the_Machine_cover.jpg,funk metal
+222,Ray of Light,Madonna,Legolas2186,Madonna,Q155335,Madonna,1998-02-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/dd/Ray_of_Light_Madonna.png,pop music
+223,Imagine,John Lennon,,John Lennon,Q333266,John Lennon,1971-09-09T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/69/ImagineCover.jpg,rock and roll
+224,Fly,Dixie Chicks,,Dixie Chicks,Q616152,Yoko Ono,1971-09-20T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/d1/Chicksfly.jpg,rock music
+225,Yankee Hotel Foxtrot,Wilco,Teemu08,Wilco,Q1091995,Wilco,2002-04-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/1c/Yankee_Hotel_Foxtrot_%28Front_Cover%29.png,alternative rock
+226,Layla and Other Assorted Love Songs,Derek and the Dominos,,Derek and the Dominos,Q843511,Derek and the Dominos,1970-11-09T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a7/LaylaCover.jpg,rock music
+227,Here's Little Richard,Little Richard,,Little Richard,Q1035513,Little Richard,1957-03-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/c0/Hereslittlerichard.jpeg,rock and roll
+228,De La Soul Is Dead,De La Soul,,De La Soul,Q222316,De La Soul,1991-05-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b3/De_La_Soul_Is_Dead.png,alternative hip-hop
+229,The Ultimate Collection,Patsy Cline,,Patsy Cline,Q239562,YU grupa,2009-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/00/The_Ultimate_Collection_%282000_Patsy_Cline_album%29.jpg,hard rock
+230,Anti,Rihanna,,Rihanna,Q18552042,Rihanna,2016-01-28T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/32/Rihanna_-_Anti.png,Pop
+231,Damn the Torpedoes,Tom Petty and the Heartbreakers,,Tom Petty and the Heartbreakers,Q45032,Tom Petty and the Heartbreakers,1979-10-19T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/05/TomPetty%26theHeartbreakersDamntheTorpedoes.jpg,heartland rock
+232,Giant Steps,John Coltrane,,John Coltrane,Q1010296,The Boo Radleys,1993-08-31T00:00:00Z,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Coltrane_Giant_Steps.jpg/500px-Coltrane_Giant_Steps.jpg,alternative rock
+233,Little Earthquakes,Tori Amos,,Tori Amos,Q253057,Tori Amos,1992-01-06T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/d0/Lecover-big.jpg,alternative rock
+234,Master of Reality,Black Sabbath,,Black Sabbath,Q658926,Black Sabbath,1971-07-21T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/21/Black_Sabbath_Master_of_Reality_album_cover.jpg,heavy metal
+235,Metallica,Metallica,,Metallica,Q213516,Metallica,1991-08-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/2c/Metallica_-_Metallica_cover.jpg,heavy metal
+236,Discovery,Daft Punk,"electricController,DannyMusicEditor",Daft Punk,Q906197,Mike Oldfield,1984-06-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/27/Daft_Punk_-_Discovery.png,rock music
+237,Red Headed Stranger,Willie Nelson,GDuwen,Willie Nelson,Q755963,Willie Nelson,1975-05-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a4/WillieNelsonRedHeadedStrangeralbumcover.jpg,country music
+238,Trans-Europe Express,Kraftwerk,"Andrzejbanas,Ricadus",Kraftwerk,Q523372,Kraftwerk,1977-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/57/Trans-Europe_Express_German.png,electropop
+239,Criminal Minded,Boogie Down Productions,,Boogie Down Productions,Q2706654,Boogie Down Productions,1987-03-03T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a5/Criminal_Minded_Album_Cover.jpg,gangsta rap
+240,"Live at the Harlem Square Club, 1963",Sam Cooke,,Sam Cooke,Q221622,Sam Cooke,1985-06-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/1c/Live_at_the_Harlem_Square_Club.jpg,soul
+241,Blue Lines,Massive Attack,,Massive Attack,Q847910,Massive Attack,1991-04-08T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a7/MassiveAttackBlueLines.jpg,trip hop
+242,Loaded,The Velvet Underground,,The Velvet Underground,Q1634439,The Velvet Underground,1970-11-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/71/Loadedalbum.jpg,rock and roll
+243,Odessey and Oracle,The Zombies,,The Zombies,Q1187585,The Zombies,1968-04-19T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/6a/Odessey_and_Oracle.jpg,baroque pop
+244,808s & Heartbreak,Kanye West,Bruce Campbell,Kanye West,Q271308,Kanye West,2008-11-24T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f1/808s_%26_Heartbreak.png,pop music
+245,Heaven or Las Vegas,Cocteau Twins,,Cocteau Twins,Q848584,Cocteau Twins,1990-09-17T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/60/Cocteau_Twins%E2%80%94Heaven_or_Las_Vegas.jpg,dream pop
+246,Mama Said Knock You Out,LL Cool J,,LL Cool J,Q636979,LL Cool J,1990-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/7e/Mama_Said_Knock_You_Out_%28LL_Cool_J_album_-_cover_art%29.jpg,hip-hop
+247,Love Deluxe,Sade,,Sade,Q1185154,Sade,1992-10-26T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e9/Sade_-_Love_Deluxe.png,ambient music
+248,American Idiot,Green Day,"DannyMusicEditor,electricController",Green Day,Q151714,Green Day,2004-09-21T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/ed/Green_Day_-_American_Idiot_album_cover.png,punk rock
+249,Whitney Houston,Whitney Houston,,Whitney Houston,Q220749,Whitney Houston,1985-02-14T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/96/Whitney_Houston%2C_Self_Titled.png,popular music
+250,Singles Going Steady,Buzzcocks,,Buzzcocks,Q3961850,Buzzcocks,1979-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/48/Buzzcocks_-_Singles_Going_Steady_LP_album_cover.jpg,punk rock
+251,Honky Ch‚teau,Elton John,,Elton John,,Elton John,1972-05-19T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f0/Elton_John_-_Honky_Ch%C3%A2teau.jpg,Rock
+252,Q: Are We Not Men? A: We Are Devo!,Devo,,Devo,Q670074,Devo,1978-08-28T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/54/Are_We_Not_Men_We_Are_Devo%21.jpg,punk rock
+253,The Piper at the Gates of Dawn,Pink Floyd,"Ummagumma23, MusicforthePeople",Pink Floyd,Q202714,Pink Floyd,1967-08-04T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/3c/PinkFloyd-album-piperatthegatesofdawn_300.jpg,pop music
+254,Head Hunters,Herbie Hancock,,Herbie Hancock,Q1034640,Herbie Hancock,1973-10-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/54/Herbie-Hancock-Head-Hunters.png,jazz-funk
+255,The Freewheelin' Bob Dylan,Bob Dylan,"Mick gold,I.M.S.,Moisejp",Bob Dylan,Q11632,Bob Dylan,1963-05-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/d6/Bob_Dylan_-_The_Freewheelin%27_Bob_Dylan.jpg,folk music
+256,Tracy Chapman,Tracy Chapman,,Tracy Chapman,Q129804,Tracy Chapman,1988-04-05T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/3d/Tracy_Chapman_-_Tracy_Chapman.jpg,folk rock
+257,Coat of Many Colors,Dolly Parton,,Dolly Parton,Q868099,Dolly Parton,1971-10-02T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/ab/CoatofManyColors.jpg,country music
+258,The Hissing of Summer Lawns,Joni Mitchell,,Joni Mitchell,Q964149,Joni Mitchell,1975-11-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/95/Joni_hissing.jpg,folk rock
+259,Pearl,Janis Joplin,,Janis Joplin,Q220744,Q1514,1971-01-11T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/61/Janis_Joplin-Pearl_%28album_cover%29.jpg,rhythm and blues
+260,Cut,The Slits,,The Slits,Q899653,The Slits,1979-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/ab/Cut_%28The_Slits%29.jpg,punk rock
+261,Check Your Head,Beastie Boys,,Beastie Boys,Q608507,Beastie Boys,1992-04-21T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/ee/Beastie_Boys_-_Check_Your_Head.png,alternative rock
+262,"Power, Corruption & Lies",New Order,,New Order,Q1930135,New Order,1983-05-02T00:00:00Z,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/New_Order_-_Power%2C_Corruption_%26_Lies.png/500px-New_Order_-_Power%2C_Corruption_%26_Lies.png,new wave
+263,A Hard Day's Night,The Beatles,,The Beatles,Q182518,The Beatles,1964-07-10T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e6/HardDayUK.jpg,rock and roll
+264,Wish You Were Here,Pink Floyd,Parrot of Doom,Pink Floyd,Q200872,Pink Floyd,1975-09-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a4/Pink_Floyd%2C_Wish_You_Were_Here_%281975%29.png,progressive rock
+265,Wowee Zowee,Pavement,Niwi3,Pavement,Q2249109,Pavement,1995-04-11T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0a/WoweeZowee.jpg,indie rock
+266,Help!,The Beatles,,The Beatles,Q201816,The Beatles,1965-08-06T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/d7/The_Beatles_-_Help%21.png,rock music
+267,Double Nickels on the Dime,Minutemen,"Cjmarsicano,CloudNine",Minutemen,Q909309,Minutemen,1984-07-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/bc/Doublenickels.jpg,hardcore punk
+268,Sail Away,Randy Newman,,Randy Newman,Q755487,Randy Newman,1972-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0a/Randy_Newman-Sail_Away_%28album_cover%29.jpg,rock music
+269,Yeezus,Kanye West,STATicVapor,Kanye West,Q13378144,Kanye West,2013-06-18T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/03/Yeezus_album_cover.png,hip-hop
+270,Golden Hour,Kacey Musgraves,,Kacey Musgraves,Q51155613,Kacey Musgraves,2018-03-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/65/Kacey_Musgraves_-_Golden_Hour.png,country pop
+271,What's the 411?,Mary J. Blige,,Mary J. Blige,Q2779733,Mary J. Blige,1992-07-28T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/2b/What%27sThe411%3F.jpg,contemporary R&B
+272,White Light/White Heat,The Velvet Underground,"DecrepitlyOnward,zmbro",The Velvet Underground,Q523347,The Velvet Underground,1968-01-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/61/Whitelightwhiteheat.jpg,experimental rock
+273,Entertainment!,Gang of Four,,Gang of Four,Q167110,Gang of Four,1979-09-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/6d/Entertainment%21.jpg,post-punk
+274,Sweetheart of the Rodeo,The Byrds,"Kohoutek1138,Cbben",The Byrds,Q928243,The Byrds,1968-08-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/ed/TheByrdsSweetheartoftheRodeo.jpg,country rock
+275,Curtis,Curtis Mayfield,,Curtis Mayfield,Q717750,Curtis Mayfield,1970-09-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/cc/Curtismayfield-1970lp.jpg,soul
+276,The Bends,Radiohead,"Popcornfud,Tunakanski",Radiohead,Q221246,Radiohead,1995-03-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/55/Radioheadthebends.png,alternative rock
+277,The Diary of Alicia Keys,Alicia Keys,,Alicia Keys,Q261724,Alicia Keys,2003-12-02T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/cc/The_Diary_of_Alicia_Keys.png,neo soul
+278,Houses of the Holy,Led Zeppelin,Ritchie333,Led Zeppelin,Q211413,Led Zeppelin,1973-03-28T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9f/Led_Zeppelin_-_Houses_of_the_Holy.jpg,rock music
+279,MTV Unplugged in New York,Nirvana,,Nirvana,Q212326,Nirvana,1994-11-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e5/In_Utero_%28Nirvana%29_album_cover.jpg,grunge
+280,Get Rich or Die Tryin',50 Cent,,50 Cent,Q500182,Nate Dogg,2005-11-08T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9d/Get_Rich_Or_Die_Tryin%27.JPG,gangsta rap
+281,Nilsson Schmilsson,Harry Nilsson,,Harry Nilsson,Q1218171,Harry Nilsson,1971-11-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/ae/Harry_Nilsson_-_Nilsson_Schmilsson.png,rock music
+282,In the Wee Small Hours,Frank Sinatra,,Frank Sinatra,Q221573,Frank Sinatra,1955-04-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/12/Wee_small_hours_album_cover_high_definition.jpg,jazz
+283,Bad Girls,Donna Summer,,Donna Summer,Q788286,Donna Summer,1979-04-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b7/Bad_Girls_LP.jpg,disco
+284,Down Every Road 1962ñ1994,Merle Haggard,,Merle Haggard,,Merle Haggard,1996-04-00T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a2/Down_Every_Road.jpg,country
+285,Third/Sister Lovers,Big Star,,Big Star,Q755161,Big Star,1975-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/93/Big_Star-3rd.jpg,power pop
+286,Californication,Red Hot Chili Peppers,,Red Hot Chili Peppers,Q219425,Red Hot Chili Peppers,1999-06-07T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/df/RedHotChiliPeppersCalifornication.jpg,alternative rock
+287,Mr. Tambourine Man,The Byrds,,The Byrds,Q959637,The Byrds,1965-06-21T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/2d/Byrds-MrTambourineMan.jpg,folk rock
+288,The Modern Lovers,The Modern Lovers,,The Modern Lovers,Q755363,The Modern Lovers,1976-08-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/da/The_Modern_Lovers_%28album%29.jpg,rock music
+289,Post,Bj√É¬∂rk,Bleff,Bj√É¬∂rk,Q1347624,Bj√∂rk,1995-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/3f/Bjork_Post.png,trip hop
+290,Speakerboxxx/The Love Below,Outkast,,Outkast,Q603672,OutKast,2003-09-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/54/Speakerboxxx-The_Love_Below.png,hip-hop
+291,The Writing's on the Wall,Destiny's Child,,Destiny's Child,Q617443,Destiny's Child,1999-07-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/79/The_Writing%27s_on_the_Wall.png,contemporary R&B
+292,Van Halen,Van Halen,,Van Halen,Q264135,Van Halen,1978-02-10T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0d/Van_Halen_album.jpg,hard rock
+293,Last Splash,The Breeders,,The Breeders,Q2136712,The Breeders,1993-08-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f3/TheBreedersLastSplash.jpg,pop music
+294,Weezer,Weezer,Cowbellcity45,Weezer,Q1346351,Weezer,1994-05-10T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/70/Weezer_-_Blue_Album.png,alternative rock
+295,Random Access Memories,Daft Punk,"Jhsounds,Bobamnertiopsis",Daft Punk,Q8119033,Daft Punk,2013-05-17T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/26/Daft_Punk_-_Random_Access_Memories.png,electronic music
+296,Rust Never Sleeps,Neil YoungandCrazy Horse,,Neil YoungandCrazy Horse,Q927457,Neil Young and Crazy Horse,1979-06-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/47/Neil_Young_Rust_Never_Sleeps.jpg,rock music
+297,So,Peter Gabriel,JennKR,Peter Gabriel,Q657185,Peter Gabriel,1986-05-19T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a4/So_%28album%29.png,pop music
+298,Full Moon Fever,Tom Petty,,Tom Petty,Q1754734,Tom Petty,1989-04-24T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/4d/Tom_Petty_Full_Moon_Fever.jpg,heartland rock
+299,Live at the Regal,B.B. King,,B.B. King,Q846100,B. B. King,1965-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/2f/BB_King-Live_at_the_Regal_%28album_cover%29.jpg,blues
+300,Come On Over,Shania Twain,,Shania Twain,Q868465,Olivia Newton-John,1976-02-29T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0b/ShaniaTwainComeOnOver.png,country music
+301,New York Dolls,New York Dolls,isento,New York Dolls,Q1190099,New York Dolls,1973-07-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/05/NewYorkDollsNewYorkDolls.jpg,punk rock
+302,Tonight's the Night,Neil Young,,Neil Young,Q1066236,Neil Young,1975-06-20T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/01/Neil_Young_TTN_cover.jpg,rock music
+303,The Definitive Collection,ABBA,,ABBA,Q1319261,Olivia Newton-John,2002-07-16T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/6b/Abbadefinitivecollection.jpg,pop music
+304,Just as I Am,Bill Withers,,Bill Withers,Q3811532,Yolanda Adams,1987-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Withers-justasiamcoverart.JPG/500px-Withers-justasiamcoverart.JPG,gospel music
+305,Alive!,Kiss,,Kiss,Q650560,Kiss,1975-09-10T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/48/Kiss_alive_album_cover.jpg,glam rock
+306,I'm Still in Love with You,Al Green,,Al Green,Q3282395,Roy Orbison,1976-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f0/StillinloveAlGreen.jpg,soul
+307,Portrait of a Legend: 1951ñ1964,Sam Cooke,,Sam Cooke,,Sam Cooke,2003-06-17T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0c/Portrait_of_a_Legeng.jpg,rhythm and blues
+308,Here Come the Warm Jets,Brian Eno,Andrzejbanas,Brian Eno,Q734156,Brian Eno,1974-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/13/Warmjetsvinyl.jpg,glam rock
+309,Closer,Joy Division,,Joy Division,Q756930,Joy Division,1980-07-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/64/Joy_Division_Closer.jpg,gothic rock
+310,Pink Flag,Wire,,Wire,Q370633,Wire,1977-11-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/3e/Wirepinkflagcover.jpg,punk rock
+311,On the Beach,Neil Young,,Neil Young,Q1073882,Neil Young,1974-07-16T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/34/Neil_Young_-_On_the_Beach.png,rock music
+312,A Seat at the Table,Solange Knowles,,Solange Knowles,Q27231139,Solange Knowles,2016-09-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/8d/Solange_-_A_Seat_at_the_Table.png,rhythm and blues
+313,"Stories from the City, Stories from the Sea",PJ Harvey,,PJ Harvey,Q1049357,PJ Harvey,2000-10-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a3/Stories_From_The_City%2C_Stories_From_The_Sea.jpg,alternative rock
+314,One in a Million,Aaliyah,,Aaliyah,Q938836,Aaliyah,1996-08-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a8/Aaliyah_-_One_in_a_Million_%28album_cover%29.png,rhythm and blues
+315,El Mal Querer,Rosal√É¬≠a,,Rosal√É¬≠a,Q56650719,Rosal√≠a,2018-11-02T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e9/Rosal%C3%ADa_El_mal_querer.png,flamenco
+316,The Who Sell Out,The Who,,The Who,Q844051,The Who,1967-12-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/98/The_who_sell_out_album_front.jpg,psychedelic rock
+317,Lady in Satin,Billie Holiday,,Billie Holiday,Q285175,Billie Holiday,1958-06-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/52/Ladyinsatin2.jpg,vocal jazz
+318,The Velvet Rope,Janet Jackson,,Janet Jackson,Q777308,Janet Jackson,1997-10-07T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/6b/Janet_Jackson_%E2%80%93_The_Velvet_Rope_%28Official_Album_Cover%29.png,trip hop
+319,The Stone Roses,The Stone Roses,,The Stone Roses,Q300932,The Stone Roses,1989-03-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/ff/Stoneroses.jpg,alternative rock
+320,Los Angeles,X,,X,Q1147518,X,1980-04-26T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/6e/XLosAngeles.jpg,punk rock
+321,Norman Fucking Rockwell!,Lana Del Rey,,Lana Del Rey,Q56655003,Lana Del Rey,2019-08-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/8a/Lana_Del_Rey_-_Norman_Fucking_Rockwell.png,alternative rock
+322,From Elvis in Memphis,Elvis Presley,GDuwen,Elvis Presley,Q1004072,Elvis Presley,1969-06-17T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/60/ElvisinMemphis.jpg,rock and roll
+323,Sandinista!,The Clash,,The Clash,Q1142897,The Clash,1980-12-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/66/The_Clash_-_Sandinista%21.jpg,rock music
+324,A Rush of Blood to the Head,Coldplay,Efe,Coldplay,Q207970,Coldplay,2002-08-26T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/60/Coldplay_-_A_Rush_of_Blood_to_the_Head_Cover.png,alternative rock
+325,"All Killer, No Filler: The Anthology",Jerry Lee Lewis,,Jerry Lee Lewis,Q4033743,Jerry Lee Lewis,1993-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0d/AllKillerNoFiller.jpg,rock and roll
+326,Dirty Mind,Prince,,Prince,Q1228240,Prince,1980-10-08T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/2e/Prince_-_Dirty_Mind.jpg,rock music
+327,Live at Leeds,The Who,,The Who,Q609710,The Rolling Stones,2012-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/30/The_who_live_at_leeds.jpg,concert film
+328,Modern Vampires of the City,Vampire Weekend,isento,Vampire Weekend,Q6888924,Vampire Weekend,2013-05-14T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/4d/Vampire_Weekend_-_Modern_Vampires_of_the_City.png,indie rock
+329,Endtroducing.....,DJ Shadow,Holiday56,DJ Shadow,Q614739,DJ Shadow,1996-09-16T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/c1/Endtroducingcover.jpg,trip hop
+330,Aftermath,The Rolling Stones,"isento,JG66",The Rolling Stones,Q389281,The Rolling Stones,1966-04-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/8a/Aftermath_UK.jpg,pop rock
+331,Like a Prayer,Madonna,Theknine2,Madonna,Q252447,Madonna,1989-03-21T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/08/Madonna_-_Like_a_Prayer_album.png,pop music
+332,Elvis Presley,Elvis Presley,,Elvis Presley,Q610926,Elvis Presley,1956-03-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f5/Elvis_Presley_LPM-1254_Album_Cover.jpg,rock and roll
+333,Still Bill,Bill Withers,,Bill Withers,Q7617008,Bill Withers,1972-05-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Still_Bill.jpg/500px-Still_Bill.jpg,soul
+334,Abraxas,Santana,,Santana,Q284798,Santana,1970-09-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/c4/SantanaAbraxas.jpg,jazz fusion
+335,The Basement Tapes,Bob Dylanandthe Band,"Mick gold,I.M.S.,Moisejp",Bob Dylanandthe Band,Q1471926,Bob Dylan,1975-06-26T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e5/Bob_Dylan_and_The_Band_-_The_Basement_Tapes.jpg,rock music
+336,Avalon,Roxy Music,,Roxy Music,Q1954070,Roxy Music,1983-09-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/92/Avalon_album_cover.jpg,art rock
+337,John Wesley Harding,Bob Dylan,,Bob Dylan,Q740161,Bob Dylan,1967-12-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/8d/Bob_Dylan_-_John_Wesley_Harding.jpg,folk rock
+338,Another Green World,Brian Eno,Andrzejbanas,Brian Eno,Q771427,Brian Eno,1975-09-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/92/Another_Green_World.jpg,electropop
+339,Janet Jackson's Rhythm Nation 1814,Janet Jackson,Bookkeeperoftheoccult,Janet Jackson,Q928863,Janet Jackson,1989-09-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/91/Janet_Jackson_Rhythm_Nation_1814.png,contemporary R&B
+340,Doggystyle,Snoop Doggy Dogg,Guerilla In Tha Mist,Snoop Doggy Dogg,Q753494,Q6096,1993-11-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/63/SnoopDoggyDoggDoggystyle.jpg,West Coast hip-hop
+341,Siamese Dream,The Smashing Pumpkins,,The Smashing Pumpkins,Q902233,The Smashing Pumpkins,1993-07-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/44/SmashingPumpkins-SiameseDream.jpg,alternative rock
+342,Let It Be,The Beatles,,The Beatles,Q199585,The Beatles,1970-05-08T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/7a/The_Beatles_-_Let_It_Be.png,blues
+343,Greatest Hits,Sly and the Family Stone,,Sly and the Family Stone,Q5601125,Earl Sly and the Family Stone Conley,1970-11-21T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/90/Slyfam-ghits-1970.jpg,Psychedelic soul
+344,Funky Kingston,Toots and the Maytals,,Toots and the Maytals,Q723201,Toots and the Maytals,1975-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/bc/Funky_Kingston_cover.jpg,reggae
+345,"The Wild, the Innocent & the E Street Shuffle",Bruce Springsteen,,Bruce Springsteen,Q1463801,Bruce Springsteen,1973-01-11T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/1f/TheWildTheInnocent.jpg,rock and roll
+346,AM,Arctic Monkeys,,Arctic Monkeys,Q13539256,Arctic Monkeys,2013-09-09T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/04/Arctic_Monkeys_-_AM.png,indie rock
+347,Liquid Swords,GZA,,GZA,Q915458,GZA,1995-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/90/Liquidswords1995.png,East Coast hip-hop
+348,Time,Gillian Welch,,Gillian Welch,Q104856945,Gillian Welch,2001-07-31T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/01/GillianWelch_Time%28TheRevelator%29.jpg,alternative country
+349,Kick Out the Jams,MC5,,MC5,Q1040417,MC5,1969-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/dc/MC5_-_Kick_Out_the_Jams.jpg,proto-punk
+350,Music of My Mind,Stevie Wonder,,Stevie Wonder,Q1929619,Stevie Wonder,1972-03-03T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/96/Stevie_Wonder_-_Music_of_My_Mind.png,rhythm and blues
+351,SOS,SZA,,SZA,Q3459062,SZA,2022-12-09T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/2c/SZA_-_S.O.S.png,R&B
+352,The Slim Shady LP,Eminem,Basilisk4u,Eminem,Q383459,Q5608,1999-02-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/35/Eminem_-_The_Slim_Shady_LP_CD_cover.jpg,hip-hop
+353,The Cars,The Cars,,The Cars,Q1188848,The Cars,1978-06-06T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/d3/The_Cars_-_The_Cars.png,new wave
+354,Germfree Adolescents,X-Ray Spex,,X-Ray Spex,,X-Ray Spex,1978-11-10T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f3/X-Ray_Spex_-_Germfree_Adolescents_album_cover.jpg,punk rock
+355,Black Sabbath,Black Sabbath,,Black Sabbath,Q328482,Black Sabbath,1970-02-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/da/Black_Sabbath_debut_album.jpg,heavy metal
+356,Gris-Gris,Dr. John,,Dr. John,Q45710,Dr. John,1968-01-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/35/DrjohnNighttripper.jpg,New Orleans rhythm and blues
+357,Rain Dogs,Tom Waits,,Tom Waits,Q259443,Tom Waits,1985-09-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/60/Tom_Waits_-_Rain_Dogs.png,rock music
+358,Sour,Olivia Rodrigo,,Olivia Rodrigo,Q7565068,Ours,1994-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b2/Olivia_Rodrigo_-_SOUR.png,alternative rock
+359,Radio City,Big Star,,Big Star,Q1939617,Big Star,1974-02-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b3/Radio_city_cover.jpg,power pop
+360,One Nation Under a Groove,Funkadelic,,Funkadelic,Q636006,Funkadelic,1978-10-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/19/Funkadelic_-_One_Nation_Under_a_Groove.jpg,rock music
+361,The Black Parade,My Chemical Romance,Orfen,My Chemical Romance,Q856869,My Chemical Romance,2006-10-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/ea/Blackparadecover.jpg,alternative rock
+362,Never Too Much,Luther Vandross,,Luther Vandross,Q7004315,Luther Vandross,1981-08-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/52/Never_Too_Much_%28Luther_Vandross_album_-_cover_art%29.jpg,contemporary R&B
+363,Mothership Connection,Parliament,,Parliament,Q766984,Parliament,1975-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/ef/ParliamentMothershipConnection.jpg,funk
+364,More Songs About Buildings and Food,Talking Heads,,Talking Heads,Q1077225,Talking Heads,1978-07-21T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/75/TalkingHeadsMoreSongsAboutBuildingsandFood.jpg,new wave
+365,Madvillainy,Madvillain,AstonishingTunesAdmirer,Madvillain,Q2333298,Madvillain,2004-03-24T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/5e/Madvillainy_cover.png,jazz rap
+366,Rocks,Aerosmith,,Aerosmith,Q830738,Aerosmith,1976-05-03T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/87/Aerosmith_-_Rocks.JPG,hard rock
+367,If You're Reading This It's Too Late,Drake,,Drake,Q19248558,Drake,2015-02-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/11/Drake_-_If_You%27re_Reading_This_It%27s_Too_Late.png,rapping
+368,All Things Must Pass,George Harrison,JG66,George Harrison,Q654204,George Harrison,1970-11-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a1/All_Things_Must_Pass_1970_cover.jpg,rock music
+369,The Infamous,Mobb Deep,,Mobb Deep,Q2300766,Mobb Deep,1995-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e0/Mobbdeeptheinfamous1995.jpg,jazz rap
+370,Tha Carter II,Lil Wayne,,Lil Wayne,Q657452,Lil Wayne,2005-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/67/Tha_Carter_2.jpg,hip-hop
+371,Anthology,The Temptations,,The Temptations,Q772066,The Temptations,1973-08-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/41/Temptations-anthology-1973.jpg,R&B
+372,Cheap Thrills,Big Brother and the Holding Company,,Big Brother and the Holding Company,Q860418,Big Brother and the Holding Company,1968-08-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9e/Cheapthrills.jpeg,psychedelic rock
+373,Hot Buttered Soul,Isaac Hayes,,Isaac Hayes,Q521823,Isaac Hayes,1969-09-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/86/Isaac_Hayes%2C_Hot_Buttered_Soul_Album_Cover.jpg,soul
+374,King of the Delta Blues Singers,Robert Johnson,,Robert Johnson,Q1108847,Robert Johnson,1961-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e6/KotDBS1.jpg,blues
+375,Dookie,Green Day,Xihix,Green Day,Q211292,Green Day,1994-02-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/4b/Green_Day_-_Dookie_cover.jpg,punk rock
+376,In the Aeroplane Over the Sea,Neutral Milk Hotel,Famous Hobo,Neutral Milk Hotel,Q1660782,Neutral Milk Hotel,1998-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/83/In_the_aeroplane_over_the_sea_album_cover_copy.jpg,indie rock
+377,Fever to Tell,Yeah Yeah Yeahs,,Yeah Yeah Yeahs,Q567955,Yeah Yeah Yeahs,2003-04-29T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0b/Yeah_Yeah_Yeahs_-_Fever_to_Tell.png,art punk
+378,Run-D.M.C.,Run-DMC,,Run-DMC,,Run-DMC,1984-03-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/47/Run-D.M.C._%28Run-D.M.C._album_-_cover_art%29.jpg,East Coast hip-hop
+379,Moving Pictures,Rush,,Rush,Q904976,Rush,1981-02-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/4a/Moving_Pictures.jpg,progressive rock
+380,Mingus Ah Um,Charles Mingus,,Charles Mingus,Q1787154,Charles Mingus,1959-10-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/65/Mingus_Ah_Um_-_Charles_Mingus.jpg,post-bop
+381,(Pronounced 'L?h-'nÈrd 'Skin-'nÈrd),Lynyrd Skynyrd,,Lynyrd Skynyrd,,Lynyrd Skynyrd,1973-08-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b0/Lynyrdskynyrd.jpg,Southern rock
+382,Currents,Tame Impala,,Tame Impala,Q2460035,Tame Impala,2015-07-17T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9b/Tame_Impala_-_Currents.png,Psychedelic pop
+383,Mezzanine,Massive Attack,,Massive Attack,Q844258,Massive Attack,1998-04-27T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e9/Massive_Attack_-_Mezzanine.png,trip hop
+384,The Kinks Are the Village Green Preservation Society,The Kinks,Tkbrett(Working),The Kinks,Q254078,The Kinks,1968-11-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/cb/TheKinksVillageGreenPreservationSociety.jpg,pop rock
+385,Rocket to Russia,Ramones,CrowzRSA,Ramones,Q1352199,Ramones,1977-11-04T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/50/Ramones_-_Rocket_to_Russia_cover.jpg,punk rock
+386,Donuts,J Dilla,,J Dilla,Q4346634,J Dilla,2006-02-07T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/14/Dilladonutscover.jpg,hip-hop
+387,In Rainbows,Radiohead,"Atlantik,Popcornduff",Radiohead,Q223295,Radiohead,2007-10-10T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/14/Inrainbowscover.png,space rock
+388,"Young, Gifted and Black",Aretha Franklin,,Aretha Franklin,Q1616155,Aretha Franklin,1972-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/4d/ArethaFranklinYoung%2CGifted%26Black.jpg,soul
+389,The Emancipation of Mimi,Mariah Carey,Petergriffin9901,Mariah Carey,Q633141,Mariah Carey,2005-04-04T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/5a/Mariah_Carey_The_Emancipation_of_Mimi.png,pop music
+390,Surfer Rosa,Pixies,CloudNine,Pixies,Q571213,Pixies,1988-03-21T00:00:00Z,http://commons.wikimedia.org/wiki/Special:FilePath/Pixies-Surfer-Rosa.png,alternative rock
+391,Kaleidoscope,Kelis,,Kelis,Q117048,Kelis,1999-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/72/Kelis_-_Kaleidoscope.png,rhythm and blues
+392,Proud Mary: The Best of Ike & Tina Turner,Ike & Tina Turner,,Ike & Tina Turner,Q7252235,Ike & Tina Turner,1991-03-18T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/5f/Proud_Mary_-_Ike_and_Tina_Turner.jpg,pop music
+393,1989,Taylor Swift,H√Ñ¬ê,Taylor Swift,Q601542,Jacopo Sarno,2009-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f6/Taylor_Swift_-_1989.png,pop rock
+394,Diana,Diana Ross,,Diana Ross,Q1163502,Diana Ross,1980-05-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0c/Diana_ross.jpg,pop music
+395,Black Messiah,D'Angelo and the Vanguard,,D'Angelo and the Vanguard,Q18638796,D‚ÄôAngelo,2014-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/4d/Black_Messiah.jpg,jazz-funk
+396,Something/Anything?,Todd Rundgren,Ritchie333,Todd Rundgren,Q846465,Todd Rundgren,1972-02-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a2/Somethinganythingcover.jpg,rock music
+397,"When We All Fall Asleep, Where Do We Go?",Billie Eilish,,Billie Eilish,Q61157315,Billie Eilish,2019-03-29T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/38/When_We_All_Fall_Asleep%2C_Where_Do_We_Go%3F.png,electropop
+398,The Raincoats,The Raincoats,,The Raincoats,Q7759337,The Raincoats,1979-11-03T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/8f/Raincoatscover.jpg,post-punk
+399,Brian Wilson Presents Smile,Brian Wilson,,Brian Wilson,,Brian Wilson,2004-09-28T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/ef/SmileBW04.jpg,orchestral pop
+400,Beauty and the Beat,The Go-Go's,,The Go-Go's,Q756288,The Go-Go's,1981-07-08T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/2a/The_Go-Go%27sBeautyandtheBeatalbumcover.jpg,pop rock
+401,Blondie,Blondie,,Blondie,Q804530,Blondie,1976-12-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/74/Blondie_album_cover.jpg,punk rock
+402,Expensive Shit,Fela Kuti and Africa '70,,Fela Kuti and Africa '70,Q5421015,Fela Kuti,1975-12-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/37/ExpensiveFelaKuti.jpg,Afrobeat
+403,Supreme Clientele,Ghostface Killah,,Ghostface Killah,Q4354411,Ghostface Killah,2000-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/8a/GhostfaceKillahSupremeClientele.jpg,hip-hop
+404,Rapture,Anita Baker,,Anita Baker,Q846783,Anita Baker,1986-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/ce/Anita_Baker_-_Rapture.jpg,rhythm and blues
+405,"Nuggets: Original Artyfacts from the First Psychedelic Era, 1965√¢¬Ä¬ì1968",Various artists,,Various artists,,Various artists,1972-10-02T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/8f/Nuggets%2C_Volume_1.jpg,garage rock
+406,69 Love Songs,The Magnetic Fields,,The Magnetic Fields,Q1412554,The Magnetic Fields,1999-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/00/The_Magnetic_Fields_-_69_Love_Songs.jpg,indie pop
+407,Everybody Knows This Is Nowhere,Neil Young,,Neil Young,Q852882,Neil Young and Crazy Horse,1969-05-14T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e5/EverybodyKnowsThisIsNowhere.jpg,folk rock
+408,Ace of Spades,Mot√É¬∂rhead,,Motˆrhead,Q481752,Motˆrhead,1980-11-08T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/57/Mot%C3%B6rhead_-_Ace_of_Spades_%281980%29.jpg,heavy metal
+409,Workingman's Dead,Grateful Dead,,Grateful Dead,Q1252417,Grateful Dead,1970-06-14T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a1/Grateful_Dead_-_Workingman%27s_Dead.jpg,folk rock
+410,Wild Honey,The Beach Boys,ILIL,The Beach Boys,Q1051233,The Beach Boys,1967-12-18T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9f/Wild_honey_beach_boys.jpg,rock music
+411,Love and Theft,Bob Dylan,,Bob Dylan,Q425909,Bob Dylan,2001-09-11T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f9/Bob_Dylan_-_Love_and_Theft.jpg,folk rock
+412,Going to a Go-Go,Smokey Robinson,,Smokey Robinson,Q2192176,The Miracles,1965-11-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/7a/Miraclesgoingtoagogo.jpg,soul
+413,Cosmo's Factory,Creedence Clearwater Revival,,Creedence Clearwater Revival,Q869314,Creedence Clearwater Revival,1970-07-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/42/Creedence_Clearwater_Revival_-_Cosmo%27s_Factory.jpg,rock music
+414,Risqu√É¬©,Chic,,Chic,,Chic,1979-07-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/4a/Chic-Risque.jpg,disco
+415,Look-Ka Py Py,The Meters,,The Meters,Q6674927,The Meters,1969-12-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/4b/Lookyapypymeters.jpg,funk
+416,Things Fall Apart,The Roots,,The Roots,Q1061660,The Roots,1999-02-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/30/Things_Fall_Apart_41172.jpg,neo soul
+417,The Shape of Jazz to Come,Ornette Coleman,,Ornette Coleman,Q930325,Ornette Coleman,1959-10-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/c9/ShapeOfJazzToCome.jpg,free jazz
+418,Brothers in Arms,Dire Straits,,Dire Straits,Q258609,Dire Straits,1985-05-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/67/DS_Brothers_in_Arms.jpg,rock music
+419,Chief,Eric Church,,Eric Church,Q5096650,Eric Church,2011-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/fc/Eric_Church_Chief.jpg,country music
+420,That's the Way of the World,"Earth, Wind & Fire",,"Earth, Wind & Fire",Q616224,"Earth, Wind & Fire",1975-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/03/Whiskeytown-Stranger%27s_Almanac_%28album_cover%29.jpg,rhythm and blues
+421,Arular,M.I.A.,ChrisTheDude,M.I.A.,Q610043,M.I.A.,2005-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/25/M.I.A._-_Arular.png,alternative rock
+422,Let's Get It On,Marvin Gaye,isento,Marvin Gaye,Q1094376,Marvin Gaye,1973-08-28T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/69/Let%27s_Get_It_On.jpg,rhythm and blues
+423,I Can Hear the Heart Beating as One,Yo La Tengo,Niwi3,Yo La Tengo,Q13586166,Yo La Tengo,1997-04-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/db/I_Can_Hear_the_Heart_Beating_as_One.png,indie rock
+424,Odelay,Beck,,Beck,Q1067721,Beck,1996-06-17T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f4/Odelay.jpg,alternative rock
+425,Paul Simon,Paul Simon,,Paul Simon,Q370482,Paul Simon,1972-01-14T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/45/PaulSimon-Front.jpg,folk rock
+426,Lucinda Williams,Lucinda Williams,,Lucinda Williams,Q6697399,Lucinda Williams,1988-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/d5/Lucinda_williams_cover.jpg,alternative country
+427,Call Me,Al Green,,Al Green,Q5021543,Al Green,1973-04-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f1/AlGreenCallMe.jpg,soul
+428,New Day Rising,H¸sker D¸,,H¸sker D¸,Q1754295,H¸sker D¸,1985-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/71/HuskerDuNewDayRising.jpg,hardcore punk
+429,Reach Out,Four Tops,,Four Tops,Q3930944,Four Tops,1967-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/68/Fourtops-reachout-album.jpg,easy listening
+430,Un Verano Sin Ti,Bad Bunny,,Bad Bunny,Q111819051,Bad Bunny,2022-05-07T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/60/Bad_Bunny_-_Un_Verano_Sin_Ti.png,reggaeton
+431,How Will the Wolf Survive?,Los Lobos,,Los Lobos,Q5918236,Los Lobos,1984-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/1e/Howwillthewolfsurvive.jpg,rock music
+432,Confessions,Usher,Efe,Usher,Q581153,Usher,2004-03-24T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f7/Usher_-_Confessions_album_cover.png,r&b
+433,Sound of Silver,LCD Soundsystem,,LCD Soundsystem,Q2548222,LCD Soundsystem,2007-03-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/ff/LCD_Soundsystem_-_Sound_of_Silver.jpg,indie rock
+434,"Crooked Rain, Crooked Rain",Pavement,,Pavement,Q869912,Pavement,1994-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/64/Pavement_Crooked_Rain.jpg,indie rock
+435,Actually,Pet Shop Boys,,Pet Shop Boys,Q344590,Pet Shop Boys,1987-09-21T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0c/Pet_Shop_Boys_-_Actually.png,synth-pop
+436,All Eyez on Me,2Pac,,2Pac,Q498054,Tupac Shakur,1996-02-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/16/Alleyezonme.jpg,gangsta rap
+437,Demon Days,Gorillaz,,Gorillaz,Q834418,Gorillaz,2005-05-11T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/df/Gorillaz_Demon_Days.PNG,trip hop
+438,Parklife,Blur,,Blur,Q241777,Blur,1994-04-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/7d/BlurParklife.jpg,Britpop
+439,Sex Machine,James Brown,,James Brown,Q11893236,James Brown,1970-09-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/89/Sex_Machine_album_cover.jpg,soul
+440,Coal Miner's Daughter,Loretta Lynn,,Loretta Lynn,Q5137747,Loretta Lynn,1971-01-04T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/44/Loretta_Lynn-Coal_Miner%27s_Daughter_2.jpg,country music
+441,Blackout,Britney Spears,Xwomanizerx,Britney Spears,Q60390,Britney Spears,2007-10-25T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/7/76/Britney_Spears_-_Blackout.png,dance pop
+442,Beauty Behind the Madness,The Weeknd,,The Weeknd,Q20686013,The Weeknd,2015-08-28T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/bd/The_Weeknd_-_Beauty_Behind_the_Madness.png,contemporary R&B
+443,Scary Monsters (and Super Creeps),David Bowie,zmbro,David Bowie,,David Bowie,1980-09-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0e/DavidBowieScaryMonstersCover.jpg,
+444,Extraordinary Machine,Fiona Apple,,Fiona Apple,Q1617282,Fiona Apple,2005-10-04T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/ed/Extraordinary_Machine.jpg,baroque pop
+445,Close to the Edge,Yes,,Yes,Q686598,Yes,1972-09-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/09/Yes-close.jpg,progressive rock
+446,Journey in Satchidananda,Alice Coltrane,,Alice Coltrane,Q6296378,Alice Coltrane,1971-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/35/Journey_in_Satchidananda_%28Alice_Coltrane%29.jpg,avant-garde jazz
+447,X 100pre,Bad Bunny,,Bad Bunny,Q60153361,Bad Bunny,2018-12-24T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e7/X100pre.jpg,reggaeton
+448,Complete & Unbelievable: The Otis Redding Dictionary of Soul,Otis Redding,Tomcat7,Otis Redding,Q2915917,Otis Redding,1966-10-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/cb/Otisreddingdictionary.jpg,soul
+449,Elephant,The White Stripes,,The White Stripes,Q580496,The White Stripes,2003-04-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a8/Elephant%2C_The_White_Stripes_Original.jpg,alternative rock
+450,Ram,Paul McCartneyandLinda McCartney,,Paul McCartneyandLinda McCartney,Q252230,Paul & Linda McCartney,1971-05-17T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/bd/RamMcCartneyalbumcover.jpg,rock music
+451,First Take,Roberta Flack,,Roberta Flack,Q5453862,Roberta Flack,1969-06-20T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/fe/Flack.first.take.jpg,vocal jazz
+452,Anthology,The Supremes,,The Supremes,Q772066,Dio,1997-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/3f/The_Supremes_-_Anthology.png,
+453,Pretty Hate Machine,Nine Inch Nails,,Nine Inch Nails,Q836587,Nine Inch Nails,1989-10-20T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f1/Nine_Inch_Nails_-_Pretty_Hate_Machine.png,industrial rock
+454,Ege Bamyas√Ñ¬±,Can,,Can,,Can,1972-11-29T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/1a/Egebamyasialbumcover.jpg,psychedelic rock
+455,Bo Diddley/Go Bo Diddley[a],Bo Diddley,,Bo Diddley,,Bo Diddley,1959-07-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/8f/Go_Bo_Diddley_1959.jpg,rock and roll
+456,Al Green's Greatest Hits,Al Green,,Al Green,,Al Green,1975-03-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b3/Al_Green%27s_Greatest_Hits_%28Al_Green_album_-_cover_art%29.jpg,soul
+457,I Do Not Want What I Haven't Got,SinÈad O'Connor,,SinÈad O'Connor,Q1060887,SinÈad O'Connor,1990-03-20T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a3/Idonotwantwhatihaventgot.jpg,alternative rock
+458,Southeastern,Jason Isbell,,Jason Isbell,Q17062011,Jason Isbell,2013-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/c5/Southeasternjasonisbell.jpg,alternative country
+459,Man on the Moon: The End of Day,Kid Cudi,Crystal Clear x3,Kid Cudi,Q367715,Kid Cudi,2009-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/26/ManonTheMoonTheEndofDay.jpg,hip-hop
+460,Melodrama,Lorde,De88,Lorde,Q6813408,Lorde,2017-06-16T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b2/Lorde_-_Melodrama.png,electropop
+461,"For Emma, Forever Ago",Bon Iver,Saginaw-hitchhiker,Bon Iver,Q1753919,Bon Iver,2007-07-08T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e0/Bon_iver_album_cover.jpg,baroque pop
+462,The Gilded Palace of Sin,The Flying Burrito Brothers,,The Flying Burrito Brothers,Q245868,The Flying Burrito Brothers,1969-02-06T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/d7/The_Gilded_Palace_of_Sin.jpg,country rock
+463,Eli and the Thirteenth Confession,Laura Nyro,,Laura Nyro,Q728044,Laura Nyro,1968-03-03T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/1f/Eli-and-the-thirteenth-confession.png,pop music
+464,3 + 3,The Isley Brothers,,The Isley Brothers,Q1490166,The Isley Brothers,1973-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/80/Isley_brothers_3_%2B_3_album.jpg,rock music
+465,The Best of the Classic Years,King Sunny AdÈ,,King Sunny AdÈ,Q85806531,King Sunny AdÈ,2003-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/90/King_sunny_ade_classic_years.jpeg,african pop
+466,Red,Black Uhuru,,Black Uhuru,Q135675572,Black Uhuru,1981-05-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/ec/Black_Uhuru_-_Red.jpg,reggae
+467,BLACKsummers'night,Maxwell,,Maxwell,Q4835841,Maxwell,2009-07-07T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a6/Maxwell-BLACKsummersnight.jpg,soul
+468,Some Girls,The Rolling Stones,,The Rolling Stones,Q945740,The Rolling Stones,1978-06-09T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/6/6c/Some_Girls.png,punk rock
+469,Clandestino,Manu Chao,,Manu Chao,Q867788,Manu Chao,1998-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/3/31/Manu_Chao_Clandestino.jpg,rock music
+470,400 Degreez,Juvenile,,Juvenile,Q3282543,Juvenile,1998-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/92/Juvenile400Degreez.jpg,Southern hip-hop
+471,Surrealistic Pillow,Jefferson Airplane,,Jefferson Airplane,Q913092,Jefferson Airplane,1967-02-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/58/Jeffair.jpg,psychedelic rock
+472,Ctrl,SZA,,SZA,Q30598066,SZA,2017-06-09T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/bf/SZA_-_Ctrl_cover.png,soul
+473,Barrio Fino,Daddy Yankee,Brankestein,Daddy Yankee,Q1647674,Daddy Yankee,2004-07-13T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/dd/Barrio_Fino.jpg,reggaeton
+474,#1 Record,Big Star,,Big Star,Q269307,Big Star,1972-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/57/Big_Star_-1_Record.jpg,power pop
+475,Sheryl Crow,Sheryl Crow,Niwi3,Sheryl Crow,Q1932542,Sheryl Crow,1996-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/5/5b/Sheryl_Crow%2C_album.png,rock and roll
+476,Kimono My House,Sparks,,Sparks,Q241983,Sparks,1974-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/49/Kimono_My_House_-_Sparks.jpg,glam rock
+477,Moanin' in the Moonlight,Howlin' Wolf,,Howlin' Wolf,Q1649120,Howlin' Wolf,1959-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/4/42/Howlin%27_Wolf_Moanin%27_in_the_Moonlight.jpg,Chicago blues
+478,Something Else by the Kinks,The Kinks,,The Kinks,,The Kinks,1967-08-15T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/ff/SomethingElseKinksCover.jpg,pop
+479,Amor Prohibido,Selena,AJona1992,Selena,,Selena,1994-03-22T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/9/9c/Selena_-_Amor_Prohibido.png,tejano
+480,The Weight of These Wings,Miranda Lambert,,Miranda Lambert,Q27536539,Miranda Lambert,2016-11-18T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/f/f9/Lambert_wings.jpg,country music
+481,If You're Feeling Sinister,Belle and Sebastian,,Belle and Sebastian,Q943328,Belle and Sebastian,1996-11-18T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/0f/Belle_And_Sebastian_-_If_You%27re_Feeling_Sinister.jpg,baroque pop
+482,Bizarre Ride II the Pharcyde,The Pharcyde,PDTantisocial,The Pharcyde,Q804148,The Pharcyde,1992-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e9/BizarreRideIIthePharcyde.jpg,West Coast hip-hop
+483,The Anthology: 1947√¢¬Ä¬ì1972,Muddy Waters,,Muddy Waters,,Muddy Waters,2001-08-28T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e2/MuddyWatersAnthology.jpg,
+484,Born This Way,Lady Gaga,GagaNutella,Lady Gaga,Q164646,Lady Gaga,2011-05-23T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/c/c3/Born_This_Way_album_cover.png,rock music
+485,I Want to See the Bright Lights Tonight,Richard ThompsonandLinda Thompson,,Richard ThompsonandLinda Thompson,Q1095539,Richard & Linda Thompson,1974-04-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/a/a0/I_Want_to_See_the_Bright_Lights_Tonight_%28Richard_Thompson_album_-_cover_art%29.jpg,folk rock
+486,Continuum,John Mayer,,John Mayer,Q1129023,John Mayer,2006-09-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Continuum_by_John_Mayer_%282006%29.jpg/500px-Continuum_by_John_Mayer_%282006%29.jpg,rock music
+487,Damaged,Black Flag,,Black Flag,Q651994,Course of Nature,2008-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/00/Black_Flag_-_Damaged_cover.jpg,alternative rock
+488,The Stooges,The Stooges,,The Stooges,Q378272,The Stooges,1969-08-05T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e6/StoogesStooges.jpg,proto-punk
+489,Back to Mono,Various artists,,Various artists,Q576557,Phil Spector,1991-11-12T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/ba/Backtomono.jpg,Brill Building
+490,Heart Like a Wheel,Linda Ronstadt,,Linda Ronstadt,Q5692027,Linda Ronstadt,1974-11-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/bd/Heart_Like_a_Wheel_Ronstadt.jpg,rock music
+491,Harry's House,Harry Styles,,Harry Styles,Q111343757,Harry Styles,2022-05-20T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png,funk
+492,Nick of Time,Bonnie Raitt,,Bonnie Raitt,Q255954,Bonnie Raitt,1989-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/0/06/Bonnie_Raitt_-_Nick_of_Time.png,rock music
+493,"Here, My Dear",Marvin Gaye,,Marvin Gaye,Q914440,Marvin Gaye,1970-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/e/e8/Marvinhere-my-dear.jpg,soul
+494,Presenting the Fabulous Ronettes Featuring Veronica,The Ronettes,,The Ronettes,Q3910940,The Ronettes,1964-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/1/17/Ronettes.jpg,orchestral pop
+495,II,Boyz II Men,,Boyz II Men,Q1208014,Boyz II Men,1994-08-30T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b9/BoyzIIMen-II-Cover.jpg,contemporary R&B
+496,√Ç¬øD√É¬≥nde Est√É¬°n los Ladrones?,Shakira,11JORN,Shakira,,Shakira,1998-09-29T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/8/8f/DondeEstanlosLadrones.jpg,latin pop
+497,The Indestructible Beat of Soweto,Various artists,,Various artists,Q7741839,various artists,1985-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/bc/Indestructiblebeat.jpg,mbaqanga
+498,Suicide,Suicide,,Suicide,Q574758,Suicide,1977-01-01T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/26/Suicide1977.jpg,punk rock
+499,Ask Rufus,RufusfeaturingChaka Khan,,RufusfeaturingChaka Khan,Q4807090,Rufus,1977-01-19T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/b/b9/Rufus_-_Ask_Rufus.jpg,soul
+500,Funeral,Arcade Fire,,Arcade Fire,Q526196,Arcade Fire,2004-09-14T00:00:00Z,https://upload.wikimedia.org/wikipedia/en/2/25/ArcadeFireFuneralCover.jpg,baroque pop
