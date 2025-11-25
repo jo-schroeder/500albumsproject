@@ -7,21 +7,26 @@ body {
   color: white;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
-  padding: 90px 20px 40px; /* includes room for navbar */
+  padding: 70px 20px 40px; /* slightly more top padding for navbar */
   text-align: center;
-  line-height: 1.6;
+  line-height: 1.5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100vh;
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 2.2em;      /* slightly bigger title */
   margin-bottom: 20px;
 }
 
 p {
-  font-size: 1.15em;
+  font-size: 1.2em;
   color: #ddd;
   max-width: 750px;
-  margin: 0 auto 15px;
+  margin: 0 auto 10px;
 }
 
 /* ===============================
@@ -31,7 +36,7 @@ p {
 .navbar {
   width: 100%;
   background-color: #111;
-  padding: 15px 0;
+  padding: 12px 0;
   text-align: center;
   position: fixed;
   top: 0;
@@ -43,8 +48,8 @@ p {
 .navbar a {
   color: #ccc;
   text-decoration: none;
-  margin: 0 20px;
-  font-size: 1.1em;
+  margin: 0 18px;
+  font-size: 1.05em;
   font-weight: bold;
   transition: color 0.2s ease;
 }
@@ -53,26 +58,111 @@ p {
   color: white;
 }
 
-/* Active page highlighting */
 .navbar a.active {
   color: white;
   text-decoration: underline;
 }
 
 /* ===============================
-   CURRENT ALBUM PAGE
+   HOMEPAGE ALBUM CARD
    =============================== */
 
-#content .info {
-  font-size: 1.2em;
-  margin-top: 15px;
+.title {
+  font-size: 2.2em;      /* slightly bigger */
+  margin-bottom: 20px;
+  color: #f5f5f5;
+  text-shadow: 0 0 10px rgba(255,255,255,0.12);
+  animation: fadeIn 1s ease-out;
 }
 
-img.album-art {
-  max-width: 300px;
+.album-card {
+  max-width: 420px;       /* slightly wider */
+  padding: 25px;          /* slightly more padding */
+  margin: 0 auto 20px;
+  background-color: #111;
+  border-radius: 14px;
+  box-shadow: 0 0 25px rgba(255,255,255,0.12);
+  animation: slideUp 0.7s ease-out;
+}
+
+.now-listening {
+  font-size: 1.15em;      /* slightly bigger */
+  letter-spacing: 1px;
+  color: #aaa;
+  margin-bottom: 6px;
+}
+
+.album-name {
+  font-size: 1.85em;      /* bigger */
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.album-artist {
+  font-size: 1.45em;      /* bigger */
+  margin-bottom: 8px;
+  color: #ccc;
+}
+
+.album-meta {
+  font-size: 1.15em;      /* slightly bigger */
+  margin-bottom: 4px;
+  color: #bbb;
+}
+
+.album-art {
+  margin-top: 15px;
+  max-width: 280px;       /* bigger */
   border-radius: 12px;
-  margin-top: 20px;
-  box-shadow: 0 0 15px rgba(255,255,255,0.2);
+  box-shadow: 0 0 30px rgba(255,255,255,0.18);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.album-art:hover {
+  transform: scale(1.04);
+  box-shadow: 0 0 40px rgba(255,255,255,0.25);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ===============================
+   PROGRESS BAR
+   =============================== */
+
+.progress-label {
+  font-size: 1.18em;      /* slightly bigger */
+  margin-top: 15px;
+  margin-bottom: 6px;
+  color: #ccc;
+}
+
+.progress-bar {
+  width: 90%;
+  max-width: 420px;
+  height: 14px;            /* thicker */
+  margin: 0 auto 20px;
+  background-color: #221733;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 0 14px rgba(185,145,255,0.3);
+}
+
+.progress-fill {
+  height: 100%;
+  width: 0%;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #8e44ff, #c783ff);
+  box-shadow: 0 0 18px rgba(180,120,255,0.6);
+  transition: width 1s ease-in-out;
 }
 
 /* ===============================
@@ -91,13 +181,13 @@ table {
 }
 
 th, td {
-  padding: 15px;
+  padding: 14px;            /* slightly bigger padding */
   border-bottom: 1px solid #333;
 }
 
 th {
   background-color: #222;
-  font-size: 1.1em;
+  font-size: 1.15em;
   font-weight: bold;
 }
 
@@ -106,13 +196,14 @@ tr:hover {
 }
 
 .emoji {
-  font-size: 1.8em;
+  font-size: 1.7em;         /* bigger */
 }
 
 .haiku {
   font-style: italic;
   color: #ccc;
   white-space: pre-line;
+  font-size: 1.05em;
 }
 
 /* ===============================
@@ -126,119 +217,26 @@ tr:hover {
   }
 
   table {
-    font-size: 0.9em;
+    font-size: 0.95em;
   }
 
   .emoji {
     font-size: 1.5em;
   }
-}
-/* ===============================
-   HOMEPAGE CUTE STYLES
-   =============================== */
 
-.title {
-  font-size: 2.4em;
-  margin-bottom: 30px;
-  color: #f5f5f5;
-  text-shadow: 0 0 10px rgba(255,255,255,0.12);
-  animation: fadeIn 1s ease-out;
-}
+  .album-art {
+    max-width: 230px;
+  }
 
-.album-card {
-  max-width: 450px;
-  margin: 0 auto;
-  padding: 25px;
-  background-color: #111;
-  border-radius: 14px;
-  box-shadow: 0 0 20px rgba(255,255,255,0.08);
-  animation: slideUp 0.7s ease-out;
-}
+  .album-card {
+    padding: 20px;
+  }
 
-.now-listening {
-  font-size: 1.1em;
-  letter-spacing: 1px;
-  color: #aaa;
-  margin-bottom: 10px;
-}
+  .album-name {
+    font-size: 1.65em;
+  }
 
-.album-name {
-  font-size: 1.8em;
-  font-weight: bold;
-  margin-bottom: 6px;
-}
-
-.album-artist {
-  font-size: 1.3em;
-  margin-bottom: 15px;
-  color: #ccc;
-}
-
-.album-meta {
-  font-size: 1.1em;
-  margin-bottom: 8px;
-  color: #bbb;
-}
-
-.album-art {
-  margin-top: 20px;
-  max-width: 300px;
-  border-radius: 12px;
-  box-shadow: 0 0 25px rgba(255,255,255,0.18);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-}
-
-.album-art:hover {
-  transform: scale(1.03);
-  box-shadow: 0 0 35px rgba(255,255,255,0.25);
-}
-
-/* Animations */
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to   { opacity: 1; }
-}
-
-@keyframes slideUp {
-  from { opacity: 0; transform: translateY(20px); }
-  to   { opacity: 1; transform: translateY(0); }
-}
-/* ===============================
-   PROGRESS BAR
-   =============================== */
-
-/* ===============================
-   PURPLE PROGRESS BAR
-   =============================== */
-
-.progress-label {
-  font-size: 1.1em;
-  margin-top: 25px;
-  margin-bottom: 10px;
-  color: #ccc;
-}
-
-.progress-bar {
-  width: 90%;
-  max-width: 450px;
-  height: 14px;
-  margin: 0 auto 30px;
-  background-color: #221733;
-  border-radius: 8px;
-  overflow: hidden;
-  box-shadow: 0 0 12px rgba(185,145,255,0.25);
-}
-
-.progress-fill {
-  height: 100%;
-  width: 0%;
-  border-radius: 8px;
-
-  /* Soft purple gradient */
-  background: linear-gradient(90deg, #8e44ff, #c783ff);
-
-  /* Purple glow */
-  box-shadow: 0 0 15px rgba(180,120,255,0.6);
-
-  transition: width 1s ease-in-out;
+  .album-artist {
+    font-size: 1.25em;
+  }
 }
