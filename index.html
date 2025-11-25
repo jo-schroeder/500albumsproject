@@ -6,15 +6,18 @@
   <title>Joanna's 500 Albums Project</title>
   <link rel="stylesheet" href="style.css" />
   <link rel="icon" type="image/png" href="favicon.png">
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
+
+
 </head>
 <body>
   <nav class="navbar">
-  <a href="index.html">Current Album</a>
-  <a href="reviews.html">Reviews</a>
-  <a href="about.html">About</a>
+  <a href="index.html" class="active">NOW LISTENING</a>
+  <a href="reviews.html">TASTE TEST</a>
+  <a href="about.html">WHAT'S GOING ON</a>
 </nav>
 
-  <h1>Joanna's 500 Albums Project</h1>
+  <h1>JOANNA'S 500 ALBUMS PROJECT</h1>
   <div id="content" class="album-card">Loading...</div>
   <div id="progress-container"></div>
 
@@ -50,7 +53,7 @@ fetch(`album.json?t=${Date.now()}`)
 
     // ==== Insert album card ====
     document.getElementById('content').innerHTML = `
-      <div class="now-listening">🎧 Now Listening</div>
+      <div class="now-listening">🎧 NOW LISTENING</div>
       ${album.album_art ? `<img class="album-art" src="${album.album_art}" alt="Album Art">` : ""}
       <div class="album-name">“${album.Album}”</div>
       <div class="album-artist">${album.Artist}</div>
@@ -60,7 +63,7 @@ fetch(`album.json?t=${Date.now()}`)
 
     // ==== Insert progress bar ====
     document.getElementById('progress-container').innerHTML = `
-      <div class="progress-label">Album ${row} of ${total} (${pct}%)</div>
+      <div class="progress-label">ALBUM # ${row}</div>
       <div class="progress-bar">
         <div class="progress-fill" style="width: ${pct}%;"></div>
       </div>

@@ -5,7 +5,7 @@
 body {
   background-color: black;
   color: white;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Archivo Black", sans-serif;
   margin: 0;
   padding: 70px 20px 40px; /* slightly more top padding for navbar */
   text-align: center;
@@ -37,18 +37,20 @@ p {
   width: 100%;
   background-color: #111;
   padding: 12px 0;
-  text-align: center;
   position: fixed;
   top: 0;
   left: 0;
   z-index: 100;
   border-bottom: 1px solid #333;
+
+  display: flex;             /* make navbar a flex container */
+  justify-content: center;   /* center the menu items as a group */
+  gap: 36px;                 /* space between links (adjustable) */
 }
 
 .navbar a {
   color: #ccc;
   text-decoration: none;
-  margin: 0 18px;
   font-size: 1.05em;
   font-weight: bold;
   transition: color 0.2s ease;
@@ -59,9 +61,9 @@ p {
 }
 
 .navbar a.active {
-  color: white;
-  text-decoration: underline;
+  color: #c783ff;
 }
+
 
 /* ===============================
    HOMEPAGE ALBUM CARD
