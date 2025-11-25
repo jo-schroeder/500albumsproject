@@ -1,0 +1,33 @@
+name: Update Album Review
+
+on:
+  workflow_dispatch:
+    inputs:
+      review_input:
+        description: 'Format: row/emoji/haiku'
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install pandas
+
+      - name: Update review JSON
+        run: |
+          python update_review.py "${{ github.event.inputs.review_input }}"
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add reviews.json
+          git commit -m "Update review" || echo "No changes"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main

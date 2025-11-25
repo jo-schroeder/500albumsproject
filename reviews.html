@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Album Reviews</title>
+  <style>
+    body {
+      background-color: black;
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+      text-align: center;
+      padding: 40px;
+    }
+
+    h1 {
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+
+    table {
+      width: 90%;
+      max-width: 900px;
+      margin: 0 auto;
+      border-collapse: collapse;
+      background-color: #111;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 0 20px rgba(255,255,255,0.1);
+    }
+
+    th, td {
+      padding: 15px;
+      border-bottom: 1px solid #333;
+    }
+
+    th {
+      background-color: #222;
+      font-size: 1.1em;
+      font-weight: bold;
+    }
+
+    tr:hover {
+      background-color: #1a1a1a;
+    }
+
+    .emoji {
+      font-size: 1.8em;
+    }
+
+    .haiku {
+      font-style: italic;
+      color: #ccc;
+      white-space: pre-line;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Album Reviews</h1>
+  <div id="table-container">Loading reviews...</div>
+
+  <script>
+    // Cache-busting to ensure fresh data
+    fetch(`reviews.json?t=${Date.now()}`)
+      .then(response => response.json())
+      .then(reviews => {
+        if (!reviews.length) {
+          document.getElementById('table-container').textContent = "No reviews yet.";
+          return;
+        }
+
+        let tableHTML = `
+          <table>
+            <tr>
+              <th>#</th>
+              <th>Album</th>
+              <th>Artist</th>
+              <th>Emoji</th>
+              <th>Haiku</th>
+            </tr>
+        `;
+
+        reviews.forEach(entry => {
+          tableHTML += `
+            <tr>
+              <td>${entry.row_number}</td>
+              <td>${entry.Album}</td>
+              <td>${entry.Artist}</td>
+              <td class="emoji">${entry.emoji || ""}</td>
+              <td class="haiku">${entry.haiku || ""}</td>
+            </tr>
+          `;
+        });
+
+        tableHTML += `</table>`;
+        document.getElementById('table-container').innerHTML = tableHTML;
+      })
+      .catch(err => {
+        document.getElementById('table-container').textContent = "Error loading reviews.";
+        console.error(err);
+      });
+  </script>
+
+</body>
+</html>
