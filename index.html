@@ -37,22 +37,36 @@
   <h1>Joanna’s Rolling Stone 500 Albums Project</h1>
   <div id="content">Loading...</div>
 
-  <script>
-    fetch('album.json')
-      .then(response => response.json())
-      .then(data => {
-        document.getElementById('content').innerHTML = `
-          <div class="info">She’s currently listening to:</div>
-          <div class="info">🎵 ${data.Album} — ${data.Artist}</div>
-          <div class="info">🗓️ ${data.release_date ? new Date(data.release_date).getFullYear() : 'Unknown'}</div>
-          <div class="info">🏷️ ${data.genre || 'N/A'}</div>
-          ${data.album_art ? `<img src="${data.album_art}" alt="Album art">` : ''}
-        `;
-      })
-      .catch(err => {
-        document.getElementById('content').textContent = 'Error loading album info.';
-        console.error(err);
-      });
-  </script>
+<script>
+  // 🔧 SET THIS to any album row you want (0 = first row)
+  let row_number = 499; // Change to choose album dynamically
+  // Example: row_number = 123;
+
+  fetch('data/albums_500_wikidata.json')
+    .then(response => response.json())
+    .then(albums => {
+
+      // Safety check
+      if (row_number < 0 || row_number >= albums.length) {
+        document.getElementById('content').innerHTML = "Invalid row number.";
+        return;
+      }
+
+      const album = albums[row_number];
+
+      document.getElementById('content').innerHTML = `
+        <div class="info">She’s currently listening to:</div>
+        <div class="info">🎧 ${album.Album} — ${album.Artist}</div>
+        <div class="info">🗓️ ${album.release_date || 'Unknown'}</div>
+        <div class="info">🏷️ ${album.genre || 'N/A'}</div>
+        ${album.album_art ? `<img src="${album.album_art}" alt="Album art">` : ''}
+      `;
+    })
+    .catch(err => {
+      document.getElementById('content').textContent = 'Error loading album info.';
+      console.error(err);
+    });
+</script>
+
 </body>
 </html>
