@@ -2,6 +2,7 @@ import sys
 import json
 import pandas as pd
 import os
+from datetime import datetime 
 
 if len(sys.argv) < 2:
     print("Usage: python update_review.py '<row>/<emoji>/<haiku>'")
@@ -9,7 +10,7 @@ if len(sys.argv) < 2:
 
 raw_input = sys.argv[1]
 
-# --- Split only first 3 components ---
+# split 
 parts = raw_input.split("/", 2)
 
 if len(parts) < 3:
@@ -34,15 +35,18 @@ if row_number < 1 or row_number > len(df):
 
 album_row = df.iloc[row_number - 1]
 
+# add current date
+current_date = datetime.now().isoformat()  # e.g., "2025-11-25T14:32:10"
+
 entry = {
     "row_number": row_number,
     "Album": album_row.get("Album", "Unknown"),
     "Artist": album_row.get("Artist", "Unknown"),
     "emoji": emoji.strip(),
-    "haiku": haiku.strip()
+    "haiku": haiku.strip(),
+    "date_submitted": current_date  # <-- new field
 }
 
-# --- Load or initialize reviews.json ---
 reviews_file = "reviews.json"
 if os.path.exists(reviews_file):
     with open(reviews_file, "r", encoding="utf-8") as f:
@@ -53,7 +57,7 @@ if os.path.exists(reviews_file):
 else:
     reviews = []
 
-# --- Update existing entry or append new one ---
+# update/append
 updated = False
 for i, r in enumerate(reviews):
     if r["row_number"] == row_number:
@@ -67,7 +71,7 @@ if not updated:
 # Sort by album order
 reviews.sort(key=lambda x: x["row_number"])
 
-# --- Write back to JSON ---
+# write back
 with open(reviews_file, "w", encoding="utf-8") as f:
     json.dump(reviews, f, indent=2, ensure_ascii=False)
 
