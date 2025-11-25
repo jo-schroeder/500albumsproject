@@ -31,6 +31,7 @@ album_row = df.iloc[row_number - 1]
 
 # build album dict, handle missing columns
 album_dict = {
+    "row_number": album_row.get("#", "Unknown"),
     "Album": album_row.get("Album", "Unknown"),
     "Artist": album_row.get("Artist", "Unknown"),
     "release_date": album_row.get("release_date", ""),

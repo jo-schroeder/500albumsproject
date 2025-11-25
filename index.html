@@ -3,57 +3,72 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Joanna's Rolling Stone 500 Albums Project</title>
-  <style>
-    body {
-      background-color: black;
-      color: white;
-      font-family: Arial, Helvetica, sans-serif;
-      font-weight: bold;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-      text-align: center;
-    }
-    img {
-      max-width: 300px;
-      border-radius: 12px;
-      margin-top: 20px;
-      box-shadow: 0 0 15px rgba(255,255,255,0.2);
-    }
-    h1 {
-      font-size: 2em;
-      margin-bottom: 10px;
-    }
-    .info {
-      font-size: 1.2em;
-      margin-top: 15px;
-    }
-  </style>
+  <title>Joanna's 500 Albums Project</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" type="image/png" href="favicon.png">
 </head>
 <body>
-  <h1>Joanna’s Rolling Stone 500 Albums Project</h1>
-  <div id="content">Loading...</div>
+  <nav class="navbar">
+  <a href="index.html">Current Album</a>
+  <a href="reviews.html">Reviews</a>
+  <a href="about.html">About</a>
+</nav>
+
+  <h1>Joanna's 500 Albums Project</h1>
+  <div id="content" class="album-card">Loading...</div>
+  <div id="progress-container"></div>
 
 <script>
-  // Fetch album.json
-  fetch(`album.json?t=${Date.now()}`)
-    .then(response => response.json())
-    .then(album => {
-      document.getElementById('content').innerHTML = `
-        <div class="info">🎶 ${album.Album} — ${album.Artist}</div>
-        <div class="info">🗓️ ${album.release_date || 'Unknown'}</div>
-        <div class="info">🏷️ ${album.genre || 'N/A'}</div>
-        ${album.album_art ? `<img src="${album.album_art}" alt="Album art">` : ''}
-      `;
-    })
-    .catch(err => {
-      document.getElementById('content').textContent = 'Error loading album info.';
-      console.error(err);
-    });
+fetch(`album.json?t=${Date.now()}`)
+  .then(response => response.json())
+  .then(album => {
+
+    // Extract the row number — assuming your JSON has "row_number"
+    const row = parseInt(album.row_number);
+    const total = 500;
+    const listeningNumber = total - row + 1;
+
+    // Percent done
+    const pct = Math.round((listeningNumber / total) * 100);
+
+    // Progress bar HTML
+    document.getElementById('progress-container').innerHTML = `
+      <div class="progress-label">Album ${listeningNumber} of ${total}</div>
+      <div class="progress-bar">
+        <div class="progress-fill" style="width: ${pct}%;"></div>
+      </div>
+    `;
+
+    // ==== Format date (same as earlier) ====
+    let dateDisplay = "Unknown";
+    if (album.release_date) {
+      const d = new Date(album.release_date);
+      if (!isNaN(d)) {
+        dateDisplay = d.getFullYear();
+      }
+    }
+
+    // ==== Insert album card ====
+    document.getElementById('content').innerHTML = `
+      <div class="now-listening">🎧 Now Listening</div>
+      ${album.album_art ? `<img class="album-art" src="${album.album_art}" alt="Album Art">` : ""}
+      <div class="album-name">“${album.Album}”</div>
+      <div class="album-artist">${album.Artist}</div>
+      <div class="album-meta"> ${dateDisplay}</div>
+      <div class="album-meta"> ${album.genre || "Unknown Genre"}</div>
+    `;
+
+    // ==== Insert progress bar ====
+    document.getElementById('progress-container').innerHTML = `
+      <div class="progress-label">Album ${row} of ${total} (${pct}%)</div>
+      <div class="progress-bar">
+        <div class="progress-fill" style="width: ${pct}%;"></div>
+      </div>
+    `;
+  });
+
 </script>
+
 
 </body>
 </html>
