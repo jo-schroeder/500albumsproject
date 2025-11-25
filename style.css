@@ -43,9 +43,10 @@ p {
   z-index: 100;
   border-bottom: 1px solid #333;
 
-  display: flex;             /* make navbar a flex container */
-  justify-content: center;   /* center the menu items as a group */
-  gap: 36px;                 /* space between links (adjustable) */
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap; /* no wrap by default on desktop */
+  gap: 36px;         /* generous spacing for desktop */
 }
 
 .navbar a {
@@ -54,6 +55,7 @@ p {
   font-size: 1.05em;
   font-weight: bold;
   transition: color 0.2s ease;
+  white-space: nowrap;
 }
 
 .navbar a:hover {
@@ -64,6 +66,18 @@ p {
   color: #c783ff;
 }
 
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .navbar {
+    flex-wrap: wrap;  /* allow wrapping on smaller screens */
+    gap: 16px;        /* tighter spacing for mobile */
+    padding: 10px 0;
+  }
+
+  .navbar a {
+    font-size: 0.95em; /* slightly smaller text for mobile */
+  }
+}
 
 /* ===============================
    HOMEPAGE ALBUM CARD
