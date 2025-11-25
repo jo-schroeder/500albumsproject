@@ -185,6 +185,64 @@ p {
    REVIEWS TABLE
    =============================== */
 
+/* Default desktop/table visible */
+#desktop-table {
+  display: block;
+}
+#mobile-cards {
+  display: none;
+}
+
+/* Mobile cards visible on small screens */
+@media (max-width: 600px) {
+  #desktop-table {
+    display: none;
+  }
+  #mobile-cards {
+    display: block;
+  }
+}
+
+/* Mobile card styling */
+.review-card {
+  background-color: #111;
+  border-radius: 10px;
+  padding: 12px 16px;
+  margin-bottom: 15px;
+  box-shadow: 0 0 15px rgba(255,255,255,0.05);
+}
+
+.review-card .row-number {
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 4px;
+}
+
+.review-card .album {
+  font-weight: bold;
+  color: #fff;
+}
+
+.review-card .artist {
+  color: #ccc;
+  margin-bottom: 6px;
+}
+
+.review-card .emoji {
+  font-size: 1.7em;
+  display: inline-block;
+  margin-bottom: 6px;
+}
+
+.review-card .haiku {
+  font-style: italic;
+  color: #ccc;
+  white-space: pre-line;
+  font-size: 1em;
+}
+
+
+/* Desktop table (unchanged) */
 table {
   width: 90%;
   max-width: 900px;
@@ -197,7 +255,7 @@ table {
 }
 
 th, td {
-  padding: 14px;            /* slightly bigger padding */
+  padding: 14px;
   border-bottom: 1px solid #333;
 }
 
@@ -212,7 +270,7 @@ tr:hover {
 }
 
 .emoji {
-  font-size: 1.7em;         /* bigger */
+  font-size: 1.7em;
 }
 
 .haiku {

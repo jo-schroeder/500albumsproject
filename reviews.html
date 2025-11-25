@@ -19,49 +19,77 @@
 </nav>
 
   <h1>REVIEWS</h1>
-  <div id="table-container">Loading reviews...</div>
+  <div id="table-container">
+    <div id="desktop-table"></div>
+    <div id="mobile-cards"></div>
+  </div>
+
 
   <script>
-    // Cache-busting to ensure fresh data
-    fetch(`reviews.json?t=${Date.now()}`)
-      .then(response => response.json())
-      .then(reviews => {
-        if (!reviews.length) {
-          document.getElementById('table-container').textContent = "No reviews yet.";
-          return;
-        }
+  // Cache-busting to ensure fresh data
+  fetch(`reviews.json?t=${Date.now()}`)
+  .then(response => response.json())
+  .then(reviews => {
+    if (!reviews.length) {
+      document.getElementById('desktop-table').textContent = "No reviews yet.";
+      document.getElementById('mobile-cards').textContent = "No reviews yet.";
+      return;
+    }
 
-        let tableHTML = `
-          <table>
-            <tr>
-              <th>#</th>
-              <th>Album</th>
-              <th>Artist</th>
-              <th>Emoji</th>
-              <th>Haiku</th>
-            </tr>
-        `;
+    // Desktop table
+    let tableHTML = `
+      <table>
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Album</th>
+            <th>Artist</th>
+            <th>Emoji</th>
+            <th>Haiku</th>
+          </tr>
+        </thead>
+        <tbody>
+    `;
 
-        reviews.forEach(entry => {
-          tableHTML += `
-            <tr>
-              <td>${entry.row_number}</td>
-              <td>${entry.Album}</td>
-              <td>${entry.Artist}</td>
-              <td class="emoji">${entry.emoji || ""}</td>
-              <td class="haiku">${entry.haiku || ""}</td>
-            </tr>
-          `;
-        });
+    reviews.forEach(entry => {
+      tableHTML += `
+        <tr>
+          <td>${entry.row_number}</td>
+          <td>${entry.Album}</td>
+          <td>${entry.Artist}</td>
+          <td class="emoji">${entry.emoji || ""}</td>
+          <td class="haiku">${entry.haiku || ""}</td>
+        </tr>
+      `;
+    });
 
-        tableHTML += `</table>`;
-        document.getElementById('table-container').innerHTML = tableHTML;
-      })
-      .catch(err => {
-        document.getElementById('table-container').textContent = "Error loading reviews.";
-        console.error(err);
-      });
-  </script>
+    tableHTML += `</tbody></table>`;
+    document.getElementById('desktop-table').innerHTML = tableHTML;
+
+    // Mobile cards
+    let cardsHTML = '';
+    reviews.forEach(entry => {
+      cardsHTML += `
+        <div class="review-card">
+          <div class="row-number">#${entry.row_number}</div>
+          <div class="album">${entry.Album}</div>
+          <div class="artist">${entry.Artist}</div>
+          <div class="emoji">${entry.emoji || ""}</div>
+          <div class="haiku">${entry.haiku || ""}</div>
+        </div>
+      `;
+    });
+
+    document.getElementById('mobile-cards').innerHTML = cardsHTML;
+  })
+  .catch(err => {
+    document.getElementById('desktop-table').textContent = "Error loading reviews.";
+    document.getElementById('mobile-cards').textContent = "Error loading reviews.";
+    console.error(err);
+  });
+
+</script>
+
 
 </body>
 </html>
