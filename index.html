@@ -38,25 +38,12 @@
   <div id="content">Loading...</div>
 
 <script>
-  // 🔧 SET THIS to any album row you want (0 = first row)
-  let row_number = 499; // Change to choose album dynamically
-  // Example: row_number = 123;
-
-  fetch('data/albums_500_wikidata.json')
+  // Fetch album.json
+  fetch(`album.json?t=${Date.now()}`)
     .then(response => response.json())
-    .then(albums => {
-
-      // Safety check
-      if (row_number < 0 || row_number >= albums.length) {
-        document.getElementById('content').innerHTML = "Invalid row number.";
-        return;
-      }
-
-      const album = albums[row_number];
-
+    .then(album => {
       document.getElementById('content').innerHTML = `
-        <div class="info">She’s currently listening to:</div>
-        <div class="info">🎧 ${album.Album} — ${album.Artist}</div>
+        <div class="info">🎶 ${album.Album} — ${album.Artist}</div>
         <div class="info">🗓️ ${album.release_date || 'Unknown'}</div>
         <div class="info">🏷️ ${album.genre || 'N/A'}</div>
         ${album.album_art ? `<img src="${album.album_art}" alt="Album art">` : ''}
