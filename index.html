@@ -7,69 +7,82 @@
   <link rel="stylesheet" href="style.css" />
   <link rel="icon" type="image/png" href="favicon.png">
   <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" rel="stylesheet">
-
-
 </head>
+
 <body>
-  <nav class="navbar">
-  <a href="index.html" class="active">NOW LISTENING</a>
-  <a href="reviews.html">TASTE TEST</a>
-  <a href="about.html">WHAT'S GOING ON</a>
+<nav class="navbar">
+    <a href="index.html" class="active">NOW LISTENING</a>
+    <a href="reviews.html">OFF THE RECORD</a>
+    <a href="about.html">WHAT IS THIS</a>
 </nav>
 
-  <h1>JOANNA'S 500 ALBUMS PROJECT</h1>
-  <div id="content" class="album-card">Loading...</div>
-  <div id="progress-container"></div>
+<h1>JOANNA'S 500 ALBUMS PROJECT</h1>
+
+<div id="content" class="album-card">Loading...</div>
+
+<div id="progress-container"></div>
+
+<div id="upnext" class="upnext-card"></div>
 
 <script>
 fetch(`album.json?t=${Date.now()}`)
   .then(response => response.json())
   .then(album => {
 
-    // Extract the row number — assuming your JSON has "row_number"
     const row = parseInt(album.row_number);
     const total = 500;
     const listeningNumber = total - row + 1;
 
-    // Percent done
     const pct = Math.round((listeningNumber / total) * 100);
 
-    // Progress bar HTML
-    document.getElementById('progress-container').innerHTML = `
-      <div class="progress-label">Album ${listeningNumber} of ${total}</div>
-      <div class="progress-bar">
-        <div class="progress-fill" style="width: ${pct}%;"></div>
-      </div>
-    `;
-
-    // ==== Format date (same as earlier) ====
+    // === MAIN ALBUM CARD ===
     let dateDisplay = "Unknown";
     if (album.release_date) {
       const d = new Date(album.release_date);
-      if (!isNaN(d)) {
-        dateDisplay = d.getFullYear();
-      }
+      if (!isNaN(d)) dateDisplay = d.getFullYear();
     }
 
-    // ==== Insert album card ====
     document.getElementById('content').innerHTML = `
-      <div class="now-listening">🎧 NOW LISTENING</div>
+      <div class="now-listening">
+        <span class="pulse-emoji">🎧</span> NOW LISTENING
+      </div>
       ${album.album_art ? `<img class="album-art" src="${album.album_art}" alt="Album Art">` : ""}
       <div class="album-name">“${album.Album}”</div>
       <div class="album-artist">${album.Artist}</div>
-      <div class="album-meta"> ${dateDisplay}</div>
-      <div class="album-meta"> ${album.genre || "Unknown Genre"}</div>
+      <div class="album-meta">${dateDisplay}</div>
+      <div class="album-meta">${album.genre || "Unknown Genre"}</div>
     `;
 
-    // ==== Insert progress bar ====
+    // === PROGRESS BAR ===
     document.getElementById('progress-container').innerHTML = `
       <div class="progress-label">ALBUM # ${row}</div>
       <div class="progress-bar">
         <div class="progress-fill" style="width: ${pct}%;"></div>
       </div>
     `;
-  });
 
+    // === UP NEXT SECTION (row - 1) ===
+    fetch(`next_album.json?t=${Date.now()}`)
+      .then(r => r.json())
+      .then(next => {
+        if (!next || !next.Album) return;
+
+        document.getElementById("upnext").innerHTML = `
+          <div class="upnext-label">UP NEXT</div>
+          <div class="upnext-name">“${next.Album}”</div>
+          <div class="upnext-artist">${next.Artist}</div>
+        `;
+      })
+      .catch(() => {
+        document.getElementById("upnext").innerHTML = "";
+      });
+
+  })  
+  .catch(err => {
+    console.error("Error loading album.json:", err);
+    document.getElementById("content").innerHTML =
+      `<div class="error">Unable to load album.json</div>`;
+  });
 </script>
 
 

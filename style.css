@@ -27,6 +27,12 @@ p {
   color: #ddd;
   max-width: 750px;
   margin: 0 auto 10px;
+  text-align: left !important;
+}
+
+a {
+  color: #c783ff;
+  text-decoration: none;
 }
 
 /* ===============================
@@ -150,6 +156,18 @@ p {
   to   { opacity: 1; transform: translateY(0); }
 }
 
+.pulse-emoji {
+  display: inline-block;
+  animation: pulse 2.5s ease-in-out infinite;
+  transform-origin: center;
+}
+
+@keyframes pulse {
+  0%   { transform: scale(1); opacity: 0.9; }
+  50%  { transform: scale(1.2); opacity: 1; }
+  100% { transform: scale(1); opacity: 0.9; }
+}
+
 /* ===============================
    PROGRESS BAR
    =============================== */
@@ -244,7 +262,7 @@ p {
 
 /* Desktop table (unchanged) */
 table {
-  width: 90%;
+  width: 100%;
   max-width: 900px;
   margin: 0 auto;
   border-collapse: collapse;
@@ -313,4 +331,33 @@ tr:hover {
   .album-artist {
     font-size: 1.25em;
   }
+}
+
+/* ================================
+   UP NEXT STYLES
+================================ */
+#upnext {
+  margin-top: 25px;
+  margin-bottom: 20px;
+  text-align: center;
+  animation: fadeIn 1s ease-out;
+}
+
+.upnext-label {
+  font-size: 1.1em;
+  color: #aaa;
+  letter-spacing: 1px;
+  margin-bottom: 4px;
+}
+
+.upnext-name {
+  font-size: 1.45em;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 2px;
+}
+
+.upnext-artist {
+  font-size: 1.2em;
+  color: #ccc;
 }

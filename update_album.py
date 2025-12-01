@@ -65,3 +65,30 @@ print(f"Listening started: {current_date}")
 # --- Write back updated CSV ---
 df.to_csv(csv_file, index=False, encoding="latin-1")
 print(f"CSV updated: {csv_file}")
+
+if row_number > 1:
+    next_row = df.iloc[row_number - 2]  # previous row
+
+    next_album_dict = {
+        "row_number": int(next_row.get("#", 0)),
+        "Album": next_row.get("Album", "Unknown"),
+        "Artist": next_row.get("Artist", "Unknown"),
+        "release_date": next_row.get("release_date", ""),
+        "genre": next_row.get("genre", ""),
+        "album_art": next_row.get("album_art", "")
+    }
+
+    with open("next_album.json", "w", encoding="utf-8") as f:
+        json.dump(next_album_dict, f, indent=2, ensure_ascii=False)
+
+    print(f"next_album.json updated (up next: {next_album_dict['Album']} — {next_album_dict['Artist']})")
+
+else:
+    # If row_number == 1, no "previous" album exists
+    if os.path.exists("next_album.json"):
+        os.remove("next_album.json")
+    print("No next album (row_number = 1). Removed next_album.json if it existed.")
+
+# --- Write back updated CSV ---
+df.to_csv(csv_file, index=False, encoding="latin-1")
+print(f"CSV updated: {csv_file}")
