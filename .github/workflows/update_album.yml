@@ -25,5 +25,6 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add album.json
+          git add next_album.json
           git commit -m "Update album to row ${{ github.event.inputs.row_number }}" || echo "No changes"
           git push
