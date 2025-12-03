@@ -47,7 +47,7 @@ album_row = df.iloc[row_number - 1]
 album_dict = {
     "row_number": int(album_row.get("#", 0)),
     "Album": album_row.get("Album", "Unknown"),
-    "Artist": album_row.get("Artist", "Unknown"),
+    "Artist": album_row.get("artist", "Unknown"),
     "release_date": album_row.get("release_date", ""),
     "genre": album_row.get("genre", ""),
     "album_art": album_row.get("album_art", ""),
@@ -72,7 +72,7 @@ if row_number > 1:
     next_album_dict = {
         "row_number": int(next_row.get("#", 0)),
         "Album": next_row.get("Album", "Unknown"),
-        "Artist": next_row.get("Artist", "Unknown"),
+        "Artist": next_row.get("artist", "Unknown"),
         "release_date": next_row.get("release_date", ""),
         "genre": next_row.get("genre", ""),
         "album_art": next_row.get("album_art", "")
