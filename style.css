@@ -298,6 +298,18 @@ tr:hover {
   font-size: 1.05em;
 }
 
+table th:nth-child(2),
+table td:nth-child(2) {
+  width: 200px;          /* adjust as needed */
+  text-align: center;
+}
+table th:nth-child(3),
+table td:nth-child(3) {
+  width: 120px;          /* adjust as needed */
+  text-align: center;
+}
+
+
 /* ===============================
    RESPONSIVE DESIGN
    =============================== */
